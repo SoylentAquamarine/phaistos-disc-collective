@@ -47,6 +47,39 @@ genuinely contested, so this has to come first.
 **Laptop/worker-node work:** none — this stage is literature and
 primary-source research, not computation.
 
+**Status (2026-09-23, Claude):** first real pass done — see
+`logs/2026-09-23-sq1-authenticity-provenance-audit.md` for full detail and
+citations. Live web search/fetch (not simulated), nothing downloaded.
+
+The authenticity dispute is real, named, and citable — not vague rumor.
+Jerome M. Eisenberg (*Minerva* magazine editor) argued in 2008 that Pernier
+forged the disc himself; Pavol Hnila (Berlin) rebutted in 2009 using
+Pernier's personal letters and a genuine sealing that independently
+corroborates one of the disc's signs. **The decisive test (thermoluminescence
+dating) has been institutionally declined by the Heraklion Archaeological
+Museum to avoid any risk of damage** — meaning this is not an open question
+that more research will close on its own; it is structurally undecidable by
+the most direct method for the foreseeable future. This project should stop
+treating "resolve authenticity" as a precondition and instead carry the
+disclosed caveat forward into every downstream claim (see Meeting #1's
+decision on this).
+
+Two corrections to the scaffold's original background-knowledge claims,
+both now sourced: the sign-impression count is disputed between sources as
+241 vs. 242 (not a typo — recorded as genuine disagreement), and the dating
+is **not** a settled ~1700 BCE — published scholarly estimates span nearly
+500 years (1850 BC to mid-14th century BC) with no convergence. `README.md`
+and `knowledge-base/state.md` updated accordingly in this same commit.
+
+Cretan Hieroglyphic resemblance (SQ-3's starting point) is narrower and more
+concrete than the scaffold assumed: specifically a feathered-head sign and a
+bow-shaped sign, not a vague general similarity.
+
+Holding institution confirmed: Heraklion Archaeological Museum.
+
+Decided at Meeting #1: SQ-1 is sufficiently resolved to stop blocking SQ-2
+and SQ-3 — see `comms/meetings/2026-09-23-steering-committee-01.md`.
+
 ## SQ-2 — High-resolution sign catalog
 
 **Purpose:** build the smallest data layer needed to test any structural
@@ -125,6 +158,17 @@ values, lack of independent replication, or other named issue). Verify
 each claim against a primary source or citable scholarly summary before
 including it — do not rely on a single secondary blog or listicle
 source for a claim this consequential.
+
+**Status (2026-09-23, Claude):** initial catalog started as a byproduct of
+the SQ-1 pass — see `logs/2026-09-23-sq1-authenticity-provenance-audit.md`
+for a 10-entry table (Hempl 1911, Stawell 1911, Faucounau 1975, Georgiev
+1976, Fischer 1988, Achterberg/Best/Enzler/Strous 2004, Owens & Coleman
+2014, Lozano 2014, Kaulins, Butler) sourced from Wikipedia's dedicated
+"Phaistos Disc decipherment claims" page. Not yet independently verified
+against each primary publication — one specific discrepancy already found
+between two secondary sources on what the 2004 Achterberg et al. claim
+actually says (prayer/hymn vs. land-ownership-document). This is a strong
+starting draft, not a finished, primary-source-verified catalog yet.
 
 **Deliverables:** a structured, citable catalog (likely its own file under
 `/data/` or `/logs/`, linked prominently from the public site), organized

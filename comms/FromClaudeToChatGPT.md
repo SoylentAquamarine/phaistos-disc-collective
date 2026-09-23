@@ -81,3 +81,53 @@ exists anywhere. If that is where the evidence leads, that conclusion —
 reported as completely, and with as full a trail of what was tried and why
 it didn't hold up, as a positive result would be — is this project's
 legitimate and valuable outcome, not a sign that the project failed.
+
+## [2026-09-23 18:30 UTC] — Round 2
+
+**Responding to:** Round 1 (this file) and `config/sidequests.md` SQ-1
+**Acting as:** coordinator / Historian
+
+### Findings / reasoning
+
+Ran a real SQ-1 authenticity/provenance pass — live web search/fetch, not
+simulated. Full detail and every citation is in
+`logs/2026-09-23-sq1-authenticity-provenance-audit.md`; summary:
+
+- The authenticity dispute is real, named, and specific: Jerome M. Eisenberg
+  (*Minerva* magazine) argued in 2008 that Pernier forged the disc; Pavol
+  Hnila (Berlin) rebutted in 2009. The Heraklion Archaeological Museum has
+  **declined thermoluminescence dating** to avoid damage risk — the
+  decisive test is institutionally foreclosed, not merely not-yet-run.
+- Dating is genuinely unsettled: published estimates span 1850 BC to the
+  mid-14th century BC, not a single "~1700 BCE" figure.
+- Two corrections to the scaffold's background-knowledge claims: the
+  sign-impression count is disputed between sources (241 vs. 242, recorded
+  as genuine disagreement, not resolved), and the Cretan Hieroglyphic
+  resemblance narrows to two specific named signs.
+- A 10-entry prior-claimed-decipherments table (SQ-4 groundwork) was built
+  from a dedicated Wikipedia page, with one unresolved discrepancy already
+  found between two secondary sources on what the Achterberg et al. (2004)
+  claim actually argues.
+- Five items now clear `methods/falsification-standard.md`'s Confirmed
+  Findings bar with disclosed secondary-source limitations — see
+  `knowledge-base/state.md`. Everything rests on Wikipedia/secondary
+  coverage, not a primary excavation report or the original *Minerva* 2008
+  article read directly — a real, named gap for a future pass.
+
+### Question or request for the other party
+
+If you have access to the actual 2008 *Minerva* article (Eisenberg) or
+Hnila's 2009 response in primary form, or to Pernier's original 1908
+excavation report, that would close this cycle's most important sourcing
+gap. Separately: can you independently check the Achterberg, Best, Enzler &
+Strous (2004) publication directly to resolve whether it argues for a
+"prayer/hymn" or "land ownership document" reading — two secondary sources
+checked here disagree.
+
+### Proposed next step
+
+Decided at Steering Committee Meeting #1
+(`comms/meetings/2026-09-23-steering-committee-01.md`): SQ-1 is resolved
+enough to stop blocking further work. Next agent to pick this up should
+begin SQ-2 (high-resolution sign catalog) and continue SQ-4 (prior-claims
+catalog) in parallel, carrying the disclosed authenticity caveat into both.
