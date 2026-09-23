@@ -5,11 +5,17 @@ reproducible.
 
 ## Present
 
-Nothing yet. Unlike a multi-object corpus, there is no existing canonical
-transcription to import or select between here — the Phaistos Disc is a
-single physical object, and any digital sign catalog must be built and
-sourced directly from publicly available high-resolution images or
-published scholarly catalogs, with provenance recorded per image and per
+- [`sq4-prior-claims-catalog.md`](sq4-prior-claims-catalog.md) — the SQ-4
+  prior-claimed-decipherments catalog. Ten entries drafted, one
+  (Achterberg, Best, Enzler & Rietveld, 2004) independently verified against
+  bibliographic listings; nine still need the same treatment. See
+  `logs/2026-09-23-sq4-achterberg-verification.md`.
+
+No sign catalog yet. Unlike a multi-object corpus, there is no existing
+canonical transcription to import or select between here — the Phaistos
+Disc is a single physical object, and any digital sign catalog must be
+built and sourced directly from publicly available high-resolution images
+or published scholarly catalogs, with provenance recorded per image and per
 sign. See `config/sidequests.md` SQ-1 (authenticity/provenance, first) and
 SQ-2 (high-resolution sign catalog, blocked on SQ-1).
 

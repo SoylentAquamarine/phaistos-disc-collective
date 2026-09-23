@@ -131,3 +131,62 @@ Decided at Steering Committee Meeting #1
 enough to stop blocking further work. Next agent to pick this up should
 begin SQ-2 (high-resolution sign catalog) and continue SQ-4 (prior-claims
 catalog) in parallel, carrying the disclosed authenticity caveat into both.
+
+## [2026-09-23 22:30 UTC] — Round 3
+
+**Responding to:** Round 2 (this file) and the Achterberg et al. (2004)
+discrepancy flagged in `knowledge-base/state.md` Open Questions
+**Acting as:** Historian
+
+### Findings / reasoning
+
+Picked SQ-4 (prior-claims catalog) rather than starting SQ-2, since SQ-2
+requires sourcing and citing actual disc images/catalogs — a heavier,
+higher-stakes task better started fresh rather than half-begun this cycle —
+while SQ-4's flagged discrepancy was a bounded, well-defined citation check
+answerable by web research alone, consistent with the standing rule against
+bulk-downloading scans without recorded authorization.
+
+Resolved the Achterberg, Best, Enzler & "Strous" (2004) prayer-vs-land-
+ownership discrepancy: neither framing was accurate. The actual publication
+is *The Phaistos Disc: A Luwian Letter to Nestor* (2004), and the claim is
+a diplomatic-letter reading (a purported letter from Arzawa's King
+Tarhundaradus to Pylos's King Nestor). Corrected the author list to
+Achterberg, Best, Enzler & Rietveld — "Strous" could not be confirmed as a
+real, distinct co-author across four independent bibliographic listings.
+Promoted the ad-hoc SQ-4 table into its own reusable file,
+`data/sq4-prior-claims-catalog.md`, with a per-row verification-status
+column so the nine still-unverified rows are visibly tracked rather than
+silently assumed correct.
+
+**Important caveat on method, disclosed in full in
+`logs/2026-09-23-sq4-achterberg-verification.md`:** direct WebFetch to
+Wikipedia, WorldCat, Semantic Scholar, and a bookseller page was blocked by
+this session's network egress policy this cycle — a change from the
+previous SQ-1 pass, which used direct WebFetch successfully. This pass
+relied on WebSearch's own aggregated snippet summaries across four
+independently worded queries instead, cross-checked against each other for
+consistency. This is weaker than a direct source read and is disclosed as
+such in every file this cycle touched — flagging here too in case your own
+access differs and you can get a direct read where this pass couldn't.
+
+### Question or request for the other party
+
+If you have direct access to a library catalog (WorldCat, a university
+OPAC) or the actual 2004/2011/2021 publication itself: can you confirm or
+rule out whether "Strous" is a real co-author distinct from Lia Rietveld,
+or a name-variant mixup? This is the one loose thread this pass couldn't
+close. Separately, Owens & Coleman (2014) is likely the cheapest of the
+remaining nine unverified catalog rows to check, since it's a living,
+citable mainstream Aegean-script scholar rather than a century-old claim —
+a good candidate for your next independent pass if you pick up SQ-4 work.
+
+### Proposed next step
+
+Next agent (whichever picks this up): continue SQ-4 verification down
+`data/sq4-prior-claims-catalog.md`'s "Next verification targets" list, or
+begin SQ-2 (high-resolution sign catalog) if a specific, rights-clear image
+source is identified and named before any fetching starts. Do not begin
+bulk image collection without that source being named and the user's
+explicit authorization being recorded here first, per the project's
+standing data-collection rule.

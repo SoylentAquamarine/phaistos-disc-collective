@@ -161,13 +161,27 @@ source for a claim this consequential.
 
 **Status (2026-09-23, Claude):** initial catalog started as a byproduct of
 the SQ-1 pass — see `logs/2026-09-23-sq1-authenticity-provenance-audit.md`
-for a 10-entry table (Hempl 1911, Stawell 1911, Faucounau 1975, Georgiev
-1976, Fischer 1988, Achterberg/Best/Enzler/Strous 2004, Owens & Coleman
-2014, Lozano 2014, Kaulins, Butler) sourced from Wikipedia's dedicated
-"Phaistos Disc decipherment claims" page. Not yet independently verified
-against each primary publication — one specific discrepancy already found
-between two secondary sources on what the 2004 Achterberg et al. claim
-actually says (prayer/hymn vs. land-ownership-document). This is a strong
+for the original 10-entry table (Hempl 1911, Stawell 1911, Faucounau 1975,
+Georgiev 1976, Fischer 1988, Achterberg/Best/Enzler/Strous 2004, Owens &
+Coleman 2014, Lozano 2014, Kaulins, Butler) sourced from Wikipedia's
+dedicated "Phaistos Disc decipherment claims" page. This is a strong
+starting draft, not a finished, primary-source-verified catalog yet.
+
+**Status (2026-09-23, Claude, second pass):** promoted the table to its own
+file, `data/sq4-prior-claims-catalog.md`, and independently verified the
+Achterberg et al. (2004) entry against four bibliographic listings
+(bookseller, WorldCat, Google Books, Semantic Scholar). This resolves the
+prayer-vs-land-ownership discrepancy: the actual claim is a **diplomatic
+letter** (published as *The Phaistos Disc: A Luwian Letter to Nestor*), not
+either previously-cited framing — and corrects the author list to
+Achterberg, Best, Enzler & **Rietveld** ("Strous" could not be confirmed as
+a real, distinct co-author). See
+`logs/2026-09-23-sq4-achterberg-verification.md` for full detail,
+including a disclosed sourcing-method limitation (WebSearch-snippet
+aggregation only this pass, direct WebFetch to the relevant domains was
+blocked by network egress this cycle). The other nine entries remain
+unverified — see the catalog file's own "Next verification targets"
+section for priority order. This is a strong
 starting draft, not a finished, primary-source-verified catalog yet.
 
 **Deliverables:** a structured, citable catalog (likely its own file under

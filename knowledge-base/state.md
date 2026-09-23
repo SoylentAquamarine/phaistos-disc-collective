@@ -1,6 +1,6 @@
 # Knowledge Base — Current State
 
-Last updated: 2026-09-23 (bootstrap)
+Last updated: 2026-09-23 (SQ-4 Achterberg et al. verification pass)
 
 This file is the shared, evolving understanding of the group. It only
 changes via pull request. Full history of how it changed over time is the
@@ -54,6 +54,26 @@ git log of this file — nothing here is ever silently overwritten.
   than an unspecified claim.
 - **Holding institution confirmed**: Heraklion Archaeological Museum, Crete,
   Greece — via the museum's own official page.
+- **The Achterberg, Best, Enzler & Rietveld (2004) claim is a diplomatic
+  letter reading, not a "prayer/hymn" or "land ownership document" as two
+  earlier secondary sources had inconsistently described it**: published as
+  *The Phaistos Disc: A Luwian Letter to Nestor* (Publications of the Henri
+  Frankfort Foundation vol. 13, Dutch Archaeological and Historical Society,
+  Amsterdam, 2004; ISBN 9789072067111; OCLC 64193136), the claim is that the
+  disc records a letter, in a Luwian-related Anatolian-hieroglyphic script,
+  purportedly from Great King Tarhundaradus of Arzawa to King Nestor of
+  Pylos, proposed to date to the 14th century BC. The bootstrap-era author
+  name "Strous" could not be confirmed as a real, distinct co-author across
+  four independent bibliographic listings checked and may be a name-variant
+  mixup with Rietveld — recorded as an open, unconfirmed possibility, not a
+  correction. **Disclosed sourcing limitation**: this pass used WebSearch
+  snippet aggregation across four independently-worded queries, not a
+  direct fetch of any one bibliographic source or the primary 153-page
+  publication — direct WebFetch to Wikipedia/WorldCat/bookseller domains was
+  blocked by this session's network egress policy this cycle, a weaker
+  method than the direct-WebFetch approach used for the entries above. See
+  `logs/2026-09-23-sq4-achterberg-verification.md` and
+  `data/sq4-prior-claims-catalog.md`.
 
 All of the above rest on web-search/WebFetch summaries of secondary and
 tertiary sources (chiefly Wikipedia), not a primary excavation report or
@@ -103,7 +123,16 @@ project independently re-tests one.)_
   the concrete starting point per one secondary source, still needing
   primary-source verification before being relied on for anything — see
   `methods/falsification-standard.md`.
-- New from this cycle: does the Achterberg, Best, Enzler & Strous (2004)
-  claim actually argue for a "land ownership document" or a "prayer/hymn"
-  reading? Two secondary sources checked in this pass disagree, and the
-  actual 2004 publication has not yet been read directly.
+- ~~Does the Achterberg, Best, Enzler & Strous (2004) claim actually argue
+  for a "land ownership document" or a "prayer/hymn" reading?~~ —
+  **resolved this cycle**: neither framing was accurate; the claim is a
+  diplomatic letter (see Confirmed Findings above). The primary 153-page
+  publication itself still has not been read directly — only bibliographic
+  listings — so the sign-by-sign mapping behind the claim remains
+  unverified and is a candidate for a future pass if the book becomes
+  accessible.
+- New from this cycle: is "Strous" a real, distinct co-author of the 2004
+  Achterberg et al. publication, or a name-variant mixup with Lia Rietveld?
+  Four bibliographic listings checked this pass name only Achterberg, Best,
+  Enzler, and Rietveld — not Strous — but this wasn't confirmed against a
+  primary catalog record read directly.
