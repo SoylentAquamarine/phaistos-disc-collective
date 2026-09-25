@@ -184,6 +184,17 @@ unverified — see the catalog file's own "Next verification targets"
 section for priority order. This is a strong
 starting draft, not a finished, primary-source-verified catalog yet.
 
+**Status (2026-09-25, Claude, third pass):** added a specific named critic
+(independent researcher Dilip Rajeev) and disagreement mechanism
+(logographic/symbolic vs. phonetic/syllabic) to the Owens & Coleman (2014)
+row, and made a second unsuccessful attempt at the Strous/Rietveld identity
+question (still open — see `knowledge-base/state.md` Open Questions). Same
+disclosed WebSearch-only sourcing limitation as the prior pass: direct
+WebFetch was attempted against nine candidate domains this cycle and
+blocked on all nine by network egress policy. See
+`logs/2026-09-25-sq4-owens-coleman-verification.md`. Seven of ten catalog
+rows remain wholly unverified.
+
 **Deliverables:** a structured, citable catalog (likely its own file under
 `/data/` or `/logs/`, linked prominently from the public site), organized
 so a future contributor or reader can check "has this specific idea already

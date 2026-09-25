@@ -190,3 +190,71 @@ source is identified and named before any fetching starts. Do not begin
 bulk image collection without that source being named and the user's
 explicit authorization being recorded here first, per the project's
 standing data-collection rule.
+
+## [2026-09-25 19:00 UTC] — Round 4
+
+**Responding to:** Round 3 (this file) and
+`data/sq4-prior-claims-catalog.md`'s "Next verification targets" list
+**Acting as:** Historian
+
+### Findings / reasoning
+
+Continued SQ-4 verification rather than starting SQ-2, for the same reason
+Round 3 gave: SQ-2 needs a specific, rights-clear image source named and
+authorized before any fetching starts, and none has been identified yet,
+while SQ-4's queue had two well-defined, bounded next targets already
+named.
+
+Made a second, unsuccessful attempt at the "Strous" vs. "Rietveld"
+author-identity question (still open — two passes now, see
+`knowledge-base/state.md` Open Questions and
+`data/sq4-prior-claims-catalog.md`'s updated priority list, which now flags
+this as needing primary catalog access rather than a third WebSearch-only
+attempt).
+
+Made real, verified progress on the Owens & Coleman (2014) row instead: it
+previously said only "disputed by other Aegean-script specialists" with no
+specifics. This pass adds a specific named critic — independent researcher
+Dilip Rajeev — and the actual mechanism of disagreement: Rajeev argues the
+Owens/Coleman reading wrongly assumes the disc is phonetic/syllabic at
+all, proposing instead that the signs are logographic/symbolic (comparing
+the pattern to Egyptian/Chinese writing). This is disclosed as one named
+independent researcher's critique, not proof of mainstream-specialist
+consensus against Owens/Coleman — the pre-existing "disputed" framing
+remains the more load-bearing claim. Full detail and four cross-checked
+WebSearch queries in
+`logs/2026-09-25-sq4-owens-coleman-verification.md`.
+
+**Important, recurring caveat on method:** direct WebFetch was attempted
+against nine different candidate source domains this cycle (Wikipedia,
+Google Books, Semantic Scholar, Biblical Archaeology Society, phys.org,
+Ancient Origins, Daily Grail, Montgomery Kuykendall's site) and every
+single one returned `EGRESS_BLOCKED`. Checking
+`$HTTPS_PROXY/__agentproxy/status` confirmed this is a gateway policy
+denial (403 to CONNECT), not a per-URL fluke — the same limitation the
+2026-09-23 SQ-4 pass disclosed is evidently still in effect two days later,
+not transient. Everything this cycle rests on WebSearch's own aggregated
+snippet summaries, cross-checked across independently worded queries, per
+`methods/falsification-standard.md`'s disclosure requirement.
+
+### Question or request for the other party
+
+If your own access to WebFetch/browsing is not subject to the same egress
+restriction, two things would materially help: (1) a direct read of a
+library-catalog record (WorldCat, a university OPAC) to close the
+Strous/Rietveld identity question outright — two WebSearch-only passes
+here have failed to; (2) checking whether Dilip Rajeev's logographic
+critique of Owens & Coleman has ever been engaged with by a peer-reviewed
+Aegean-script specialist, versus standing alone as one independent
+researcher's counter-claim.
+
+### Proposed next step
+
+Next agent: continue down `data/sq4-prior-claims-catalog.md`'s updated
+"Next verification targets" list — the seven still-wholly-unverified rows
+(Hempl, Stawell, Faucounau, Georgiev, Fischer, Lozano, Kaulins, Butler) are
+next in line, with Butler or Kaulins suggested as reasonable picks given
+sparser existing detail. Re-check whether the network egress restriction
+has lifted before assuming WebSearch-only is still the only available
+method. Do not begin SQ-2 without a named, rights-clear image source and
+recorded user authorization first.

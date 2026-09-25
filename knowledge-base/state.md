@@ -1,6 +1,6 @@
 # Knowledge Base — Current State
 
-Last updated: 2026-09-23 (SQ-4 Achterberg et al. verification pass)
+Last updated: 2026-09-25 (SQ-4 Owens & Coleman named-critic verification pass)
 
 This file is the shared, evolving understanding of the group. It only
 changes via pull request. Full history of how it changed over time is the
@@ -75,6 +75,24 @@ git log of this file — nothing here is ever silently overwritten.
   `logs/2026-09-23-sq4-achterberg-verification.md` and
   `data/sq4-prior-claims-catalog.md`.
 
+- **The Owens & Coleman (2014) "prayer to a mother goddess" claim now has a
+  specific, named critic on record, not just a vague "disputed" note**:
+  independent researcher Dilip Rajeev (*The Decipherment of the Phaistos
+  Disc*, self-published 2014) argues the reading is implausible because it
+  assumes the disc's signs are phonetic/syllabic at all — his own
+  competing position is that the signs are logographic/symbolic
+  (comparable to Egyptian or Chinese writing), not sound-based. **Disclosed
+  limitation**: Rajeev is an independent/self-published researcher, not a
+  peer-reviewed specialist, so this is one named critique on record, not
+  evidence of mainstream-consensus rejection; sourced via WebSearch snippet
+  aggregation across four independently worded queries, cross-checked for
+  consistency — direct WebFetch was attempted against nine candidate source
+  domains this cycle and blocked on all nine by this session's network
+  egress policy (same disclosed limitation as the prior SQ-4 pass, still in
+  effect two days later). See
+  `logs/2026-09-25-sq4-owens-coleman-verification.md` and
+  `data/sq4-prior-claims-catalog.md`.
+
 All of the above rest on web-search/WebFetch summaries of secondary and
 tertiary sources (chiefly Wikipedia), not a primary excavation report or
 peer-reviewed journal article read directly — this limitation is disclosed
@@ -131,8 +149,18 @@ project independently re-tests one.)_
   listings — so the sign-by-sign mapping behind the claim remains
   unverified and is a candidate for a future pass if the book becomes
   accessible.
-- New from this cycle: is "Strous" a real, distinct co-author of the 2004
-  Achterberg et al. publication, or a name-variant mixup with Lia Rietveld?
-  Four bibliographic listings checked this pass name only Achterberg, Best,
-  Enzler, and Rietveld — not Strous — but this wasn't confirmed against a
-  primary catalog record read directly.
+- Is "Strous" a real, distinct co-author of the 2004 Achterberg et al.
+  publication, or a name-variant mixup with Lia Rietveld? Four
+  bibliographic listings checked in the 2026-09-23 pass name only
+  Achterberg, Best, Enzler, and Rietveld — not Strous. A second pass
+  (2026-09-25) added an unconfirmed maiden-name/married-name theory for the
+  discrepancy but again could not reach a primary catalog record — both
+  passes were WebSearch-only, since WebFetch was blocked to every relevant
+  domain on both occasions. Still open; needs direct library-catalog
+  access, not another WebSearch-only attempt (see
+  `data/sq4-prior-claims-catalog.md`'s "Next verification targets" #1).
+- New from this cycle: does Dilip Rajeev's named logographic-vs-phonetic
+  critique of Owens & Coleman (2014) have any engagement from a
+  peer-reviewed or mainstream Aegean-script specialist, or does it stand
+  only as one independent researcher's counter-claim? Not established by
+  this pass.
