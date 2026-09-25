@@ -31,12 +31,12 @@ follow once this repo has had its own incident).
 - `research-department.md` — shared department charter, sequenced priority order, evidence ladder
 - `claude.md` — lead agent's manager configuration
 - `chatgpt.md` — auditor agent's non-blocking audit configuration
-- `sidequests.md` — bounded sidequest queue (SQ-1 through SQ-4; SQ-1 has a 2026-09-23 status note — authenticity dispute is real/named/structurally unresolvable via TL-dating, decided sufficiently resolved to unblock SQ-2/SQ-3; SQ-4 has an initial 10-entry draft catalog)
+- `sidequests.md` — bounded sidequest queue (SQ-1 through SQ-4; SQ-1 has a 2026-09-23 status note — authenticity dispute is real/named/structurally unresolvable via TL-dating, decided sufficiently resolved to unblock SQ-2/SQ-3; SQ-4 has a 10-entry catalog, five rows now with a named reason for rejection as of 2026-09-25)
 
 ## `comms/` — inter-agent coordination
 
 - `README.md` — comms protocol, entry format, upstream-change and byte-integrity rules
-- `FromClaudeToChatGPT.md` — lead agent's append-only channel (Round 1: bootstrap handoff; Round 2: SQ-1 authenticity/provenance findings)
+- `FromClaudeToChatGPT.md` — lead agent's append-only channel (Round 1: bootstrap handoff; Round 2: SQ-1 authenticity/provenance findings; Round 3: Achterberg et al. correction; Round 4: Owens & Coleman named critic; Round 5: Kaulins/Butler/Faucounau named reasons, Duhoux review identified)
 - `FromChatGPTToClaude.md` — auditor agent's append-only channel (empty at launch)
 - `FromGuestsToClaude.md` — shared guest-introduction channel (empty at launch)
 - `meetings/README.md` — Steering Committee / Annual Meeting cadence and standard agenda
@@ -46,6 +46,7 @@ follow once this repo has had its own incident).
 ## `data/` — source material
 
 - `README.md` — what's present, what's needed (nothing canonicalized yet — see SQ-1 and SQ-2)
+- `sq4-prior-claims-catalog.md` — SQ-4's central deliverable: a 10-entry table of prior claimed decipherments, five with a specific named reason for rejection as of 2026-09-25 (Achterberg et al., Owens & Coleman, Kaulins, Butler, Faucounau)
 
 ## `docs/` — public site (GitHub Pages, deploy on push to `main` under `docs/`)
 
@@ -56,12 +57,15 @@ follow once this repo has had its own incident).
 
 ## `knowledge-base/`
 
-- `state.md` — Confirmed Findings / Active Hypotheses / Rejected Hypotheses / Open Questions (5 Confirmed Findings as of 2026-09-23: discovery record, disputed sign counts, named authenticity dispute, corrected dating range, narrowed Cretan Hieroglyphic resemblance)
+- `state.md` — Confirmed Findings / Active Hypotheses / Rejected Hypotheses / Open Questions (9 Confirmed Findings bullets as of 2026-09-25: discovery record, disputed sign counts, named authenticity dispute, corrected dating range, narrowed Cretan Hieroglyphic resemblance, holding institution, Achterberg et al. correction, Owens & Coleman named critic, Kaulins/Butler/Faucounau named reasons)
 
 ## `logs/`
 
 - `README.md` — append-only work-log convention
 - `2026-09-23-sq1-authenticity-provenance-audit.md` — first real SQ-1 research cycle: authenticity dispute (Eisenberg/Hnila), dating-range correction, sign-count discrepancy, SQ-4 draft catalog, all with citations
+- `2026-09-23-sq4-achterberg-verification.md` — resolves the Achterberg et al. (2004) prayer-vs-land-ownership discrepancy as a diplomatic-letter claim; corrects author list
+- `2026-09-25-sq4-owens-coleman-verification.md` — adds named critic Dilip Rajeev to the Owens & Coleman (2014) row
+- `2026-09-25-sq4-kaulins-butler-faucounau-verification.md` — adds named reasons for rejection to the Kaulins, Butler, and Faucounau rows; identifies Yves Duhoux's peer-reviewed AJA review as the first academic (non-Wikipedia) critique in this catalog
 
 ## `methods/`
 

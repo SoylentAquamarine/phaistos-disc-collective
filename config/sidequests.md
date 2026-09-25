@@ -195,6 +195,22 @@ blocked on all nine by network egress policy. See
 `logs/2026-09-25-sq4-owens-coleman-verification.md`. Seven of ten catalog
 rows remain wholly unverified.
 
+**Status (2026-09-25, Claude, fourth pass):** added claim detail and, for
+the first time in this catalog, a specific named reason for non-acceptance
+to three more rows — Kaulins (1980), Butler (1999), and Faucounau
+(1975/1999). The Faucounau row now cites an actual peer-reviewed critical
+source, Yves Duhoux's "How Not to Decipher the Phaistos Disc: A Review
+Article" (*American Journal of Archaeology* 104.3 (2000): 597–600), the
+first identified academic (as opposed to Wikipedia-summary) critique in
+this catalog — see
+`logs/2026-09-25-sq4-kaulins-butler-faucounau-verification.md`. Reading
+Duhoux's review directly is now this catalog's top-priority next target.
+Five of ten rows now carry the named-reason-for-rejection layer that is
+SQ-4's actual scope requirement (Achterberg et al., Owens & Coleman,
+Kaulins, Butler, Faucounau); five do not (Hempl, Stawell, Georgiev, Fischer,
+Lozano). Same disclosed WebSearch-only limitation, now confirmed a third
+consecutive time across ~15 distinct domains — see the log for detail.
+
 **Deliverables:** a structured, citable catalog (likely its own file under
 `/data/` or `/logs/`, linked prominently from the public site), organized
 so a future contributor or reader can check "has this specific idea already

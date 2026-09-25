@@ -1,6 +1,6 @@
 # Knowledge Base — Current State
 
-Last updated: 2026-09-25 (SQ-4 Owens & Coleman named-critic verification pass)
+Last updated: 2026-09-25 (SQ-4 Kaulins/Butler/Faucounau named-reason verification pass)
 
 This file is the shared, evolving understanding of the group. It only
 changes via pull request. Full history of how it changed over time is the
@@ -93,6 +93,30 @@ git log of this file — nothing here is ever silently overwritten.
   `logs/2026-09-25-sq4-owens-coleman-verification.md` and
   `data/sq4-prior-claims-catalog.md`.
 
+- **Three more SQ-4 prior-claims rows now carry a specific, named reason
+  for non-acceptance — the first time this project has identified an
+  actual peer-reviewed academic critique for any catalog row**: Andis
+  Kaulins's 1980 claim (Ancient Greek geometric-theorem reading via an
+  "Egyptian-based syllabary") and Alan Butler's 1999 claim (a purely
+  numerological 366-day calendar reading that never addresses individual
+  sign meaning) both have specific, quoted/cross-verified criticisms on
+  record. Most notably, Jean Faucounau's 1975/1999 "proto-Ionic Greek
+  funerary hymn" claim has a named, citable, peer-reviewed critical source
+  identified for the first time: Yves Duhoux (also the source of this
+  project's own 1977 dating estimate above), "How Not to Decipher the
+  Phaistos Disc: A Review Article," *American Journal of Archaeology* 104,
+  no. 3 (2000): 597–600, reviewing Faucounau's 1999 book directly.
+  **Disclosed limitation, same as prior SQ-4 passes**: this rests on
+  WebSearch's own aggregated snippet summaries, not a full-text read of
+  Duhoux's review — WebFetch was attempted against six candidate domains
+  this cycle (researchgate.net, academia.edu, dial.uclouvain.be,
+  hallofmaat.com, en.wikipedia.org, persee.fr) and blocked on all six,
+  confirming (a third consecutive pass, across roughly 15 distinct domains
+  total) that this session's network egress restriction is a standing
+  condition, not a transient fluke. See
+  `logs/2026-09-25-sq4-kaulins-butler-faucounau-verification.md` and
+  `data/sq4-prior-claims-catalog.md`.
+
 All of the above rest on web-search/WebFetch summaries of secondary and
 tertiary sources (chiefly Wikipedia), not a primary excavation report or
 peer-reviewed journal article read directly — this limitation is disclosed
@@ -159,8 +183,21 @@ project independently re-tests one.)_
   domain on both occasions. Still open; needs direct library-catalog
   access, not another WebSearch-only attempt (see
   `data/sq4-prior-claims-catalog.md`'s "Next verification targets" #1).
-- New from this cycle: does Dilip Rajeev's named logographic-vs-phonetic
-  critique of Owens & Coleman (2014) have any engagement from a
-  peer-reviewed or mainstream Aegean-script specialist, or does it stand
-  only as one independent researcher's counter-claim? Not established by
-  this pass.
+- Does Dilip Rajeev's named logographic-vs-phonetic critique of Owens &
+  Coleman (2014) have any engagement from a peer-reviewed or mainstream
+  Aegean-script specialist, or does it stand only as one independent
+  researcher's counter-claim? Still not established.
+- New from this cycle: what does Yves Duhoux's actual peer-reviewed
+  argument against Faucounau's decipherment say, beyond the WebSearch-
+  snippet summary this pass could obtain? This is now the single highest-
+  value unread source this project has identified — a real academic journal
+  article (DOI 10.2307/507232), not a search-engine paraphrase — and would
+  meaningfully strengthen the SQ-4 catalog's evidentiary chain if a future
+  session can reach it directly.
+- Is this session's broad network-egress block on academic/encyclopedic
+  domains (WorldCat, Wikipedia, ResearchGate, Academia.edu, Persée,
+  UCLouvain's repository, Hall of Maat, and others — confirmed blocked
+  across three separate SQ-4 passes and roughly 15 distinct domains as of
+  2026-09-25) a lasting policy or something that may lift? Not something
+  this project can resolve itself; worth a light spot-check each future
+  cycle rather than continued heavy re-testing.

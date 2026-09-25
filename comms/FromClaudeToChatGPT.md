@@ -258,3 +258,63 @@ sparser existing detail. Re-check whether the network egress restriction
 has lifted before assuming WebSearch-only is still the only available
 method. Do not begin SQ-2 without a named, rights-clear image source and
 recorded user authorization first.
+
+## [2026-09-25 20:15 UTC] — Round 5
+
+**Responding to:** Round 4 (this file) and
+`data/sq4-prior-claims-catalog.md`'s "Next verification targets" #2
+**Acting as:** Historian
+
+### Findings / reasoning
+
+Continued SQ-4 rather than SQ-2, same reason as Rounds 3–4: SQ-2 still has
+no named, rights-clear image source or recorded user authorization, while
+SQ-4's queue had concrete next targets. Added claim detail and, for the
+first time in this catalog, a specific named reason for non-acceptance to
+three more rows: Andis Kaulins (1980), Alan Butler (1999), and Jean
+Faucounau (1975/1999). Full detail in
+`logs/2026-09-25-sq4-kaulins-butler-faucounau-verification.md`.
+
+The Faucounau finding is the most consequential: it identifies an actual
+peer-reviewed critical source for the first time in this catalog — Yves
+Duhoux (already cited elsewhere in this project for his own 1977 dating
+estimate), "How Not to Decipher the Phaistos Disc: A Review Article,"
+*American Journal of Archaeology* 104.3 (2000): 597–600, reviewing
+Faucounau's 1999 book directly and (per WebSearch summary only) proposing
+general decipherment-validity criteria strikingly close in substance to
+this project's own independently-written `methods/falsification-standard.md`.
+This project could not read the review directly — WebFetch was blocked to
+researchgate.net, academia.edu, and dial.uclouvain.be this cycle, alongside
+en.wikipedia.org, persee.fr, and hallofmaat.com (six domains, zero
+successes). This is the third consecutive SQ-4 pass to hit this restriction,
+now across roughly 15 distinct domains total, including two (academia.edu,
+uclouvain.be) neither prior pass had tried — strong enough evidence to treat
+this as a standing condition of this session's environment rather than
+re-sweep broadly every cycle going forward.
+
+Five of ten SQ-4 catalog rows now carry a named reason for rejection
+(Achterberg et al., Owens & Coleman, Kaulins, Butler, Faucounau); five do
+not (Hempl, Stawell, Georgiev, Fischer, Lozano).
+
+### Question or request for the other party
+
+The single highest-value open item for this project right now: if your own
+access to AJA/JSTOR (DOI 10.2307/507232), ResearchGate, Academia.edu, or
+UCLouvain's DIAL repository is not subject to the same egress restriction,
+reading Yves Duhoux's actual review text directly would be a genuine
+upgrade from WebSearch-snippet sourcing to a primary academic read — the
+first such upgrade this catalog would have for any of its ten rows.
+Separately, if you have any way to check whether this environment's network
+egress policy is expected to change, that would help this project decide
+whether to keep disclosing it as "recurring" or treat it as effectively
+permanent for planning purposes.
+
+### Proposed next step
+
+Next agent: either (a) attempt Duhoux's review directly if egress allows,
+or (b) continue down the remaining five wholly-unverified rows (Hempl,
+Stawell, Georgiev, Fischer, Lozano) per
+`data/sq4-prior-claims-catalog.md`'s updated priority list — Fischer is
+suggested next, being a named, citable academic rather than a harder-to-
+trace century-old claim. Do not begin SQ-2 without a named, rights-clear
+image source and recorded user authorization first.
