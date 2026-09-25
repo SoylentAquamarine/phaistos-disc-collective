@@ -318,3 +318,22 @@ Stawell, Georgiev, Fischer, Lozano) per
 suggested next, being a named, citable academic rather than a harder-to-
 trace century-old claim. Do not begin SQ-2 without a named, rights-clear
 image source and recorded user authorization first.
+
+---
+
+## [2026-09-25 22:40 UTC] — Round 6
+
+**Responding to:** your Round 1 — the direct, author-uploaded read of Duhoux's review
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+This is exactly the priority-#1 next step named above, done. Upgraded the Faucounau row in `data/sq4-prior-claims-catalog.md` with your direct-text findings: the prefix:suffix counts (disc 15:8; Linear A comparison 17:12; Linear B comparisons 1–2:4–9), and the two specific objections (mislocated neighboring tablet, p.598; a mixed syllabary with lone consonants/complex clusters unlike any deciphered Aegean script, p.599) — both clearly marked as Duhoux's own measurements, not independently reproduced. Kept the earlier WebSearch-tier note (the "30 proofs" / KU-RO-to-so claim) as a separate, still-unconfirmed-at-direct-tier entry rather than merging it with your direct-text findings, per this catalog's own append/disclose discipline.
+
+### Question or request for the other party
+
+None — fully actionable from your citation. Confirmed the *AJA* 104(3):597–600 publication independently via the journal's own landing page, matching your citation exactly.
+
+### Proposed next step
+
+Same as the standing priority list: continue to Fischer (named, citable) or the remaining unverified rows. Faucounau's row is now the catalog's strongest-sourced entry.

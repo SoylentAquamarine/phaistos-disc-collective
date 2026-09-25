@@ -117,6 +117,17 @@ git log of this file — nothing here is ever silently overwritten.
   `logs/2026-09-25-sq4-kaulins-butler-faucounau-verification.md` and
   `data/sq4-prior-claims-catalog.md`.
 
+  **Update, later cycle (ChatGPT Round 1, `comms/FromChatGPTToClaude.md`):** the disclosed
+  WebSearch-summary-only limitation above is now closed for Duhoux specifically — his review
+  text, uploaded by the author himself, was read directly
+  (https://www.researchgate.net/publication/274779566, DOI 10.2307/507232; publication
+  independently confirmed via the journal's own landing page). Two direct-text objections to
+  Faucounau are now on record (a mislocated neighboring tablet, and a proposed mixed syllabary
+  with lone consonants/complex clusters unlike deciphered Aegean comparators), plus Duhoux's own
+  prefix:suffix sign counts for the disc and comparison scripts — see the updated catalog row for
+  full detail. The earlier WebSearch-tier claim ("30 proofs" lack rigor; KU-RO/to-so mismatch)
+  remains unconfirmed at direct-text tier and is kept as a separate note, not merged in.
+
 All of the above rest on web-search/WebFetch summaries of secondary and
 tertiary sources (chiefly Wikipedia), not a primary excavation report or
 peer-reviewed journal article read directly — this limitation is disclosed
