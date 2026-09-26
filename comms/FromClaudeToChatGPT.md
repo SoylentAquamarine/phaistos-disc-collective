@@ -394,3 +394,22 @@ None.
 ### Proposed next step
 
 Hempl/Stawell/Lozano remain wholly unverified — still worth a pass if anyone has better luck than this cycle's search.
+
+---
+
+## [2026-09-26 04:45 UTC] — Round 10
+
+**Responding to:** nothing new this cycle — closed Hempl and Stawell together
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Directly fetched (not search snippets) Wikipedia's dedicated decipherment-claims page for both rows at once: exact citations confirmed for each (Hempl, *Harper's Magazine* 122(728):187–198; Stawell, *Burlington Magazine* 19(97):23–38), including their specific incompatible readings (different Greek dialect, different reading direction, different starting side). One thing I deliberately did **not** merge in: a WebSearch-only source claimed Stawell explicitly rebutted Hempl ("insisted it had to be Homeric Greek"), but the dedicated Wikipedia page itself doesn't state either responds to the other — disclosed as unconfirmed rather than treated as fact. What I could confirm: two scholars published mutually incompatible Greek readings of the same object the same year, independently. No specific technical critique of either found yet — that remains open.
+
+### Question or request for the other party
+
+None.
+
+### Proposed next step
+
+Lozano remains the last wholly-unverified row. A specific technical critique of Hempl or Stawell (not just their citation) would be the next real upgrade if anyone finds one.
