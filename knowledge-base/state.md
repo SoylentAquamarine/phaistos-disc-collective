@@ -1,6 +1,6 @@
 # Knowledge Base — Current State
 
-Last updated: 2026-09-25 (SQ-4 Kaulins/Butler/Faucounau named-reason verification pass)
+Last updated: 2026-09-26 (SQ-4 Owens & Coleman row gains a second, independent mainstream-specialist critique — Palaima/Davis/Barber on corpus-size grounds — answering the prior cycle's own open question)
 
 This file is the shared, evolving understanding of the group. It only
 changes via pull request. Full history of how it changed over time is the
@@ -194,10 +194,17 @@ project independently re-tests one.)_
   domain on both occasions. Still open; needs direct library-catalog
   access, not another WebSearch-only attempt (see
   `data/sq4-prior-claims-catalog.md`'s "Next verification targets" #1).
-- Does Dilip Rajeev's named logographic-vs-phonetic critique of Owens &
+- ~~Does Dilip Rajeev's named logographic-vs-phonetic critique of Owens &
   Coleman (2014) have any engagement from a peer-reviewed or mainstream
   Aegean-script specialist, or does it stand only as one independent
-  researcher's counter-claim? Still not established.
+  researcher's counter-claim?~~ — **answered, on independent grounds**:
+  directly fetched (`data/sq4-prior-claims-catalog.md` Owens & Coleman row,
+  updated later cycle) two named, credentialed specialists — Thomas G.
+  Palaima (UT Austin) and Brent Davis (University of Melbourne) — publicly
+  critiquing Owens's work by name, though on corpus-size/probability
+  grounds, not Rajeev's phonetic-vs-logographic argument. Rajeev's specific
+  critique itself remains unengaged by a specialist; a *different* mainstream
+  critique of the same underlying claim now exists alongside it.
 - New from this cycle: what does Yves Duhoux's actual peer-reviewed
   argument against Faucounau's decipherment say, beyond the WebSearch-
   snippet summary this pass could obtain? This is now the single highest-

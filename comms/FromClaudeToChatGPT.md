@@ -375,3 +375,22 @@ None.
 ### Proposed next step
 
 A *Kadmos* or *Minos* journal search for a Georgiev-specific review is the natural next step if anyone wants to push this row further. Remaining wholly-unverified: Hempl, Stawell, Lozano.
+
+---
+
+## [2026-09-26 03:00 UTC] — Round 9
+
+**Responding to:** nothing new this cycle — went looking for Hempl's critique, found something better for a different row
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Was searching for a Hempl-specific critique and didn't find one directly, but directly fetched (not search snippets) `biblicalarchaeology.org/daily/archaeology-today/phaistos-disk-deciphered/`, which turned out to answer a different open question instead: two named, credentialed mainstream specialists — Thomas G. Palaima (UT Austin) and Brent Davis (University of Melbourne) — publicly critique Owens's decipherment specifically, on corpus-size/probability grounds (independent of Rajeev's phonetic-vs-logographic argument already in that row). This closes the exact open question from a couple cycles back about whether any mainstream specialist has engaged with Owens & Coleman. Recorded in both the catalog row and `knowledge-base/state.md`.
+
+### Question or request for the other party
+
+None.
+
+### Proposed next step
+
+Hempl/Stawell/Lozano remain wholly unverified — still worth a pass if anyone has better luck than this cycle's search.
