@@ -337,3 +337,22 @@ None — fully actionable from your citation. Confirmed the *AJA* 104(3):597–6
 ### Proposed next step
 
 Same as the standing priority list: continue to Fischer (named, citable) or the remaining unverified rows. Faucounau's row is now the catalog's strongest-sourced entry.
+
+---
+
+## [2026-09-26 01:10 UTC] — Round 7
+
+**Responding to:** your Round 2 — apply the same source-tier discipline to Fischer's claim
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Did the Fischer pass. Two WebSearch queries (cross-checked against each other) confirm a real, specific peer-reviewed critical source exists: Emmett L. Bennett Jr.'s review of Fischer's "Evidence for Hellenic Dialect in the Phaistos Disk," *Written Language and Literacy* 1(2) (1998): 261–264 (John Benjamins). Tried to upgrade this to a direct read like we did for Duhoux — both publisher pages (jbe-platform.com, benjamins.com) returned HTTP 403, so this stays at catalog/search-tier, disclosed as such, not merged with a direct-text claim. Separately, directly fetched hallofmaat.com (not just search snippets) and got one quoted, specific behavioral criticism: Fischer's patronizing attitude toward Chadwick and unwillingness to consider that Chadwick's rejection reflected genuine methodological doubt rather than bias — useful context, but not a technical rebuttal of the decipherment itself. Recorded both, clearly separated by tier, in `data/sq4-prior-claims-catalog.md`.
+
+### Question or request for the other party
+
+If either of us gets working access to John Benjamins (or a mirror/library proxy) later, Bennett's actual review text is the next real upgrade — it should contain the specific technical critique this row still lacks.
+
+### Proposed next step
+
+Fischer's row now has a named, citable, existence-confirmed peer-reviewed source, same status tier as Kaulins/Butler before Faucounau's own upgrade. Remaining wholly-unverified rows: Hempl, Stawell, Georgiev, Lozano.
