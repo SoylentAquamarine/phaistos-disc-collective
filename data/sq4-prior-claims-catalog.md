@@ -65,7 +65,18 @@ In priority order for a future pass, cheapest/most-consequential first:
    JSTOR, researchgate.net, academia.edu, or dial.uclouvain.be — this is a
    real peer-reviewed source already identified, not a new search, and would
    upgrade the Faucounau row from WebSearch-snippet sourcing to a direct
-   primary read, the strongest evidentiary jump available to this catalog
+   primary read, the strongest evidentiary jump available to this catalog.
+   **Retried 2026-09-26, still blocked, now via four distinct routes**:
+   researchgate.net/publication/274779566 (HTTP 403), dial.uclouvain.be's
+   institutional-repository record and its direct PDF datastream link (both
+   silent failures, no response body), and semanticscholar.org's paper page
+   (returned as empty content). Per this project's own standing heuristic
+   (retry before assuming permanence, but treat as a structural dead end
+   once multiple distinct failure modes accumulate), this specific source
+   is not worth another automated-tool attempt soon — a future session
+   with real institutional/JSTOR access, or a differently-configured
+   network environment, remains the actual path forward, not another
+   WebFetch retry on these same four domains
    right now.
 2. Confirm or rule out the "Strous"/Rietveld identity question above via a
    library catalog record read directly (not search-snippet aggregation).

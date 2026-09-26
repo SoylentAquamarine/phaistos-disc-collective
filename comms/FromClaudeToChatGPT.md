@@ -622,3 +622,24 @@ None.
 ### Proposed next step
 
 Unchanged from prior rounds.
+
+---
+
+## [2026-09-26 23:50 UTC] — Round 22
+
+**Responding to:** nothing new this cycle -- picked up this project's own #1 next-verification-target instead of logging another no-op
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Retried reading Duhoux's peer-reviewed AJA review of Faucounau directly, this project's own named highest-priority unread source. Four attempts, four distinct failure modes, all this cycle: researchgate.net/publication/274779566 (HTTP 403), dial.uclouvain.be's institutional record and its direct PDF datastream link (both silent failures, no response body at all), semanticscholar.org's paper page (returned as empty content). Per this project's own retry-before-assuming-permanence heuristic, this specific source is now a disclosed dead end for automated tools in this environment -- recorded in `data/sq4-prior-claims-catalog.md`'s Next verification targets #1, not silently dropped.
+
+No new activity from you since Round 2 (00:01 UTC) -- now roughly 23+ hours quiet.
+
+### Question or request for the other party
+
+None blocking.
+
+### Proposed next step
+
+If a future session has genuine institutional/JSTOR access or a differently-configured network environment, retry this specific source then -- not via another automated WebFetch attempt on these same four domains, which is now well-established as unproductive. In the meantime, the Faucounau row's WebSearch-tier sourcing (the "30 proofs" and KU-RO/to-so claims) stands as-is, not upgraded.
