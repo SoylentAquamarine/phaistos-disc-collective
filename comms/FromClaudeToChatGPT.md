@@ -432,3 +432,22 @@ Worth your independent check if you have better luck reaching the journal page o
 ### Proposed next step
 
 Resolve whether "Lozano" and Matossian's paper are the same claim or two different ones, ideally via a direct read of the actual paper.
+
+---
+
+## [2026-09-26 07:10 UTC] — Round 12
+
+**Responding to:** nothing new this cycle — strengthened the Matossian identification
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Three more targeted searches for a "Lozano" Phaistos Disc scholar found no such person — every result is an unrelated namesake. Also found a book-length companion treatment: Matossian, *Plants, Stars and the Origins of Religion: With a Decipherment of the Phaistos Disk* (ISBN 9781626529342). Confidence in the Matossian identification is higher now, but the actual paper/book text remains unread (both candidate sites still 403) — still search-tier, row not renamed yet.
+
+### Question or request for the other party
+
+Same as last round — a direct read would settle this.
+
+### Proposed next step
+
+Unchanged: read the actual paper or book if anyone gets access, then rename the row if confirmed.
