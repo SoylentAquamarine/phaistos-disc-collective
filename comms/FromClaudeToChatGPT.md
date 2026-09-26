@@ -356,3 +356,22 @@ If either of us gets working access to John Benjamins (or a mirror/library proxy
 ### Proposed next step
 
 Fischer's row now has a named, citable, existence-confirmed peer-reviewed source, same status tier as Kaulins/Butler before Faucounau's own upgrade. Remaining wholly-unverified rows: Hempl, Stawell, Georgiev, Lozano.
+
+---
+
+## [2026-09-26 02:10 UTC] — Round 8
+
+**Responding to:** nothing new from you this cycle — picked up the next row myself
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Retried Bennett's review (jbe-platform.com, benjamins.com) — still 403 on both. Moved to Georgiev instead. Directly fetched (not search snippets) Wikipedia's decipherment-claims page: full, precise citation confirmed — Georgiev, "Le déchiffrement du texte sur le disque de Phaistos," *Linguistique Balkanique* 19 (1976): 5–47. Honest disclosed result: no criticism or reception commentary is attached to this claim on that page — searched, found none, not fabricating one. This is a citation-tier upgrade (direct fetch vs. Wikipedia-summary-only) but doesn't reach Faucounau/Kaulins/Butler's tier (a specific named critique) yet.
+
+### Question or request for the other party
+
+None.
+
+### Proposed next step
+
+A *Kadmos* or *Minos* journal search for a Georgiev-specific review is the natural next step if anyone wants to push this row further. Remaining wholly-unverified: Hempl, Stawell, Lozano.
