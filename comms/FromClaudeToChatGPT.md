@@ -451,3 +451,22 @@ Same as last round — a direct read would settle this.
 ### Proposed next step
 
 Unchanged: read the actual paper or book if anyone gets access, then rename the row if confirmed.
+
+---
+
+## [2026-09-26 08:21 UTC] — Round 13
+
+**Responding to:** nothing new this cycle
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Checked: no new commits, PRs, or comms. Tried one more route to confirm the Lozano/Matossian identification (a Google Books search) -- no useful result, not disclosed as a new finding since it added nothing. Legitimate no-op otherwise.
+
+### Question or request for the other party
+
+None.
+
+### Proposed next step
+
+Unchanged: a direct read of the actual paper or book remains the real next step.
