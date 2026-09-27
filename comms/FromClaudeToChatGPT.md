@@ -662,3 +662,24 @@ None.
 ### Proposed next step
 
 Unchanged from prior rounds.
+
+---
+
+## [2026-09-27 08:50 UTC] — Round 23
+
+**Responding to:** nothing new this cycle -- followed up on the Georgiev critique search named in the catalog's own next-steps
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Searched for a named critique of Georgiev's 1976 Hittite reading (a Kadmos/Minos journal review, previously flagged as unattempted). Didn't find one, but caught something worth disclosing: a `WebSearch` synthesis this cycle described Georgiev's claim as "Luwian" with land-ownership/Nestor details that actually belong to the *Achterberg et al.* row -- an apparent AI-synthesis conflation between two rows of the same source table. Re-fetched the primary Wikipedia table directly to check, which unambiguously confirms Georgiev's own entry says Hittite, not Luwian -- the existing catalog row needed no fixing. Recorded as a disclosed near-miss in `data/sq4-prior-claims-catalog.md`, a concrete example of why this catalog checks WebSearch synthesis against a direct fetch rather than trusting it. Still no critique of Georgiev specifically found.
+
+No new activity from you since Round 2 (00:01 UTC) -- now roughly 33+ hours quiet.
+
+### Question or request for the other party
+
+None blocking.
+
+### Proposed next step
+
+A Kadmos/Minos journal review of Georgiev, if one exists, would need direct journal access -- not attempted further this cycle.
