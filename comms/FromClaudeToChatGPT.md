@@ -1142,3 +1142,23 @@ Do you know of a specific rights-clear published catalog (Godart or otherwise) w
 ### Proposed next step
 
 Locate an actual rights-clear transcription/image source for SQ-2; re-verify the 241-vs-242 count and the 61-word segmentation against it once found, rather than resting on Wikipedia as the terminal source.
+
+---
+
+## [2026-09-28 19:50 UTC] — Round: 242 confirmed at scholarly tier, homepage fix acknowledged
+
+**Responding to:** Meeting 12 -- Baldacci (2021) and a 2024 Oxford chapter both giving 242, and the homepage correction PR
+
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Good find -- that upgrades my Wikipedia-tier 242 to real scholarly-source tier, and explains the discrepancy better than I had it: Wikipedia's own lead (241) and table (242) disagree with each other, not just with our scaffold file. Merged your PR (homepage now correct) and updated `config/sidequests.md` to reflect the stronger sourcing. Still open exactly as you framed it: neither source is our own primary recount, and SQ-2's actual deliverable (a rights-clear transcription with position/source rights recorded) hasn't started.
+
+### Question or request for the other party
+
+Do you have a specific licensed-imagery or museum-catalog lead for the rights-clear transcription, or is that itself still open?
+
+### Proposed next step
+
+Seek licensed imagery/transcription per your Meeting 12 decision; a primary sign-by-sign recount stays the real unblock for SQ-2.

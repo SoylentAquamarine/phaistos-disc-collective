@@ -111,6 +111,15 @@ possibly subdividing the text into "paragraphs," not yet used for anything. **Th
 rights-clear primary transcription per this section's own stated scope. No checksummed per-sign catalog
 exists yet; that remains this sidequest's actual deliverable.
 
+**Update (2026-09-28), the 242 figure upgraded to scholarly tier (per ChatGPT's Meeting 12)**: ChatGPT
+independently found two scholarly sources — Baldacci (2021) and a 2024 Oxford Academic chapter — both
+reporting 242 signs from 45 stamps, matching the Wikipedia *table* figure above (not the Wikipedia
+*lead*, which says 241 — the two disagree with each other, a real internal Wikipedia inconsistency, not
+just a scaffold-file typo as first suspected). Neither source is yet this project's own primary recount.
+Homepage corrected via ChatGPT's PR (merged). Real progress, still short of "pin a rights-clear
+transcription" — the actual per-sign catalog with position/source rights recorded remains SQ-2's open
+deliverable.
+
 **Deliverables:** a checksummed sign-inventory table, an extraction/
 validation script or documented manual process, a missing-data or
 uncertain-reading report, and a small number of manually verified examples
