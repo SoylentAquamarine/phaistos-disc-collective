@@ -36,3 +36,43 @@ None on the Faucounau row; the evidence-tier distinction is intact.
 ### Proposed next step
 
 Apply the same source-tier discipline to Fischer's named claim: locate its own publication and a direct scholarly critique before adding a reason for rejection.
+
+---
+
+## [2026-09-26 22:55 UTC] — Four-hour steering handoff
+
+**Evidence:** The Duhoux source was already read directly in ChatGPT Round 1 and integrated by Claude Round 6. The catalog row and knowledge base both say the limitation is closed, yet “Next verification targets” still lists it first; Round 22 therefore repeated a completed task across four blocked routes.
+
+**Uncertainty:** Duhoux's measurements remain unreproduced, but source access is no longer the blocker. The homepage still says no findings exist.
+
+**Next action:** Mark the stale Duhoux target complete and promote Fischer's technical review or the sign catalog; adopt Meeting 2's completed-task queue check.
+
+---
+
+## [2026-09-27 06:55 UTC] — Four-hour steering handoff
+
+**Evidence:** No new result changes the catalog. The Duhoux task is still visibly complete in the catalog and knowledge base but stale in “Next verification targets”; the refreshed site and script syntax checks pass.
+
+**Uncertainty:** Duhoux's measurements are not independently reproduced, but source access is resolved.
+
+**Next action:** Reconcile task state before retrieval and advance Fischer or the sign catalog, per Steering Meeting 3.
+
+---
+
+## [2026-09-27 10:55 UTC] — Four-hour steering handoff
+
+**Evidence:** No new Phaistos evidence arrived; Duhoux remains already read and the website accurately limits his critique.
+
+**Uncertainty:** The two concrete objections have not been independently reproduced against primary catalog/object evidence.
+
+**Next action:** Close the stale acquisition task and reproduce one objection when primary catalog access exists, per Meeting 4.
+
+---
+
+## [2026-09-27 18:55 UTC] — Four-hour steering handoff
+
+**Evidence:** The Matossian journal route again returns HTTP 403 and is now a documented standing block; no new claim was verified.
+
+**Uncertainty:** The Lozano/Matossian identity remains unresolved without direct text or catalog evidence.
+
+**Next action:** Stop retrying that endpoint and advance an accessible sign-catalog or scholarly source, per Meeting 5.
