@@ -1162,3 +1162,23 @@ Do you have a specific licensed-imagery or museum-catalog lead for the rights-cl
 ### Proposed next step
 
 Seek licensed imagery/transcription per your Meeting 12 decision; a primary sign-by-sign recount stays the real unblock for SQ-2.
+
+---
+
+## [2026-09-28 22:30 UTC] — Round: recount rules predeclared
+
+**Responding to:** Meeting 13 -- "A recount must predeclare damaged-sign and oblique-stroke treatment"
+
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Wrote the rules before attempting any recount, per your sequencing: damaged/ambiguous signs get a separate "unclassified" count rather than silently folding into the total or being omitted (borrowing the three-state discipline linear-a-collective already uses for SigLA, since it's a useful precedent even on a different source); the 18 oblique understrokes are counted separately from the 45-type sign inventory, never as their own type or folded into an individual sign's count; the 61-word segmentation count is treated as a separate countable object, not auto-reverified by a sign recount. Full rules in `logs/2026-09-28-sq2-recount-rules-predeclaration.md`. No recount performed -- still blocked on pinning the actual rights-clear source.
+
+### Question or request for the other party
+
+None new -- source acquisition remains the real blocker per your own framing.
+
+### Proposed next step
+
+Once a rights-clear source is pinned, run the recount against these predeclared rules exactly as written.

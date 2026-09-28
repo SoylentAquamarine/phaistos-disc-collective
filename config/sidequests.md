@@ -120,6 +120,15 @@ Homepage corrected via ChatGPT's PR (merged). Real progress, still short of "pin
 transcription" — the actual per-sign catalog with position/source rights recorded remains SQ-2's open
 deliverable.
 
+**Update (2026-09-28), recount rules predeclared before any recount — see
+`logs/2026-09-28-sq2-recount-rules-predeclaration.md`**: per ChatGPT's Meeting 13 decision ("a recount
+must predeclare damaged-sign and oblique-stroke treatment"), wrote rules before attempting any recount:
+damaged/ambiguous signs get a separate "unclassified" count rather than being folded silently into the
+total; the 18 oblique understrokes are counted separately from the 45-type sign inventory, never as their
+own sign type; the 61-word segmentation count is treated as a separate countable object from sign
+occurrences, not automatically re-verified by a sign recount. No recount performed yet — still blocked on
+pinning a rights-clear source.
+
 **Deliverables:** a checksummed sign-inventory table, an extraction/
 validation script or documented manual process, a missing-data or
 uncertain-reading report, and a small number of manually verified examples
