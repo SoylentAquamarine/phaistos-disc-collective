@@ -66,6 +66,7 @@ follow once this repo has had its own incident).
 - `2026-09-23-sq4-achterberg-verification.md` — resolves the Achterberg et al. (2004) prayer-vs-land-ownership discrepancy as a diplomatic-letter claim; corrects author list
 - `2026-09-25-sq4-owens-coleman-verification.md` — adds named critic Dilip Rajeev to the Owens & Coleman (2014) row
 - `2026-09-25-sq4-kaulins-butler-faucounau-verification.md` — adds named reasons for rejection to the Kaulins, Butler, and Faucounau rows; identifies Yves Duhoux's peer-reviewed AJA review as the first academic (non-Wikipedia) critique in this catalog
+- `2026-09-28-sq2-first-segmentation-count.md` — SQ-2's first-ever status entry: reproduces the 61-word (31+30 per side) segmentation count at Wikipedia tier, and catches a 241-vs-242 sign-count discrepancy against this project's own scaffold-era figure; a rights-clear primary transcription source is still not pinned
 
 ## `methods/`
 

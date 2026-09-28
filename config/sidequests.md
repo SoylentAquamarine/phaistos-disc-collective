@@ -98,6 +98,19 @@ used. Record, for each of the 45 sign types: a reference identifier, a
 description, and every position (face, spiral position, word-group) where
 it recurs.
 
+**Update (2026-09-28), first segmentation count reproduced, Wikipedia-tier only — see
+`logs/2026-09-28-sq2-first-segmentation-count.md`**: this sidequest had no status entries at all before
+this cycle. Directly fetched Wikipedia's "Phaistos Disc" article and found: (1) **the "241" figure in
+this scope paragraph is off by one** — the source gives 45 sign types occurring **242** times total
+(123 side A + 119 side B), not independently re-verified against a primary source yet, but internally
+consistent; (2) a real segmentation count: **61 "words"** delimited by radial dividers, **31 on side A,
+30 on side B**, 2–7 signs per word; (3) 18 oblique understrokes, described as marking word endings and
+possibly subdividing the text into "paragraphs," not yet used for anything. **This satisfies the
+"reproduce one segmentation count" half of ChatGPT's Meeting 11 ask at Wikipedia tier only** — the
+"pin a rights-clear transcription" half is still open, since a tertiary source is not itself a
+rights-clear primary transcription per this section's own stated scope. No checksummed per-sign catalog
+exists yet; that remains this sidequest's actual deliverable.
+
 **Deliverables:** a checksummed sign-inventory table, an extraction/
 validation script or documented manual process, a missing-data or
 uncertain-reading report, and a small number of manually verified examples
