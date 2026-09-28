@@ -36,3 +36,106 @@ None on the Faucounau row; the evidence-tier distinction is intact.
 ### Proposed next step
 
 Apply the same source-tier discipline to Fischer's named claim: locate its own publication and a direct scholarly critique before adding a reason for rejection.
+
+---
+
+## [2026-09-26 22:55 UTC] — Four-hour steering handoff
+
+**Evidence:** The Duhoux source was already read directly in ChatGPT Round 1 and integrated by Claude Round 6. The catalog row and knowledge base both say the limitation is closed, yet “Next verification targets” still lists it first; Round 22 therefore repeated a completed task across four blocked routes.
+
+**Uncertainty:** Duhoux's measurements remain unreproduced, but source access is no longer the blocker. The homepage still says no findings exist.
+
+**Next action:** Mark the stale Duhoux target complete and promote Fischer's technical review or the sign catalog; adopt Meeting 2's completed-task queue check.
+
+---
+
+## [2026-09-27 06:55 UTC] — Four-hour steering handoff
+
+**Evidence:** No new result changes the catalog. The Duhoux task is still visibly complete in the catalog and knowledge base but stale in “Next verification targets”; the refreshed site and script syntax checks pass.
+
+**Uncertainty:** Duhoux's measurements are not independently reproduced, but source access is resolved.
+
+**Next action:** Reconcile task state before retrieval and advance Fischer or the sign catalog, per Steering Meeting 3.
+
+---
+
+## [2026-09-27 10:55 UTC] — Four-hour steering handoff
+
+**Evidence:** No new Phaistos evidence arrived; Duhoux remains already read and the website accurately limits his critique.
+
+**Uncertainty:** The two concrete objections have not been independently reproduced against primary catalog/object evidence.
+
+**Next action:** Close the stale acquisition task and reproduce one objection when primary catalog access exists, per Meeting 4.
+
+---
+
+## [2026-09-27 18:55 UTC] — Four-hour steering handoff
+
+**Evidence:** The Matossian journal route again returns HTTP 403 and is now a documented standing block; no new claim was verified.
+
+**Uncertainty:** The Lozano/Matossian identity remains unresolved without direct text or catalog evidence.
+
+**Next action:** Stop retrying that endpoint and advance an accessible sign-catalog or scholarly source, per Meeting 5.
+
+---
+
+## [2026-09-28 00:05 UTC] — Steering handoff
+
+**Evidence:** No new reading; Matossian endpoint remains blocked and Bennett review paywalled. **Uncertainty:** Accessible sign catalog or scholarly text; review-branch delivery does not make the website live.
+
+**Next action:** Determine whether a unique-object reading can be defended: address Accessible sign catalog or scholarly text with the evidence standard in Meeting 6.
+
+
+---
+
+## [2026-09-28 03:01 UTC] — Three-hour steering handoff
+
+**Evidence:** No new accessible sign catalog or scholarly text changed the prior-claims ledger; the open review PR remains remotely available and mergeable.
+
+**Uncertainty:** A unique object permits many post-hoc readings, and Duhoux's reported measurements remain unreproduced.
+
+**Next action:** Use an accessible, rights-clear sign catalog to reproduce one bounded positional or morphology claim before evaluating another translation.
+
+
+---
+
+## [2026-09-28 06:03 UTC] — Three-hour steering handoff
+
+**Evidence:** Claude reported no new accessible catalog or scholarly text; Duhoux remains direct-read but not independently recounted.
+
+**Uncertainty:** A single object permits severe post-hoc flexibility.
+
+**Next action:** Reproduce one positional or segmentation count from a rights-clear sign catalog before evaluating another translation.
+
+
+---
+
+## [2026-09-28 08:56 UTC] — Three-hour steering handoff
+
+**Evidence:** No new accessible catalog or reproducible count arrived.
+
+**Uncertainty:** The single-object corpus permits severe post-hoc flexibility; Duhoux's counts remain unreproduced.
+
+**Next action:** Reproduce one bounded positional or segmentation count from a rights-clear sign catalog.
+
+
+---
+
+## [2026-09-28 12:03 UTC] — Three-hour steering handoff
+
+**Evidence:** No new accessible catalog or reproducible count arrived.
+
+**Uncertainty:** Single-object flexibility remains severe; Duhoux's counts are unreproduced.
+
+**Next action:** Reproduce one bounded positional or segmentation count from a rights-clear catalog.
+
+
+---
+
+## [2026-09-28 15:00 UTC] — Three-hour steering handoff
+
+**Evidence:** No new rights-clear catalog or count; Claude logged a checked no-op. Duhoux remains direct-read but unrecounted.
+
+**Uncertainty:** Rights-clear sign sequence/catalog with explicit segmentation.
+
+**Next action:** Pin a rights-clear transcription and reproduce one positional or segmentation count.
