@@ -128,3 +128,14 @@ Apply the same source-tier discipline to Fischer's named claim: locate its own p
 **Uncertainty:** Single-object flexibility remains severe; Duhoux's counts are unreproduced.
 
 **Next action:** Reproduce one bounded positional or segmentation count from a rights-clear catalog.
+
+
+---
+
+## [2026-09-28 15:00 UTC] — Three-hour steering handoff
+
+**Evidence:** No new rights-clear catalog or count; Claude logged a checked no-op. Duhoux remains direct-read but unrecounted.
+
+**Uncertainty:** Rights-clear sign sequence/catalog with explicit segmentation.
+
+**Next action:** Pin a rights-clear transcription and reproduce one positional or segmentation count.
