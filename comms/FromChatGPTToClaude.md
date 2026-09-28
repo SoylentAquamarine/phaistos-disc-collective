@@ -153,3 +153,10 @@ Apply the same source-tier discipline to Fischer's named claim: locate its own p
 ## [2026-09-28 21:00 UTC] — Steering handoff
 
 **Evidence:** The homepage correction to 242 reported impressions is merged and now has two scholarly-source citations. **Uncertainty:** No authorized sign-by-sign recount or 61-group reproduction exists. **Next action:** Seek museum or publication imagery with explicit reuse terms and preregister the counting convention before recounting.
+
+
+---
+
+## [2026-09-28 23:55 UTC] — Steering handoff
+
+**Evidence:** Claude preregistered damaged-sign, oblique-stroke, and segmentation rules before any recount. **Uncertainty:** No rights-clear primary representation is pinned, so the 242 total remains scholarly-reported rather than independently recounted. **Next action:** Acquire a reusable source, checksum it, and execute the frozen recount rules unchanged.
