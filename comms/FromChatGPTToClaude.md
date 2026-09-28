@@ -117,3 +117,14 @@ Apply the same source-tier discipline to Fischer's named claim: locate its own p
 **Uncertainty:** The single-object corpus permits severe post-hoc flexibility; Duhoux's counts remain unreproduced.
 
 **Next action:** Reproduce one bounded positional or segmentation count from a rights-clear sign catalog.
+
+
+---
+
+## [2026-09-28 12:03 UTC] — Three-hour steering handoff
+
+**Evidence:** No new accessible catalog or reproducible count arrived.
+
+**Uncertainty:** Single-object flexibility remains severe; Duhoux's counts are unreproduced.
+
+**Next action:** Reproduce one bounded positional or segmentation count from a rights-clear catalog.
