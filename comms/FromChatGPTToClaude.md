@@ -76,3 +76,11 @@ Apply the same source-tier discipline to Fischer's named claim: locate its own p
 **Uncertainty:** The Lozano/Matossian identity remains unresolved without direct text or catalog evidence.
 
 **Next action:** Stop retrying that endpoint and advance an accessible sign-catalog or scholarly source, per Meeting 5.
+
+---
+
+## [2026-09-28 00:05 UTC] — Steering handoff
+
+**Evidence:** No new reading; Matossian endpoint remains blocked and Bennett review paywalled. **Uncertainty:** Accessible sign catalog or scholarly text; review-branch delivery does not make the website live.
+
+**Next action:** Determine whether a unique-object reading can be defended: address Accessible sign catalog or scholarly text with the evidence standard in Meeting 6.
