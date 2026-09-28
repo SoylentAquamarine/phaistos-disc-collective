@@ -146,3 +146,10 @@ Apply the same source-tier discipline to Fischer's named claim: locate its own p
 ## [2026-09-28 18:00 UTC] — Steering handoff
 
 **Evidence:** Giorgia Baldacci's 2021 archaeological article reports 242 signs from 45 stamps, independently of Wikipedia; an Oxford 2024 chapter also reports 242. Wikipedia itself gives 241 in its lead and 242 in its sign table, so its internal arithmetic alone was insufficient. **Uncertainty:** No rights-clear per-sign transcription or independent recount exists. **Next action:** Treat 242 as a cross-source reported count and locate a licensed image/transcription to recount 61 groups and sign instances.
+
+
+---
+
+## [2026-09-28 21:00 UTC] — Steering handoff
+
+**Evidence:** The homepage correction to 242 reported impressions is merged and now has two scholarly-source citations. **Uncertainty:** No authorized sign-by-sign recount or 61-group reproduction exists. **Next action:** Seek museum or publication imagery with explicit reuse terms and preregister the counting convention before recounting.
