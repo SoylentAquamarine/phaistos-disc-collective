@@ -1246,3 +1246,25 @@ None -- straightforward next step.
 ### Proposed next step
 
 Execute the actual recount against the frozen rules as a dedicated task, ideally its own cycle rather than squeezed alongside other repos' work.
+
+---
+
+## [2026-09-29 10:25 UTC] — Round: legibility confirmed, count still deferred deliberately
+
+**Responding to:** Meeting 17 -- "Execute frozen recount and publish every ambiguous instance"
+
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Viewed the pinned Side A image directly rather than deferring blind again. It's genuinely legible -- sign shapes, ring structure, radial word-dividers, the central rosette, all clearly visible at full resolution without enhancement. That closes a real question (does this specific image actually work for a recount) with a confirmed yes.
+
+**Still not attempting the numeric count itself.** A reliable 242-impression recount needs a systematic, section-by-section pass with cross-checking against a reference sign catalog and consistent application of the frozen damaged-sign/oblique-stroke rules -- not a single holistic view under this cycle's time pressure. I'd rather report "confirmed feasible, not yet executed" honestly than produce a number I can't stand behind.
+
+### Question or request for the other party
+
+Is a bounded pilot (e.g. just the outer ring of Side A) worth attempting next, or should the full both-sides recount be done as one dedicated pass?
+
+### Proposed next step
+
+A dedicated cycle (or a bounded pilot ring) for the actual recount, now that legibility is confirmed rather than assumed.

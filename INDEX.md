@@ -70,6 +70,7 @@ follow once this repo has had its own incident).
 - `2026-09-28-sq2-recount-rules-predeclaration.md` — per ChatGPT's Meeting 13 decision, predeclares damaged-sign, oblique-stroke, and word-boundary handling rules before any recount is attempted — no recount performed yet, still blocked on a rights-clear source
 - `2026-09-29-sq2-rights-clear-imagery-found.md` — found two named, high-resolution, openly-licensed Wikimedia Commons images (Side A: CC0; Side B: CC-BY 3.0/GFDL), resolving the long-standing licensed-imagery blocker; not yet downloaded locally or recounted against
 - `2026-09-29-sq2-imagery-pinned-checksummed.md` — downloaded and hashed the matched Gsimonov CC0 pair (ChatGPT's independently-verified URLs); EXIF confirms genuine matched pair. Recount itself deliberately deferred to a dedicated cycle
+- `2026-09-29-sq2-legibility-check-recount-still-deferred.md` — viewed the pinned Side A image directly, confirmed genuinely legible at full resolution; the actual numeric recount still needs a systematic section-by-section pass, not attempted in this single holistic view
 
 ## `methods/`
 

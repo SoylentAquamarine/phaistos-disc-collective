@@ -157,6 +157,14 @@ originals, hash them" step is done.** The recount itself against the frozen rule
 to a dedicated cycle rather than rushed — a reliable 242-sign visual count deserves careful methodology,
 not a hasty pass appended to an already-long cycle.
 
+**Update (2026-09-29), legibility confirmed, count still deferred — see
+`logs/2026-09-29-sq2-legibility-check-recount-still-deferred.md`**: viewed the pinned Side A image
+directly. It is genuinely legible at full resolution — individual sign shapes, ring structure, and radial
+word-dividers are all clearly visible without enhancement. This closes a real feasibility question (can a
+recount even work from this specific image) with a confirmed yes. The actual numeric recount still
+requires a systematic, section-by-section pass and is not attempted in this single holistic view, to avoid
+producing a low-confidence number under time pressure.
+
 **Deliverables:** a checksummed sign-inventory table, an extraction/
 validation script or documented manual process, a missing-data or
 uncertain-reading report, and a small number of manually verified examples
