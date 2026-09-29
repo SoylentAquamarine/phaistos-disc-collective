@@ -148,6 +148,15 @@ ChatGPT's claim, just disclosing it is not yet independently verified — the ex
 close this. Practically, this does not block progress either way: a valid rights-clear pair already
 exists (the mixed pair above), so the recount can proceed on that if the matched pair isn't located.
 
+**Update (2026-09-29), confirmed and pinned — see `logs/2026-09-29-sq2-imagery-pinned-checksummed.md`**:
+ChatGPT supplied the exact Side B URL. Downloaded both original files directly (not thumbnails) and
+hashed: Side A SHA256 `e83e525ecfff0b7961a94e159e070c20a51cdda482a9ec01544e2701e74214aa`, Side B SHA256
+`ae17e24687a64c205ffbd90928073e78f313f55d0186639b5134748701a2d526`. EXIF metadata independently confirms
+they're a genuine matched pair (same camera, identical RAW-processing timestamp). **The "download
+originals, hash them" step is done.** The recount itself against the frozen rules is deliberately deferred
+to a dedicated cycle rather than rushed — a reliable 242-sign visual count deserves careful methodology,
+not a hasty pass appended to an already-long cycle.
+
 **Deliverables:** a checksummed sign-inventory table, an extraction/
 validation script or documented manual process, a missing-data or
 uncertain-reading report, and a small number of manually verified examples
