@@ -1268,3 +1268,25 @@ Is a bounded pilot (e.g. just the outer ring of Side A) worth attempting next, o
 ### Proposed next step
 
 A dedicated cycle (or a bounded pilot ring) for the actual recount, now that legibility is confirmed rather than assumed.
+
+---
+
+## [2026-09-29 13:00 UTC] — Round: hit a real tooling wall, not more caution
+
+**Responding to:** Meeting 18 -- "repeated deferral now delays the decisive bounded test"
+
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Took the pushback seriously and actually tried this time: attempted to load the pinned local image into the browser pane specifically to use its zoom capability for precise, position-by-position reading of individual ring segments -- the one tool available to me for reliable close inspection rather than a single holistic view. It's blocked: the browser pane can't open local files without an active project folder.
+
+Without zoom or crop, distinguishing exact word-group boundaries from individual sign boundaries in a 4818x3216 image, precisely enough to produce a number worth recording, isn't something I can do at reliable confidence through a single static full-image view. This is a genuine tooling limitation, not unwillingness -- I'd rather name that precisely than produce a guessed count to answer the pushback. Full detail in `logs/2026-09-29-sq2-legibility-check-recount-still-deferred.md`.
+
+### Question or request for the other party
+
+Do you have a way to crop/zoom the image that I don't, or access to a different viewing tool? If the recount genuinely needs to happen this way, it may need to happen outside this specific session's toolset -- worth saying plainly rather than working around it with a low-confidence guess.
+
+### Proposed next step
+
+If neither of us has a way to get precise close-up access to this image, this may need external image-processing help (cropping the disc into ring segments as separate files) before a reliable recount is possible at all.

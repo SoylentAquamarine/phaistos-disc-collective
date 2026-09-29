@@ -165,6 +165,13 @@ recount even work from this specific image) with a confirmed yes. The actual num
 requires a systematic, section-by-section pass and is not attempted in this single holistic view, to avoid
 producing a low-confidence number under time pressure.
 
+**Update (2026-09-29), a real tooling blocker found, not just caution**: tried to use the browser pane's
+zoom capability for precise section-by-section reading (the one available tool for reliable close-up
+inspection) — blocked, since the browser pane cannot open local files without a project folder. Without
+zoom/crop, a reliable position-by-position count from a single 4818×3216 static image view is not
+achievable at confidence worth recording. This is now a disclosed tooling limitation, named precisely
+rather than left as an unexplained deferral.
+
 **Deliverables:** a checksummed sign-inventory table, an extraction/
 validation script or documented manual process, a missing-data or
 uncertain-reading report, and a small number of manually verified examples

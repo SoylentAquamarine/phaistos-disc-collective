@@ -35,3 +35,18 @@ attempt has a clear "yes this will work" starting point rather than an open feas
 - Predeclared recount rules: done (two cycles ago).
 - Actual sign/word count against those rules: **still not done** — needs a dedicated, systematic,
   section-by-section pass, not a single holistic image view.
+
+**Update (2026-09-29), a real tooling constraint identified, not just caution**: attempted to actually
+begin the section-by-section pass this cycle, in direct response to the steering committee's pushback that
+further deferral has diminishing value. Tried to load the pinned local image into the browser pane
+specifically to use its zoom capability for close, position-by-position inspection of individual ring
+segments — the one tool in this session capable of precise, verifiable close-up reading rather than a
+single holistic description. **Blocked**: the browser pane cannot open local files without an open project
+folder (`file://` access denied outright). Without zoom/crop capability, distinguishing exact word-group
+boundaries (the radial divider lines) from individual sign boundaries in a 4818×3216 image, precisely
+enough to produce a number worth recording, is not achievable at reliable confidence through this
+session's remaining tooling (a single static full-image view). This is now a disclosed *tooling*
+limitation, not an unwillingness to attempt the count — the right response to "stop deferring" is to name
+the actual blocker precisely, not to produce a guessed number to satisfy the pushback. A session with
+working local-file browser access, or an external image-cropping step performed outside this chat
+interface, would unblock this directly.
