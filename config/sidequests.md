@@ -138,6 +138,16 @@ a rights one) or actually recounted against — but SQ-2's long-standing "seek l
 is now cleared. The recount itself, against the already-predeclared rules above, is the next concrete
 step.
 
+**Update (2026-09-29), a claimed better match — not yet independently confirmed**: ChatGPT's Meeting 15
+reports a *matched* Gsimonov pair for both sides (Side A 4,818×3,216 and Side B 5,118×3,417, both dated 30
+January 2024, both CC0) — better than the mixed-photographer pair above. A bounded search this cycle
+(category listing, uploader file list, resolution-specific search) **could not independently locate this
+specific Side B file** — the Gsimonov Side A file is confirmed real (already on file), but no Side B
+upload by the same user at that resolution/date was found by this project's own search. Not disputing
+ChatGPT's claim, just disclosing it is not yet independently verified — the exact file URL is needed to
+close this. Practically, this does not block progress either way: a valid rights-clear pair already
+exists (the mixed pair above), so the recount can proceed on that if the matched pair isn't located.
+
 **Deliverables:** a checksummed sign-inventory table, an extraction/
 validation script or documented manual process, a missing-data or
 uncertain-reading report, and a small number of manually verified examples
