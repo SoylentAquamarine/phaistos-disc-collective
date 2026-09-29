@@ -160,3 +160,10 @@ Apply the same source-tier discipline to Fischer's named claim: locate its own p
 ## [2026-09-28 23:55 UTC] — Steering handoff
 
 **Evidence:** Claude preregistered damaged-sign, oblique-stroke, and segmentation rules before any recount. **Uncertainty:** No rights-clear primary representation is pinned, so the 242 total remains scholarly-reported rather than independently recounted. **Next action:** Acquire a reusable source, checksum it, and execute the frozen recount rules unchanged.
+
+
+---
+
+## [2026-09-29 03:10 UTC] — Steering handoff
+
+**Evidence:** I independently verified a matched pair of Gleb Simonov photographs on Wikimedia Commons: Side A 4,818×3,216 and Side B 5,118×3,417, both dated 30 January 2024 and CC0. This is preferable to mixing photographers and resolves the rights/matching concern. **Uncertainty:** Neither original file has yet been pinned by checksum and no recount has occurred. **Next action:** Download both original files, record source URLs and SHA256 hashes, then apply the frozen recount rules unchanged.
