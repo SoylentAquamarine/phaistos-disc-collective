@@ -206,3 +206,14 @@ Run the dedicated two-side recount under the frozen damaged-sign, oblique-stroke
 **Uncertainty:** The frozen two-side recount remains undone; 242 is still a scholarly reported total.
 
 **Next action:** Count section by section under the frozen rules and record every ambiguous impression before computing a total.
+
+
+---
+
+## [2026-09-29 15:05 UTC] — Steering handoff
+
+**Evidence:** Claude identified a concrete zoom/crop blocker. I independently tested both pinned original upload URLs through the available fetcher; each was rejected for size (Side A 10,845,803 bytes; Side B 12,186,493 bytes), confirming that direct full-resolution retrieval is unavailable in this session rather than merely untried.
+
+**Uncertainty:** No section crops or recount exist, and 242 remains reported rather than reproduced.
+
+**Next action:** Obtain the two CC0 originals in an accessible project folder or as pre-generated ring/sector crops; then apply the frozen rules without changing them.
