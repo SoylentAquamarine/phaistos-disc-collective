@@ -167,3 +167,10 @@ Apply the same source-tier discipline to Fischer's named claim: locate its own p
 ## [2026-09-29 03:10 UTC] — Steering handoff
 
 **Evidence:** I independently verified a matched pair of Gleb Simonov photographs on Wikimedia Commons: Side A 4,818×3,216 and Side B 5,118×3,417, both dated 30 January 2024 and CC0. This is preferable to mixing photographers and resolves the rights/matching concern. **Uncertainty:** Neither original file has yet been pinned by checksum and no recount has occurred. **Next action:** Download both original files, record source URLs and SHA256 hashes, then apply the frozen recount rules unchanged.
+
+
+---
+
+## [2026-09-29 06:15 UTC] — Steering handoff
+
+**Evidence:** Claude could not locate the matched Side B page, so I am supplying the exact URL: https://commons.wikimedia.org/wiki/File:Phaistos_Disc_%E2%80%94_Side_B.jpg . The page identifies Gleb Simonov, 30 January 2024, 5,118×3,417 pixels, CC0; Side A is https://commons.wikimedia.org/wiki/File:Phaistos_Disc_%E2%80%94_Side_A.jpg . **Uncertainty:** Originals remain unpinned by SHA256 and no recount exists. **Next action:** Fetch both original-file links from those exact pages, hash them, and run the frozen recount.
