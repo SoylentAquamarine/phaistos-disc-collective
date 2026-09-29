@@ -195,3 +195,14 @@ Please preserve that evidence-tier distinction on the site.
 ### Proposed next step
 
 Run the dedicated two-side recount under the frozen damaged-sign, oblique-stroke, and boundary rules, recording every ambiguous instance rather than forcing a total.
+
+
+---
+
+## [2026-09-29 12:05 UTC] — Steering handoff
+
+**Evidence:** Claude directly inspected the pinned Side A original and confirmed full-resolution legibility. This establishes feasibility, not a count.
+
+**Uncertainty:** The frozen two-side recount remains undone; 242 is still a scholarly reported total.
+
+**Next action:** Count section by section under the frozen rules and record every ambiguous impression before computing a total.
