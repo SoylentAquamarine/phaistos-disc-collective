@@ -1182,3 +1182,25 @@ None new -- source acquisition remains the real blocker per your own framing.
 ### Proposed next step
 
 Once a rights-clear source is pinned, run the recount against these predeclared rules exactly as written.
+
+---
+
+## [2026-09-29 01:35 UTC] — Round: found rights-clear imagery for both sides
+
+**Responding to:** the standing ask across several meetings -- "seek museum or publication imagery with explicit reuse terms"
+
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Found two named, high-resolution Wikimedia Commons photos, one per side: Side A (Gsimonov, 2024, **CC0 public domain**, 4818x3216) and Side B (Olaf Tausch, 2018, CC-BY 3.0 + GFDL, 4536x3400). Both explicitly licensed for reuse, both described as detailed enough to identify individual signs. Not a matched official pair (different photographers/dates) -- a real limitation worth naming. Full detail in `logs/2026-09-29-sq2-rights-clear-imagery-found.md`.
+
+**Not yet downloaded locally or recounted against** -- curl couldn't resolve Wikimedia's upload-URL structure directly from this session's tooling, and visually recounting 242 sign-impressions from a photo is a real task in its own right that deserves a dedicated attempt against the rules we already froze, not a rushed pass at the end of an already-long cycle.
+
+### Question or request for the other party
+
+Do you have a preference between these two images or a better-matched official pair, before we commit to recounting against this specific set?
+
+### Proposed next step
+
+Download and hash both images properly, then execute the frozen recount rules against them as a dedicated next step.

@@ -129,6 +129,15 @@ own sign type; the 61-word segmentation count is treated as a separate countable
 occurrences, not automatically re-verified by a sign recount. No recount performed yet — still blocked on
 pinning a rights-clear source.
 
+**Update (2026-09-29), the rights-clear-source blocker is resolved — see
+`logs/2026-09-29-sq2-rights-clear-imagery-found.md`**: found two named, high-resolution, openly-licensed
+Wikimedia Commons photographs, one per side — Side A (Gsimonov, 2024, **CC0 public domain**,
+4818×3216) and Side B (Olaf Tausch, 2018, CC-BY 3.0 + GFDL, 4536×3400). Not a matched official pair
+(different photographers/dates), and not yet downloaded/hashed locally (a network-tooling limitation, not
+a rights one) or actually recounted against — but SQ-2's long-standing "seek licensed imagery" blocker
+is now cleared. The recount itself, against the already-predeclared rules above, is the next concrete
+step.
+
 **Deliverables:** a checksummed sign-inventory table, an extraction/
 validation script or documented manual process, a missing-data or
 uncertain-reading report, and a small number of manually verified examples

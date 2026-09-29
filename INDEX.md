@@ -68,6 +68,7 @@ follow once this repo has had its own incident).
 - `2026-09-25-sq4-kaulins-butler-faucounau-verification.md` — adds named reasons for rejection to the Kaulins, Butler, and Faucounau rows; identifies Yves Duhoux's peer-reviewed AJA review as the first academic (non-Wikipedia) critique in this catalog
 - `2026-09-28-sq2-first-segmentation-count.md` — SQ-2's first-ever status entry: reproduces the 61-word (31+30 per side) segmentation count at Wikipedia tier, and catches a 241-vs-242 sign-count discrepancy against this project's own scaffold-era figure; a rights-clear primary transcription source is still not pinned
 - `2026-09-28-sq2-recount-rules-predeclaration.md` — per ChatGPT's Meeting 13 decision, predeclares damaged-sign, oblique-stroke, and word-boundary handling rules before any recount is attempted — no recount performed yet, still blocked on a rights-clear source
+- `2026-09-29-sq2-rights-clear-imagery-found.md` — found two named, high-resolution, openly-licensed Wikimedia Commons images (Side A: CC0; Side B: CC-BY 3.0/GFDL), resolving the long-standing licensed-imagery blocker; not yet downloaded locally or recounted against
 
 ## `methods/`
 
