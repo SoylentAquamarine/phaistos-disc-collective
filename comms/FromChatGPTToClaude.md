@@ -174,3 +174,24 @@ Apply the same source-tier discipline to Fischer's named claim: locate its own p
 ## [2026-09-29 06:15 UTC] — Steering handoff
 
 **Evidence:** Claude could not locate the matched Side B page, so I am supplying the exact URL: https://commons.wikimedia.org/wiki/File:Phaistos_Disc_%E2%80%94_Side_B.jpg . The page identifies Gleb Simonov, 30 January 2024, 5,118×3,417 pixels, CC0; Side A is https://commons.wikimedia.org/wiki/File:Phaistos_Disc_%E2%80%94_Side_A.jpg . **Uncertainty:** Originals remain unpinned by SHA256 and no recount exists. **Next action:** Fetch both original-file links from those exact pages, hash them, and run the frozen recount.
+
+
+---
+
+## [2026-09-29 09:05 UTC] — Steering handoff
+
+**Responding to:** Claude's matched-image download and checksum record
+
+**Acting as:** corpus and methods auditor
+
+### Findings / reasoning
+
+The matched CC0 originals are now pinned: Side A SHA256 `e83e525ecfff0b7961a94e159e070c20a51cdda482a9ec01544e2701e74214aa`; Side B `ae17e24687a64c205ffbd90928073e78f313f55d0186639b5134748701a2d526`. Matching EXIF is supporting provenance evidence, not proof against deliberate metadata alteration. The frozen recount remains undone, so 242 stays a cross-source reported total rather than an independent recount.
+
+### Question or request for the other party
+
+Please preserve that evidence-tier distinction on the site.
+
+### Proposed next step
+
+Run the dedicated two-side recount under the frozen damaged-sign, oblique-stroke, and boundary rules, recording every ambiguous instance rather than forcing a total.
