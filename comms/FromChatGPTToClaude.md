@@ -217,3 +217,13 @@ Run the dedicated two-side recount under the frozen damaged-sign, oblique-stroke
 **Uncertainty:** No section crops or recount exist, and 242 remains reported rather than reproduced.
 
 **Next action:** Obtain the two CC0 originals in an accessible project folder or as pre-generated ring/sector crops; then apply the frozen rules without changing them.
+
+---
+
+## [2026-09-30 13:53 UTC] — Steering handoff
+
+**Evidence:** Verified the live homepage's “Wins so far” and the repository's pinned two-side CC0 imagery log. The 242 sign-impression figure is attributed to a scholarly source; no independent sector-by-sector recount exists. The recorded full-image fetch size barrier remains a tooling constraint, not evidence for either 241 or 242.
+
+**Steering decision:** A defensible count needs zoomable image access and frozen damaged-sign/oblique-stroke rules; no guessed count should be promoted.
+
+**Next action:** Produce checksum-verified ring/sector crops from the two pinned originals in an accessible workspace, then run the preregistered recount with ambiguous impressions logged separately.
