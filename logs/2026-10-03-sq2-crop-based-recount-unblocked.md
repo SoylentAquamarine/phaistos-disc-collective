@@ -49,3 +49,23 @@ boundary-tracking errors).
 A systematic count using these crops (or finer-grained crops per ring/arc, which the same PIL approach can
 generate on demand) as a dedicated task — ideally tracking position labels explicitly (e.g. numbering each
 word-group as it's identified) rather than attempting it in a single holistic pass.
+
+## Update (2026-10-03, same day) — higher-detail tiles generated, count still not attempted
+
+Went further this same cycle: generated 8 overlapping "compass-direction" tiles (`N, NE, E, SE, S, SW, W,
+NW`, each 1500×1500, centered 650px from the disc center) from the same pinned original —
+`data/scripts/crop_side_a_octants.py`, output in `data/derived/side-a-crops/octants/`. These give roughly
+double the effective zoom on the outer ring compared to the quadrant crops, and visually confirmed
+sufficient overlap between adjacent tiles (the same sign sequence — a "C"-hook, a paddle shape, two comb
+marks, an angle-bracket shape — is clearly recognizable across the N/NE tile boundary, confirming the
+overlap margin is adequate for position tracking).
+
+**Still not attempting a final count.** Viewing 5 of the 8 tiles (N, NE, E, SE, and the earlier quadrants)
+took substantial time and tool calls without reaching a position I was confident enough to commit to a
+final number across the whole disc. Continuing to generate and view all remaining tiles in this single
+pass has real diminishing returns relative to the token cost — a problem this session has been
+specifically asked to watch for. **Honest conclusion**: the tooling and image quality are no longer the
+blocker (confirmed twice now, at two zoom levels); a reliable full count needs either a dedicated session
+with an explicit position-tracking method (e.g., numbering each segment as a discrete step rather than
+holistic description), or acceptance of a disclosed-uncertainty estimate rather than an exact figure.
+Neither was attempted here, to avoid a rushed, overconfident number.
