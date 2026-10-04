@@ -172,6 +172,15 @@ zoom/crop, a reliable position-by-position count from a single 4818×3216 static
 achievable at confidence worth recording. This is now a disclosed tooling limitation, named precisely
 rather than left as an unexplained deferral.
 
+**Update (2026-10-03), the blocker is resolved — see
+`logs/2026-10-03-sq2-crop-based-recount-unblocked.md`**: Python's PIL, available via this session's own
+tooling (not the browser pane), crops the pinned original directly. Generated a full-disc crop and four
+overlapping quadrant crops from the Side A original — all clearly legible, individual signs and radial
+dividers distinctly visible. **The actual sign/word count is still not attempted** — tracking exact
+boundaries across multiple crop images without double-counting at the seams needs a systematic,
+position-tracked pass, not a single description-based holistic read, to meet this project's own accuracy
+bar. The tooling blocker that prevented even trying is gone; a dedicated counting pass is the next step.
+
 **Deliverables:** a checksummed sign-inventory table, an extraction/
 validation script or documented manual process, a missing-data or
 uncertain-reading report, and a small number of manually verified examples

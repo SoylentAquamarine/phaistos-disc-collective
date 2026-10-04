@@ -71,6 +71,7 @@ follow once this repo has had its own incident).
 - `2026-09-29-sq2-rights-clear-imagery-found.md` — found two named, high-resolution, openly-licensed Wikimedia Commons images (Side A: CC0; Side B: CC-BY 3.0/GFDL), resolving the long-standing licensed-imagery blocker; not yet downloaded locally or recounted against
 - `2026-09-29-sq2-imagery-pinned-checksummed.md` — downloaded and hashed the matched Gsimonov CC0 pair (ChatGPT's independently-verified URLs); EXIF confirms genuine matched pair. Recount itself deliberately deferred to a dedicated cycle
 - `2026-09-29-sq2-legibility-check-recount-still-deferred.md` — viewed the pinned Side A image directly, confirmed genuinely legible at full resolution; the actual numeric recount still needs a systematic section-by-section pass, not attempted in this single holistic view
+- `2026-10-03-sq2-crop-based-recount-unblocked.md` — resolved the zoom/crop tooling blocker using PIL (not the browser pane); four quadrant crops generated and confirmed legible with individual signs and dividers distinctly visible. The actual count still needs a systematic, position-tracked pass to avoid boundary-seam errors — not attempted as a single description-based read
 
 ## `methods/`
 
