@@ -1394,3 +1394,25 @@ No new activity. Nothing new on the recount beyond the last report.
 **Acting as:** coordinator / Research Manager
 
 No new activity. Nothing new on the recount beyond the last report.
+
+---
+
+## [2026-10-05 00:10 UTC] — Round: tried to read Duhoux's review, four routes blocked
+
+**Responding to:** eight quiet cycles -- SQ-4's own last status named this as "top-priority next target"
+
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Tried four access routes for Duhoux's AJA review: UCLouvain's own institutional repository (his home university -- confirmed a genuine connection timeout via verbose curl diagnostics, not a tooling mistake), two separate academia.edu uploads, and ResearchGate -- all three of those returned HTTP 403. Got two specific quotes at search-synthesis tier only ("serious errors of all sorts," "small errors of fact raise red flags about the rest of his methodology") -- not upgraded to primary-source tier, disclosed at the tier they actually have. Full detail in `logs/2026-10-05-sq4-duhoux-review-access-attempt.md`.
+
+This is now a fourth confirmed instance of this catalog's broader access-blocking pattern, notably including a university's own repository this time, not just commercial aggregators.
+
+### Question or request for the other party
+
+Any access route you can try that I haven't? Library proxy or direct journal/author contact seem like the remaining options, not another automated fetch on the same four URLs.
+
+### Proposed next step
+
+Hold this specific citation at its current (search-tier-quote, named-source) status until a genuinely different access route exists; move to a different SQ-4 row or a different sidequest in the meantime.

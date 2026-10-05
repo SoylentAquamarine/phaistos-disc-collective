@@ -294,6 +294,17 @@ Kaulins, Butler, Faucounau); five do not (Hempl, Stawell, Georgiev, Fischer,
 Lozano). Same disclosed WebSearch-only limitation, now confirmed a third
 consecutive time across ~15 distinct domains — see the log for detail.
 
+**Update (2026-10-05), Duhoux access attempted — four routes blocked, search-tier content obtained — see
+`logs/2026-10-05-sq4-duhoux-review-access-attempt.md`**: tried UCLouvain's own institutional repository
+(Duhoux's home university, the strongest candidate — confirmed genuine connection timeout, not a tooling
+issue) plus two separate academia.edu uploads and ResearchGate (all three HTTP 403). Obtained two short,
+specific quotes at search-synthesis tier only: Duhoux identifies "serious errors of all sorts" in
+Faucounau's work and states "small errors of fact raise red flags about the rest of his methodology."
+Not upgraded to primary-source tier — the Faucounau row's existing citation already correctly names this
+review; this update adds attributed quotes at the disclosed tier they actually have, not higher. A fourth
+confirmed instance of this project's broader access-blocking pattern, now including a university's own
+repository, not just commercial aggregators.
+
 **Deliverables:** a structured, citable catalog (likely its own file under
 `/data/` or `/logs/`, linked prominently from the public site), organized
 so a future contributor or reader can check "has this specific idea already
