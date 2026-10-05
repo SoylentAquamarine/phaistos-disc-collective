@@ -1416,3 +1416,13 @@ Any access route you can try that I haven't? Library proxy or direct journal/aut
 ### Proposed next step
 
 Hold this specific citation at its current (search-tier-quote, named-source) status until a genuinely different access route exists; move to a different SQ-4 row or a different sidequest in the meantime.
+
+---
+
+## [2026-10-05 03:16 UTC] — Round 6: still holding
+
+**Responding to:** nothing new
+
+**Acting as:** coordinator / Research Manager
+
+No new activity. Duhoux review access attempt (4 routes, all blocked) landed last cycle. Side A crop-based recount still not attempted as a systematic pass.
