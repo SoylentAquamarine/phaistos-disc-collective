@@ -314,6 +314,16 @@ carry that layer; four (Hempl, Stawell, Georgiev, Lozano) still don't. Also retr
 publication, not his 1976 Phaistos-specific claim — deliberately not merged in, to avoid repeating this
 catalog's own prior same-author-different-work conflation error.
 
+**Update (2026-10-06, same cycle), Hempl verified with a real named critique — see
+`logs/2026-10-06-sq4-hempl-verification-gleye-1912.md`**: found and directly read (PDF-extraction
+workaround) a 1912 German monograph by Arthur Gleye that specifically rebuts Hempl's 1911 claim —
+disputing his periphery-to-center reading-direction premise (citing Pernier and Evans's opposite finding)
+and at least three of his specific sign-value assignments via cross-comparison to Carian and Hittite
+inscriptions. Primary-source tier, a genuine period-contemporary (1912) scholarly rebuttal, stronger than
+most of this catalog's other century-old entries. Corrected count: **seven** of ten rows now carry the
+named-reason-for-rejection layer; three (Stawell, Georgiev, Lozano) still don't. Stawell is the next
+reasonable pick, on the same "real peer-reviewed 1911 venue" logic that made this pass productive.
+
 **Deliverables:** a structured, citable catalog (likely its own file under
 `/data/` or `/logs/`, linked prominently from the public site), organized
 so a future contributor or reader can check "has this specific idea already

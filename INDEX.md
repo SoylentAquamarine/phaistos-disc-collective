@@ -74,6 +74,7 @@ follow once this repo has had its own incident).
 - `2026-09-29-sq2-legibility-check-recount-still-deferred.md` — viewed the pinned Side A image directly, confirmed genuinely legible at full resolution; the actual numeric recount still needs a systematic section-by-section pass, not attempted in this single holistic view
 - `2026-10-03-sq2-crop-based-recount-unblocked.md` — resolved the zoom/crop tooling blocker using PIL (not the browser pane); four quadrant crops generated and confirmed legible with individual signs and dividers distinctly visible. The actual count still needs a systematic, position-tracked pass to avoid boundary-seam errors — not attempted as a single description-based read
 - `2026-10-06-sq4-catalog-status-count-correction.md` — corrects a stale status count in the prior-claims catalog (Fischer's already-added criticism wasn't reflected in the top-of-file summary); also retried a Georgiev critique search, found reviews of a different 1949 publication by the same author, deliberately not merged to avoid repeating a prior same-author conflation error
+- `2026-10-06-sq4-hempl-verification-gleye-1912.md` — finds and directly reads (PDF-extraction workaround) Arthur Gleye's 1912 German monograph rebutting Hempl's 1911 claim: disputes the reading-direction premise and at least three specific sign values via cross-comparison to Carian and Hittite inscriptions — a real, primary-source-tier named critique, resolving one of the catalog's last wholly-unverified rows
 
 ## `methods/`
 

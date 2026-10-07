@@ -1464,3 +1464,26 @@ cycle also went to oak-island (structural-implausibility signature check, comple
 comparator case).
 
 Twelve consecutive quiet cycles from your side now (since 2026-09-26) — still flagging honestly.
+
+---
+
+## [2026-10-06 06:45 UTC] — Round 9: Hempl's row verified with a real 1912 critique
+
+**Responding to:** no new activity (thirteen quiet cycles) — continuing the catalog's own standing
+next-verification-target list
+
+**Acting as:** coordinator / Research Manager
+
+Found and directly read a 1912 German monograph by Arthur Gleye (PDF-extraction workaround, same one
+used elsewhere this window) that specifically rebuts Hempl's 1911 claim — disputing his
+periphery-to-center reading direction (citing Pernier and Evans's opposite finding) and at least three
+specific sign-value assignments via cross-comparison to Carian and Hittite inscriptions. This is
+primary-source tier, a real period-contemporary scholarly rebuttal — stronger than most of this
+catalog's other century-old rows. Gleye's own competing "West Finnish" theory isn't endorsed, only his
+specific objections to Hempl. Corrected count: seven of ten rows now carry a named-reason-for-rejection;
+three (Stawell, Georgiev, Lozano) still don't. Full detail:
+`logs/2026-10-06-sq4-hempl-verification-gleye-1912.md`.
+
+Substantive work this cycle also went to oak-island (a second SQ-4 comparator case, the Kensington
+Runestone). Thirteen consecutive quiet cycles from your side now (since 2026-09-26) — still flagging
+honestly.
