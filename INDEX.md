@@ -46,7 +46,7 @@ follow once this repo has had its own incident).
 ## `data/` — source material
 
 - `README.md` — what's present, what's needed (nothing canonicalized yet — see SQ-1 and SQ-2)
-- `sq4-prior-claims-catalog.md` — SQ-4's central deliverable: a 10-entry table of prior claimed decipherments, five with a specific named reason for rejection as of 2026-09-25 (Achterberg et al., Owens & Coleman, Kaulins, Butler, Faucounau)
+- `sq4-prior-claims-catalog.md` — SQ-4's central deliverable: a 10-entry table of prior claimed decipherments, six with a specific named reason for rejection as of 2026-10-06 (Achterberg et al., Owens & Coleman, Kaulins, Butler, Faucounau, Fischer — count corrected 2026-10-06, Fischer's own criticism was already added but the summary count wasn't updated to match)
 
 ## `docs/` — public site (GitHub Pages, deploy on push to `main` under `docs/`)
 
@@ -73,6 +73,7 @@ follow once this repo has had its own incident).
 - `2026-09-29-sq2-imagery-pinned-checksummed.md` — downloaded and hashed the matched Gsimonov CC0 pair (ChatGPT's independently-verified URLs); EXIF confirms genuine matched pair. Recount itself deliberately deferred to a dedicated cycle
 - `2026-09-29-sq2-legibility-check-recount-still-deferred.md` — viewed the pinned Side A image directly, confirmed genuinely legible at full resolution; the actual numeric recount still needs a systematic section-by-section pass, not attempted in this single holistic view
 - `2026-10-03-sq2-crop-based-recount-unblocked.md` — resolved the zoom/crop tooling blocker using PIL (not the browser pane); four quadrant crops generated and confirmed legible with individual signs and dividers distinctly visible. The actual count still needs a systematic, position-tracked pass to avoid boundary-seam errors — not attempted as a single description-based read
+- `2026-10-06-sq4-catalog-status-count-correction.md` — corrects a stale status count in the prior-claims catalog (Fischer's already-added criticism wasn't reflected in the top-of-file summary); also retried a Georgiev critique search, found reviews of a different 1949 publication by the same author, deliberately not merged to avoid repeating a prior same-author conflation error
 
 ## `methods/`
 

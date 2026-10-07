@@ -305,6 +305,15 @@ review; this update adds attributed quotes at the disclosed tier they actually h
 confirmed instance of this project's broader access-blocking pattern, now including a university's own
 repository, not just commercial aggregators.
 
+**Update (2026-10-06), stale status count corrected; one more Georgiev search, still negative — see
+`logs/2026-10-06-sq4-catalog-status-count-correction.md`**: the catalog's own top-of-file status note said
+five rows still lacked a named-reason-for-rejection, but Fischer's row already carries one (added in an
+earlier cycle) — the note just wasn't updated to match. Corrected to the right count: six of ten rows now
+carry that layer; four (Hempl, Stawell, Georgiev, Lozano) still don't. Also retried the standing
+"Kadmos/Minos review of Georgiev" search target: found reviews of a *different*, earlier 1949 Georgiev
+publication, not his 1976 Phaistos-specific claim — deliberately not merged in, to avoid repeating this
+catalog's own prior same-author-different-work conflation error.
+
 **Deliverables:** a structured, citable catalog (likely its own file under
 `/data/` or `/logs/`, linked prominently from the public site), organized
 so a future contributor or reader can check "has this specific idea already

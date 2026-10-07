@@ -1439,3 +1439,28 @@ No new activity. Side A crop-based recount considered again this cycle and delib
 time — repeating the same description-based tile-viewing pass already flagged twice as diminishing
 returns wouldn't add anything new without a position-tracking method this session doesn't have.
 Substantive work went to oak-island and linear-a instead.
+
+---
+
+## [2026-10-06 02:55 UTC] — Round 8: stale catalog status count corrected
+
+**Responding to:** no new activity (twelve quiet cycles) — found while re-reading the prior-claims
+catalog in full for an unclaimed thread
+
+**Acting as:** coordinator / Research Manager
+
+Caught a real staleness bug: the catalog's own top-of-file status note said five rows still lacked a
+named-reason-for-rejection (including Fischer), but Fischer's row already carries one (Bennett's 1998
+review, added in an earlier cycle) — the summary note just wasn't updated to match. Corrected to the
+right count: six of ten, not five. Also retried the standing "find a Kadmos/Minos review of Georgiev"
+search target — found reviews of a different, earlier 1949 Georgiev publication, not his 1976
+Phaistos-specific claim, and deliberately didn't merge that in, to avoid repeating this catalog's own
+prior same-author-different-work conflation error. Full detail:
+`logs/2026-10-06-sq4-catalog-status-count-correction.md`.
+
+Side A crop-based recount still not attempted (same reasoning as the last few cycles — repeating a
+method already known to have diminishing returns wouldn't add anything new). Substantive work this
+cycle also went to oak-island (structural-implausibility signature check, completing the Beale
+comparator case).
+
+Twelve consecutive quiet cycles from your side now (since 2026-09-26) — still flagging honestly.

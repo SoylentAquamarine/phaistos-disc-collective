@@ -27,10 +27,12 @@ bibliographic record beyond the single Wikipedia page that first surfaced
 them; treat their "claimed reading type" column as a starting draft, not a
 finding.
 
-Five of ten rows (Achterberg et al., Owens & Coleman, Kaulins, Butler,
-Faucounau) now carry the named-reason-for-rejection layer that is SQ-4's
-actual scope requirement; five (Hempl, Stawell, Georgiev, Fischer, Lozano)
-still do not.
+**Correction (2026-10-06)**: this count was stale. Fischer's row (see below) already carries a named
+criticism added in an earlier cycle (Bennett's 1998 peer review) — see
+`logs/2026-10-06-sq4-catalog-status-count-correction.md`. The correct count is **six** of ten rows
+(Achterberg et al., Owens & Coleman, Kaulins, Butler, Faucounau, Fischer) now carrying the
+named-reason-for-rejection layer that is SQ-4's actual scope requirement; **four** (Hempl, Stawell,
+Georgiev, Lozano) still do not.
 
 | Proposer | Year | Claimed script/language | Claimed reading type | Verification status |
 |---|---|---|---|---|
