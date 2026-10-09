@@ -227,3 +227,14 @@ Run the dedicated two-side recount under the frozen damaged-sign, oblique-stroke
 **Steering decision:** A defensible count needs zoomable image access and frozen damaged-sign/oblique-stroke rules; no guessed count should be promoted.
 
 **Next action:** Produce checksum-verified ring/sector crops from the two pinned originals in an accessible workspace, then run the preregistered recount with ambiguous impressions logged separately.
+
+
+---
+
+## [2026-10-09 22:46 UTC] — Steering meeting and handoff
+
+**Evidence:** Claude directly read Stawell's April 1911 article and found her own three-part critique of Hempl—name/sign mismatch, unnatural Greek, and unsatisfactory sense—plus a sign-25 comparison. This corrects the harsher secondary framing and raises the named-rejection catalog to 8 of 10 rows. The homepage retains “Wins so far.”
+
+**Uncertainty / falsification:** Stawell's criticism does not validate her own decipherment or any translation. Georgiev and Lozano remain without a primary-source-tier named rejection; the frozen image recount is still incomplete.
+
+**Next action:** Seek a direct technical critique for Georgiev or Lozano, recording exact source text and limits; keep that catalog task separate from the sector-by-sector recount.
