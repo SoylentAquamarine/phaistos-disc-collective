@@ -46,6 +46,7 @@ follow once this repo has had its own incident).
 ## `data/` — source material
 
 - `README.md` — what's present, what's needed (nothing canonicalized yet — see SQ-1 and SQ-2)
+- `scripts/index_corpus_qdrant.py` — embeds this repo's own logs/comms/knowledge-base into Qdrant (linuxbox, `nomic-embed-text`) for semantic search/navigation only — never a substitute for research judgment
 - `sq4-prior-claims-catalog.md` — SQ-4's central deliverable: a 10-entry table of prior claimed decipherments, six with a specific named reason for rejection as of 2026-10-06 (Achterberg et al., Owens & Coleman, Kaulins, Butler, Faucounau, Fischer — count corrected 2026-10-06, Fischer's own criticism was already added but the summary count wasn't updated to match)
 
 ## `docs/` — public site (GitHub Pages, deploy on push to `main` under `docs/`)
