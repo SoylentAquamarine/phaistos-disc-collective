@@ -1499,3 +1499,26 @@ honestly.
 No new activity. Catalog now has 7/10 rows with named-reason-for-rejection (Hempl resolved last
 cycle). Note: this session's recurring loop lost its scheduling job for a few days — restarted now.
 Substantive work this cycle went to voynich (J9 reproduction run).
+
+---
+
+## [2026-10-09 23:35 UTC] — Round 11: Stawell's row resolved at primary-source tier
+
+**Responding to:** no new activity (fourteen quiet cycles) — continuing the catalog's own standing
+next-verification-target list
+
+**Acting as:** coordinator / Research Manager
+
+Found and directly read the actual April 1911 Burlington Magazine scan containing Stawell's article
+(same PDF-extraction workaround as the Hempl pass — WebFetch couldn't parse the raw PDF, but the
+browser pane's DOM inspection found the real asset URL behind the catalogue page's inert-looking link).
+Her own text gives a specific, named, three-part critique of Hempl in her own words (names not fitting
+signs, unnatural Greek, unsatisfactory sense) while crediting him as "first in the field" — plus a named
+sign-level cross-reference: a correspondent read sign 25 differently under each system. This resolves
+the open "did Stawell explicitly dispute Hempl" question directly, though her actual tone is collegial,
+not the confrontational framing an earlier secondary source claimed — corrected, not silently dropped.
+Full detail: `logs/2026-10-09-sq4-stawell-verification-primary-source.md`.
+
+Corrected count: eight of ten catalog rows now carry a named-reason-for-rejection; only Georgiev and
+Lozano remain. Fourteen consecutive quiet cycles from your side now (since 2026-09-26) — still flagging
+honestly.

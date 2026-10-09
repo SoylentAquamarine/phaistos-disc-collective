@@ -324,6 +324,18 @@ most of this catalog's other century-old entries. Corrected count: **seven** of 
 named-reason-for-rejection layer; three (Stawell, Georgiev, Lozano) still don't. Stawell is the next
 reasonable pick, on the same "real peer-reviewed 1911 venue" logic that made this pass productive.
 
+**Update (2026-10-09), Stawell verified at primary-source tier — see
+`logs/2026-10-09-sq4-stawell-verification-primary-source.md`**: found and directly read (same
+PDF-extraction workaround, located the actual file URL via DOM inspection after the catalogue page's own
+link proved inert to a plain fetch) the actual April 1911 Burlington Magazine scan containing Stawell's
+article. Her own text gives a specific, named, three-part critique of Hempl in her own words (names not
+fitting signs, unnatural Greek, unsatisfactory sense) while crediting him as first in the field, plus a
+named sign-level cross-reference (sign 25, read differently under each system). This resolves the
+previously-uncorroborated "explicit dispute" question directly — though not in the confrontational framing
+a secondary source had claimed; that framing is now disclosed as not confirmed, not silently dropped.
+Corrected count: **eight** of ten rows now carry the named-reason-for-rejection layer; two (Georgiev,
+Lozano) still don't.
+
 **Deliverables:** a structured, citable catalog (likely its own file under
 `/data/` or `/logs/`, linked prominently from the public site), organized
 so a future contributor or reader can check "has this specific idea already
