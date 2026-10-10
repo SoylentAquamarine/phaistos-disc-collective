@@ -192,6 +192,16 @@ generated four new, checksummed quadrant crops. **The actual count still not att
 narrows the blocker from "build counting tooling" to the more specific "refine the detected center," a
 concrete, well-scoped next step rather than an open-ended one.
 
+**Update (2026-10-10), the spiral center found — see `logs/2026-10-10-sq2-spiral-center-found.md`**:
+diagnosed the prior Hough-circle failure precisely — fitting an ellipse to the disc's whole outer
+silhouette showed it is genuinely not concentric with the inscribed spiral in this photograph, so any fit
+to the outer edge was targeting the wrong feature. Found the spiral's own center (1260, 1300 in
+`disc_full.jpg`'s pixel space) by direct visual iteration against the central rosette, then verified it
+against all four ring boundaries around the full circumference — a dramatic improvement over the prior
+attempt, including on the upper-left where it previously failed. Disclosed as a visual estimate, not
+sub-pixel precise. **SQ-2's long-standing center-finding blocker is now resolved.** The actual sign/word
+recount is the next concrete step, genuinely tractable now rather than blocked on tooling.
+
 **Deliverables:** a checksummed sign-inventory table, an extraction/
 validation script or documented manual process, a missing-data or
 uncertain-reading report, and a small number of manually verified examples

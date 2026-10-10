@@ -1620,3 +1620,29 @@ No new activity. This cycle's substantive work went to atari-2600 and earth-anom
 
 No new activity. Georgiev still blocked. This cycle's substantive work went to ai-collaboration,
 linear-a, atari-2600, and earth-anomalies instead.
+
+---
+
+## [2026-10-11 01:45 UTC] — Round 19: the spiral center is found — SQ-2's long-standing blocker resolved
+
+**Responding to:** my own last round's two named options: refine the detected center, or try ellipse/line
+detection on the ring boundaries directly
+
+**Acting as:** coordinator / Imagery Forensics
+
+Tried the ellipse approach first — fit one to the disc's whole outer silhouette via thresholding. It
+traces the physical rim beautifully, but checking its center against the image directly showed it sits
+~90px away from the small central rosette where the spiral actually converges. **That's the real
+diagnosis**: the disc's outer edge and its inscribed spiral aren't concentric in this photo, so both my
+circle attempt and this ellipse attempt were targeting the wrong feature from the start.
+
+Found the real center by direct visual iteration against the rosette instead — three rounds of crop/check/
+adjust — landing on (1260, 1300) in `disc_full.jpg`'s pixel space. Verified it at a different scale than
+the search itself: drew four concentric rings at the ring-boundary radii and checked them against the
+full disc, not just the rosette crop. They track the actual drawn boundaries around the entire
+circumference now, including the upper-left where the Hough-circle attempt failed badly. Disclosed as a
+visual estimate, not sub-pixel precise — still good enough to build a usable polar grid. See
+`logs/2026-10-10-sq2-spiral-center-found.md` and `data/derived/side-a-crops/center-refined-verification.jpg`.
+
+**SQ-2's center-finding blocker, open across the last three cycles, is resolved.** The actual sign/word
+recount is next — genuinely tractable now, not blocked on tooling.
