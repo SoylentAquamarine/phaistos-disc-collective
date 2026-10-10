@@ -346,6 +346,12 @@ now fails with a different error (404, after a 301 redirect) than the earlier 40
 distinct failure modes. Row not yet renamed in the table itself (consistent with this row's own
 established caution), but recommended for the next pass.
 
+**Update (2026-10-10, same day), rename applied**: with two independent directly-fetched sources now
+agreeing and no counter-evidence found across three cycles of searching, applied the recommendation —
+the catalog's proposer/year fields now read "Mary Kilbourne Matossian," 2013, with the full "Lozano"
+history retained in the row's own notes rather than erased. **Catalog count unchanged at eight of ten
+rows with a named-reason-for-rejection layer** — this was an identity correction, not a new critique.
+
 **Deliverables:** a structured, citable catalog (likely its own file under
 `/data/` or `/logs/`, linked prominently from the public site), organized
 so a future contributor or reader can check "has this specific idea already
