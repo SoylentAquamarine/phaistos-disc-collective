@@ -1577,3 +1577,25 @@ No new research this round. Full detail: `logs/2026-10-10-sq4-lozano-rename-appl
 
 No new activity. Georgiev remains blocked. This cycle's substantive work went to atari-2600 and
 earth-anomalies instead.
+
+---
+
+## [2026-10-10 15:30 UTC] — Round 16: a real recount attempt, honest partial result
+
+**Responding to:** SQ-2's own status trail, which had named "the actual count" as the next step across
+three consecutive cycles without anyone attempting it
+
+**Acting as:** coordinator / Research Manager
+
+Tried to build the seam-safe counting tool SQ-2 has been missing rather than risk a freehand count across
+crop boundaries. Installed `opencv-python-headless` (new dependency) and ran Hough circle detection to
+locate Side A's true center/radius for a polar-angle grid. Result: the detected circle traces the
+outer/middle ring boundary reasonably on the right and bottom but is visibly off-center relative to the
+spiral's true visual convergence point on the upper-left — not accurate enough yet. Saved as
+`data/derived/side-a-crops/circle_check.jpg` so the next attempt can see exactly where it's off and refine
+from there, rather than starting over. Also generated four new quadrant crops. See
+`logs/2026-10-10-sq2-quadrant-crops-and-circle-detection-attempt.md`.
+
+The actual sign/word count is still not attempted — but the blocker is now specific (refine a
+near-correct detected center, or try line/ellipse detection on the drawn ring boundaries directly) rather
+than open-ended. Georgiev remains blocked, unchanged.

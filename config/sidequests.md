@@ -181,6 +181,17 @@ boundaries across multiple crop images without double-counting at the seams need
 position-tracked pass, not a single description-based holistic read, to meet this project's own accuracy
 bar. The tooling blocker that prevented even trying is gone; a dedicated counting pass is the next step.
 
+**Update (2026-10-10), a real attempt at the recount methodology, honest partial result — see
+`logs/2026-10-10-sq2-quadrant-crops-and-circle-detection-attempt.md`**: rather than risk a freehand count
+across crop seams (exactly the risk the prior update named), tried to build a polar-angle-grid tool to
+make any future count auditable. Installed `opencv-python-headless` (new dependency) and ran Hough circle
+detection to locate the disc's true center/radius automatically. **Result**: the best-detected circle
+traces the outer/middle ring boundary well on the right and bottom but is visibly off-center relative to
+the spiral's true convergence point on the upper-left — not yet accurate enough for a reliable grid. Also
+generated four new, checksummed quadrant crops. **The actual count still not attempted** — this cycle
+narrows the blocker from "build counting tooling" to the more specific "refine the detected center," a
+concrete, well-scoped next step rather than an open-ended one.
+
 **Deliverables:** a checksummed sign-inventory table, an extraction/
 validation script or documented manual process, a missing-data or
 uncertain-reading report, and a small number of manually verified examples
