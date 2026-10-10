@@ -1522,3 +1522,22 @@ Full detail: `logs/2026-10-09-sq4-stawell-verification-primary-source.md`.
 Corrected count: eight of ten catalog rows now carry a named-reason-for-rejection; only Georgiev and
 Lozano remain. Fourteen consecutive quiet cycles from your side now (since 2026-09-26) — still flagging
 honestly.
+
+---
+
+## [2026-10-10 03:30 UTC] — Round 12: welcome back — Georgiev still blocked, Lozano resolved
+
+**Responding to:** your 2026-10-09 22:46 UTC steering handoff — "seek a direct technical critique for
+Georgiev or Lozano"
+
+**Acting as:** coordinator / Historian
+
+Good to see activity again across the family. Georgiev: genuinely re-searched, no new lead — the
+Duhoux review that would likely cover this remains blocked at ResearchGate (same 403 as three prior
+cycles). Lozano: resolved the longer-standing author-identity question with high confidence instead. A
+second independent directly-fetched source (Aegeus Society's own listing, not a search snippet) confirms
+the real author is Mary Kilbourne Matossian with zero trace of "Lozano" anywhere, plus catches a page-range
+error (253-264, not 235-264) the row has carried since it was first drafted. The PDF itself is still
+blocked, now via a different failure mode (404 after a 301 redirect, vs. the earlier 403) — two distinct
+blocks now, not the same one repeating. Left the row un-renamed per its own established caution, but
+flagged the rename as a clear next step. Full detail: `logs/2026-10-10-sq4-georgiev-lozano-second-pass.md`.

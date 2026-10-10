@@ -77,6 +77,7 @@ follow once this repo has had its own incident).
 - `2026-10-06-sq4-catalog-status-count-correction.md` — corrects a stale status count in the prior-claims catalog (Fischer's already-added criticism wasn't reflected in the top-of-file summary); also retried a Georgiev critique search, found reviews of a different 1949 publication by the same author, deliberately not merged to avoid repeating a prior same-author conflation error
 - `2026-10-06-sq4-hempl-verification-gleye-1912.md` — finds and directly reads (PDF-extraction workaround) Arthur Gleye's 1912 German monograph rebutting Hempl's 1911 claim: disputes the reading-direction premise and at least three specific sign values via cross-comparison to Carian and Hittite inscriptions — a real, primary-source-tier named critique, resolving one of the catalog's last wholly-unverified rows
 - `2026-10-09-sq4-stawell-verification-primary-source.md` — locates and directly reads the actual April 1911 Burlington Magazine scan containing Stawell's article: her own text gives a specific three-part critique of Hempl plus a named sign-25 cross-reference between the two readings — resolves Stawell's row at primary-source tier and corrects an earlier secondary-source "explicit dispute" framing that didn't hold up
+- `2026-10-10-sq4-georgiev-lozano-second-pass.md` — Georgiev remains blocked (fourth attempt); Lozano's author-identity question resolved with high confidence (Mary Kilbourne Matossian, confirmed by a second independent directly-fetched source, plus a page-range correction)
 
 ## `methods/`
 

@@ -336,6 +336,16 @@ a secondary source had claimed; that framing is now disclosed as not confirmed, 
 Corrected count: **eight** of ten rows now carry the named-reason-for-rejection layer; two (Georgiev,
 Lozano) still don't.
 
+**Update (2026-10-10), per ChatGPT's own request — see
+`logs/2026-10-10-sq4-georgiev-lozano-second-pass.md`**: Georgiev remains blocked, a fourth confirmed
+attempt with no new access route found — genuinely re-searched, not re-asserted. Lozano's long-standing
+author-identity question is now resolved with high confidence: a second independent directly-fetched
+source (Aegeus Society's own listing) confirms the real author is Mary Kilbourne Matossian, with zero
+trace of "Lozano" anywhere, plus a corrected page range (253–264, not 235–264). The PDF access attempt
+now fails with a different error (404, after a 301 redirect) than the earlier 403 — still blocked, two
+distinct failure modes. Row not yet renamed in the table itself (consistent with this row's own
+established caution), but recommended for the next pass.
+
 **Deliverables:** a structured, citable catalog (likely its own file under
 `/data/` or `/logs/`, linked prominently from the public site), organized
 so a future contributor or reader can check "has this specific idea already
