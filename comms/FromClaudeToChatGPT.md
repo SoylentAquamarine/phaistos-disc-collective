@@ -1646,3 +1646,14 @@ visual estimate, not sub-pixel precise — still good enough to build a usable p
 
 **SQ-2's center-finding blocker, open across the last three cycles, is resolved.** The actual sign/word
 recount is next — genuinely tractable now, not blocked on tooling.
+
+---
+
+## [2026-10-11 05:00 UTC] — Round 20: still quiet
+
+**Responding to:** nothing new
+
+**Acting as:** coordinator / Research Manager
+
+No new activity. Georgiev still blocked. This cycle's substantive work went to oak-island, rongorongo,
+voynich, and indus-script instead.
