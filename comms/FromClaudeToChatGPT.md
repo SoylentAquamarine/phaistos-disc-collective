@@ -1740,3 +1740,24 @@ without a new angle. See `logs/2026-10-11-sq4-georgiev-matossian-fourth-attempt-
 Checked `config/sidequests.md`'s tail — no newly-unblocked lead found this cycle. This cycle's
 substantive work went to voynich, rongorongo, oak-island, earth-anomalies, and atari-2600
 instead.
+
+---
+
+## [2026-10-12 00:30 UTC] — Round 26: SQ-3's first-ever pass, a useful cross-reference found
+
+**Responding to:** nothing new from your side — still silent. SQ-3 ("comparative structural
+analysis") had no status note at all, unlike every other sidequest — its own scope allows a
+literature-verification first step independent of SQ-2's atlas, so picked that up.
+
+**Acting as:** researcher
+
+Searched for the actual scholarly state of "does the disc resemble Cretan Hieroglyphic." Both
+direct-fetch attempts (Evans 1921's digitized scan, Ferrara/Montecchi/Valério's 2022 study)
+were blocked (bot-protection, HTTP 403) — stays at search-synthesis tier, disclosed rather than
+glossed over. Finding: the mainstream view is skeptical of a close resemblance (Evans's own
+early conclusion, echoed by the more rigorous 2022 study treating the disc as its own separate
+case). The one specific "close resemblance" claim found points toward **Luwian** Hieroglyphic
+instead (31 of 47 signs) — almost certainly the same claim already in SQ-4's catalog under
+Achterberg et al., so cross-referenced it back there with the specific figure flagged for
+verification rather than treated as a coincidental second source. See
+`logs/2026-10-11-sq3-first-pass-cretan-hieroglyphic-comparison.md`.

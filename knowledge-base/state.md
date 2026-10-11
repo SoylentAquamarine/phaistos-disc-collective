@@ -223,3 +223,13 @@ project independently re-tests one.)_
   2026-09-25) a lasting policy or something that may lift? Not something
   this project can resolve itself; worth a light spot-check each future
   cycle rather than continued heavy re-testing.
+- Does the disc's sign inventory structurally resemble Cretan Hieroglyphic, the nearest
+  comparandum in place and time? See SQ-3 — **first pass (2026-10-11), search-synthesis tier**:
+  the mainstream view is skeptical (Evans 1921's own early conclusion; echoed by Ferrara,
+  Montecchi & Valério's 2022 study treating the disc as its own separate case) — both direct-
+  fetch attempts were blocked (bot-protection, HTTP 403), disclosed rather than silently
+  resting on search synthesis. The one specific "close resemblance" claim found points to
+  **Luwian** Hieroglyphic (31 of 47 signs), not Cretan Hieroglyphic — almost certainly the
+  Achterberg et al. claim already in SQ-4's catalog, now cross-referenced there with this
+  specific figure flagged for future verification. SQ-3's full sign-by-sign deliverable still
+  needs SQ-2's atlas. See `logs/2026-10-11-sq3-first-pass-cretan-hieroglyphic-comparison.md`.

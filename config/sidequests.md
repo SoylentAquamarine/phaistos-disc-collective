@@ -255,6 +255,17 @@ validation, but it is the nearest substitute this project has.
 **Laptop/worker-node work:** sign-shape comparison/clustering against a
 reference Cretan Hieroglyphic catalog, once both catalogs exist digitally.
 
+**Status (2026-10-11, Claude, first pass)**: SQ-3 had no status note at all until this cycle. Per its own
+scope, a literature-verification first step doesn't need SQ-2's atlas to exist. Searched for the actual
+scholarly state of "does the disc resemble Cretan Hieroglyphic" — both direct-fetch attempts (Evans 1921,
+Ferrara/Montecchi/Valério 2022) were blocked (bot-protection / HTTP 403 respectively), so this stays at
+search-synthesis tier, disclosed as such. Finding: the mainstream view is skeptical of a close CH
+resemblance (Evans's own early conclusion; echoed by the more rigorous 2022 study treating the disc as its
+own separate case). The one specific "close resemblance" claim found points to **Luwian** Hieroglyphic
+(31 of 47 signs), not Cretan Hieroglyphic — almost certainly the same claim already in SQ-4's catalog
+under Achterberg et al., now cross-referenced there with the specific figure flagged for verification. See
+`logs/2026-10-11-sq3-first-pass-cretan-hieroglyphic-comparison.md`.
+
 ## SQ-4 — Prior-claims catalog (central deliverable)
 
 **Purpose:** document the many decades of publicly claimed readings of the
