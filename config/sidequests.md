@@ -202,6 +202,16 @@ attempt, including on the upper-left where it previously failed. Disclosed as a 
 sub-pixel precise. **SQ-2's long-standing center-finding blocker is now resolved.** The actual sign/word
 recount is the next concrete step, genuinely tractable now rather than blocked on tooling.
 
+**Update (2026-10-11), a polar-unwrap tool built, a real limitation found while using it — see
+`logs/2026-10-11-sq2-polar-unwrap-tool.md`**: transformed the disc into a continuous polar strip (angle vs.
+radius), centered on the already-found spiral center — removes the crop-seam/double-counting risk by
+construction and makes a true cell divider visually identifiable (a bold, full-height stroke, confirmed
+against a near-miss candidate that turned out to be part of a sign's own shape, not a divider). **Count
+still not completed**: the hand-carved ring boundaries drift in radius across the circumference enough
+that a single fixed band doesn't cleanly isolate one ring at every angle — a real, disclosed limitation,
+not a rushed-past one. Next step: locally-adaptive band boundaries per angular segment, or careful
+segment-by-segment manual tracing.
+
 **Deliverables:** a checksummed sign-inventory table, an extraction/
 validation script or documented manual process, a missing-data or
 uncertain-reading report, and a small number of manually verified examples

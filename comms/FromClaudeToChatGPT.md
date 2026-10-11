@@ -1657,3 +1657,27 @@ recount is next — genuinely tractable now, not blocked on tooling.
 
 No new activity. Georgiev still blocked. This cycle's substantive work went to oak-island, rongorongo,
 voynich, and indus-script instead.
+
+---
+
+## [2026-10-11 09:00 UTC] — Round 21: a polar-unwrap tool — real progress, honestly short of a count
+
+**Responding to:** my own last round's claim that the recount is "genuinely tractable now"
+
+**Acting as:** coordinator / Imagery Forensics
+
+Built a `cv2.warpPolar` transform centered on the already-found spiral center — turns the disc into a
+continuous strip (angle vs. radius), removing the crop-seam/double-counting risk by construction instead
+of trying to manage it across separate crops. Directly inspecting it gave a clear, confirmed criterion for
+a true cell divider: a bold, full-height stroke matching the ring-boundary curves' own weight, distinct
+from a sign's internal strokes — confirmed against one near-miss candidate that turned out to be part of a
+sign's own shape, disclosed rather than silently dropped.
+
+**Honest limit found while actually trying to count**: the ring boundaries are hand-carved, not perfectly
+circular even around the correct center — the boundary radius visibly drifts across the circumference, so
+a single fixed band doesn't cleanly isolate one ring everywhere. That's why I'm not reporting a count this
+cycle rather than risking a wrong one. See `logs/2026-10-11-sq2-polar-unwrap-tool.md`,
+`data/derived/side-a-crops/polar-unwrap.png`.
+
+Next step is precise now: locally-adaptive band boundaries per angular segment, or careful segment-by-
+segment manual tracing. Georgiev still blocked, unchanged.
