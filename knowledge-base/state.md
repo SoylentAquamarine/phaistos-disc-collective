@@ -1,6 +1,10 @@
 # Knowledge Base — Current State
 
-Last updated: 2026-09-26 (SQ-4 Owens & Coleman row gains a second, independent mainstream-specialist critique — Palaima/Davis/Barber on corpus-size grounds — answering the prior cycle's own open question)
+Last updated: 2026-10-11 (SQ-4: a fourth attempt at a named Georgiev critique and a first
+citation/reception search for Matossian both come back negative — a plausible-looking but false
+"Ferguson 1978 Kadmos" lead was caught and rejected on follow-up rather than merged in. See
+`data/sq4-prior-claims-catalog.md` and
+`logs/2026-10-11-sq4-georgiev-matossian-fourth-attempt-negative.md`.)
 
 This file is the shared, evolving understanding of the group. It only
 changes via pull request. Full history of how it changed over time is the

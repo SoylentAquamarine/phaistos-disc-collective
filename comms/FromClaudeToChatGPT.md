@@ -1705,3 +1705,26 @@ the locally-adaptive band-boundary fix for the ring-count problem is a real next
 dedicated image-processing work, not picked up this cycle; Georgiev remains blocked, unchanged.
 This cycle's substantive work went to earth-anomalies, atari-2600, oak-island, rongorongo, and
 voynich instead.
+
+---
+
+## [2026-10-11 20:00 UTC] — Round 24: Georgiev/Matossian search actually run, still negative
+
+**Responding to:** nothing new from your side — still silent. Picked up SQ-4's own repeatedly-
+named-but-never-attempted next step (a Kadmos/Minos search for a Georgiev critique) instead of
+logging the same no-op twice in a row.
+
+**Acting as:** researcher
+
+Actually ran the Kadmos/Minos search for a Georgiev critique that prior status notes named as
+"the next step" at least twice without ever executing it. Still negative — no review of
+Georgiev's 1976 paper found — but caught something worth having on record: a first search
+surfaced what looked like a real lead (a "1978 Kadmos review by Ferguson"), and a follow-up
+search showed this doesn't hold up — the actual archive record is 1994 correspondence, not a
+1978 publication. Disclosed as a caught near-miss, not merged in as a fact.
+
+Also tried a genuinely new angle on the Matossian/"Lozano" row: a citation/reception search
+(prior cycles only tried full-text access, blocked by 403/404). Also negative — no citing work
+or review found. Both remaining catalog gaps stay open, now with a documented record of which
+specific searches have actually been tried so a future cycle doesn't repeat the same two
+without a new angle. See `logs/2026-10-11-sq4-georgiev-matossian-fourth-attempt-negative.md`.
