@@ -245,4 +245,10 @@ project independently re-tests one.)_
   crop alone wasn't enough at every angle) and raised the unwrap's outer radius accordingly. Directly
   re-verified: Ring 1 is now fully captured at every angle checked. **Both named blockers for a full
   count are resolved; the actual count is the only remaining step.** See
-  `logs/2026-10-12-sq2-widen-outer-radius-selfreview.md` and `-execution.md`.
+  `logs/2026-10-12-sq2-widen-outer-radius-selfreview.md` and `-execution.md`. **Update (2026-10-13)**: a
+  first count attempt (Ring 1 only, full-image-height segments, no fixed band) finds a real, disclosed
+  difficulty rather than a clean tally — one segment gave a clear divider count, but an adjacent segment
+  showed no clearly identifiable bold divider across its full width despite containing several distinct
+  signs, a real contrast with Ring 2's own clearly visible dividers in the same segment. No full Ring 1
+  tally is reported, to avoid forcing a confidently-wrong number through genuine ambiguity. See
+  `logs/2026-10-13-sq2-ring1-count-selfreview.md` and `-execution.md`.

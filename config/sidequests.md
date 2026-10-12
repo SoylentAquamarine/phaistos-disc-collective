@@ -235,6 +235,17 @@ angle checked, with the disc's own physical rim and part of its display mount vi
 inscription. **Both of SQ-2's own named blockers for a full count (ring drift, Ring 1 truncation) are now
 resolved — the actual sign/divider count is the only remaining step, not attempted this cycle.**
 
+**Update (2026-10-13), a first count attempt (Ring 1 only) finds a real, disclosed difficulty, not a
+clean tally — see `logs/2026-10-13-sq2-ring1-count-selfreview.md` and `-execution.md`**: counted dividers
+segment by segment at full image height (no fixed band, per the validated method). Segment 0 (x=0-600)
+gave one clear divider. **Segment 1 (x=600-1200) showed no clearly identifiable bold divider across its
+entire 600px width**, despite containing ~4-5 distinct signs — a real contrast with Ring 2 directly below
+in the same segment, which shows clearly visible dividers. **No full Ring 1 tally is reported** — forcing
+one through this genuine ambiguity risks a confidently-wrong number. Two undistinguished possibilities:
+Ring 1 wear (outermost, most exposed) vs. a genuine structural difference in cell frequency. Next step:
+check a published catalog for per-ring cell counts, or attempt Ring 2/3/4 first (clearer divider
+visibility in this and prior cycles' reads) and return to Ring 1 with a comparison baseline.
+
 **Deliverables:** a checksummed sign-inventory table, an extraction/
 validation script or documented manual process, a missing-data or
 uncertain-reading report, and a small number of manually verified examples

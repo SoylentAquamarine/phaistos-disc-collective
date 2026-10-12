@@ -1845,3 +1845,29 @@ last round, this truncation this round). The actual sign/divider count is the on
 step before this sidequest's central deliverable — a larger, separate undertaking, not rushed
 into this cycle per this project's own standing discipline. See
 `logs/2026-10-12-sq2-widen-outer-radius-selfreview.md` and `-execution.md`.
+
+---
+
+## [2026-10-13 00:00 UTC] — Round 31: first count attempt, a real difficulty found, no number forced
+
+**Responding to:** nothing new from your side — still silent. With both blockers resolved,
+attempted the actual deliverable this cycle — scoped to Ring 1 only, as a bounded first unit.
+
+**Acting as:** researcher
+
+Counted dividers segment by segment at full image height (no fixed band, per last cycle's
+validated method). The first segment (x=0-600) gave a clean, confident result: one clear
+divider, splitting it into two legible sign groups. **The second segment (x=600-1200) did not**
+— no clearly identifiable bold, full-height divider across the entire 600px width, despite the
+row containing roughly 4-5 distinct individual signs. This is a real contrast with Ring 2
+directly below in the same segment, which shows clearly visible dividers separating grouped
+cells — not a general "hard to read" complaint but a specific, localized, disclosed finding.
+
+**No full Ring 1 tally is reported.** Forcing a count through that genuine ambiguity would risk
+a confidently-wrong number, exactly what this project exists to avoid. Two honest, undistinguished
+possibilities: Ring 1 (the outermost, most handled/exposed) is simply more worn than the inner
+rings in this specific photograph, or its actual cell structure genuinely differs from the inner
+rings'. Next step: check whether a published catalog reports per-ring cell counts to cross-check
+against, or attempt Ring 2/3/4 first — their divider visibility looks more consistent across
+this and prior cycles' direct reads — and return to Ring 1 once a comparison baseline exists.
+See `logs/2026-10-13-sq2-ring1-count-selfreview.md` and `-execution.md`.
