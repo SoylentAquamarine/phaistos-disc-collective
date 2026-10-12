@@ -7,22 +7,42 @@ This is a genuine methodological improvement over counting directly on the circu
 boundaries, cell dividers, and signs all become much easier to track and cross-reference across
 crops, since there is no wraparound and no need to track an angular position by eye.
 
-Disclosed limitation, found while using this tool: the ring boundaries are hand-carved and not
-perfectly circular even around the already-found center, so a single fixed vertical (radius) band
-does not cleanly isolate one ring at every angle -- the boundary drifts up/down by a visible amount
-across the circumference. A full, reliable count needs either locally-adaptive band boundaries per
-angular segment, or careful manual tracing segment by segment watching for this drift, not a single
-fixed crop applied uniformly. Not yet attempted at that level of care -- see
-logs/2026-10-11-sq2-polar-unwrap-tool.md.
+Disclosed limitation, found while using this tool (2026-10-11): the ring boundaries are hand-carved
+and not perfectly circular even around the already-found center, so a single fixed vertical (radius)
+band does not cleanly isolate one ring at every angle -- the boundary drifts up/down by a visible
+amount across the circumference. **Resolved (2026-10-12)**: reading the full unwrap image directly
+(not through a fixed sub-crop) keeps every ring's drifting boundary traceable by eye -- adaptive
+per-segment boundaries are not needed for reading, only for an automated/cropped extraction this
+project never required. See logs/2026-10-12-sq2-direct-visual-read-{selfreview,execution}.md.
+
+Disclosed limitation, found the same cycle: with disc_full.jpg as the source, the spiral center
+(1260, 1300) sits only ~1260px from that crop's own left edge, capping MAX_RADIUS and truncating
+Ring 1 (the outermost ring) at the top of every one of 6 segments checked. **Resolved (2026-10-12)**:
+switched the source to the original, larger photograph (side-a-original.jpg, 4818x3216, still on
+file, already checksummed by crop_side_a.py), which has far more margin around the same physical
+center point -- recomputed in the original's own coordinate system, the center's minimum distance to
+any edge is 1440px, versus disc_full.jpg's ~1260px. See
+logs/2026-10-12-sq2-widen-outer-radius-{selfreview,execution}.md.
 """
 import cv2
 
-SRC = 'data/derived/side-a-crops/disc_full.jpg'
+# Even side-a-original.jpg (4818x3216) wasn't enough margin in every direction: at MAX_RADIUS=1420
+# (the tightest edge, "north"/top), some angular positions still truncated Ring 1 -- the disc's
+# hand-carved rim isn't a perfect circle, so the binding constraint at one angle doesn't guarantee
+# full capture at every angle. Fixed by padding the source with a uniform 400px gray border on all
+# sides (ImageOps.expand) so every angular direction has generous headroom regardless of the disc's
+# own real eccentricity -- see data/scripts/pad_source_image.py and
+# logs/2026-10-12-sq2-widen-outer-radius-{selfreview,execution}.md.
+SRC = 'data/derived/side-a-original-padded.jpg'
 OUT = 'data/derived/side-a-crops/polar-unwrap.png'
 OVERVIEW_OUT = 'data/derived/side-a-crops/polar-unwrap-overview.png'
 
-CENTER = (1260, 1300)  # from find_spiral_center.py, visually verified against all four ring boundaries
-MAX_RADIUS = 1250
+# Center recomputed in side-a-original-padded.jpg's own coordinate system: the same already-
+# verified physical point as (1260, 1300) in disc_full.jpg, translated by disc_full.jpg's own crop
+# offset (1150, 140) from crop_side_a.py plus the 400px pad border -- a deterministic translation,
+# not a re-finding of the center.
+CENTER = (2810, 1840)
+MAX_RADIUS = 1600  # min distance to any padded edge is 1840; 1600 leaves real safety margin
 ANGULAR_RESOLUTION = 3600  # 0.1 degree per output row before rotation
 
 img = cv2.imread(SRC)

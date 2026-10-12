@@ -224,6 +224,17 @@ edge in all 6 segments without exception — the polar-unwrap's own outer-radius
 then attempt the actual count using the now-validated direct-continuous-read method — not attempted this
 cycle, a full count remains a separate, future step.
 
+**Update (2026-10-12, same day), the radius widened and Ring 1 truncation fixed, verified by direct view —
+see `logs/2026-10-12-sq2-widen-outer-radius-selfreview.md` and `-execution.md`**: a first attempt (source
+switched to the larger `side-a-original.jpg`, `MAX_RADIUS` raised to 1420) was a real but incomplete fix —
+direct re-check of the same angular range still showed truncation, since the disc's hand-carved rim isn't
+a perfect circle and one binding edge-distance doesn't guarantee capture at every angle. **Fixed**: padded
+the source with a uniform 400px border on all sides (new script, `data/scripts/pad_source_image.py`),
+raised `MAX_RADIUS` to 1600, regenerated. **Directly verified**: Ring 1 is now fully captured at every
+angle checked, with the disc's own physical rim and part of its display mount visible beyond the
+inscription. **Both of SQ-2's own named blockers for a full count (ring drift, Ring 1 truncation) are now
+resolved — the actual sign/divider count is the only remaining step, not attempted this cycle.**
+
 **Deliverables:** a checksummed sign-inventory table, an extraction/
 validation script or documented manual process, a missing-data or
 uncertain-reading report, and a small number of manually verified examples

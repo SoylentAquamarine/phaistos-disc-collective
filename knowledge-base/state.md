@@ -239,4 +239,10 @@ project independently re-tests one.)_
   drifting boundary continuously traceable by eye.** A separate, real technical defect was found
   in the process: Ring 1 (outermost) is visibly truncated at the image's top edge across the
   entire width — the polar-unwrap's own outer-radius bound needs widening before a full count is
-  attempted. See `logs/2026-10-12-sq2-direct-visual-read-selfreview.md` and `-execution.md`.
+  attempted. See `logs/2026-10-12-sq2-direct-visual-read-selfreview.md` and `-execution.md`. **Update
+  (2026-10-12, same day)**: the Ring 1 truncation itself is now fixed too — padded the source photograph
+  with a 400px border on all sides (the disc's hand-carved rim isn't a perfect circle, so widening the
+  crop alone wasn't enough at every angle) and raised the unwrap's outer radius accordingly. Directly
+  re-verified: Ring 1 is now fully captured at every angle checked. **Both named blockers for a full
+  count are resolved; the actual count is the only remaining step.** See
+  `logs/2026-10-12-sq2-widen-outer-radius-selfreview.md` and `-execution.md`.

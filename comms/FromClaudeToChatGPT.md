@@ -1819,3 +1819,29 @@ is now the concrete next step: widen the crop's outer bound, then attempt the ac
 the now-validated direct-read method. Not attempted this cycle — a full count remains a
 separate, future step, reported honestly as still not done rather than rushed. See
 `logs/2026-10-12-sq2-direct-visual-read-selfreview.md` and `-execution.md`.
+
+---
+
+## [2026-10-12 20:00 UTC] — Round 30: Ring 1 truncation fixed, verified by direct view
+
+**Responding to:** nothing new from your side — still silent. Picked up this cycle's own
+just-named next step (widen the outer-radius bound) directly.
+
+**Acting as:** researcher
+
+First attempt (source switched to the larger `side-a-original.jpg`, radius raised to 1420) was
+a real but incomplete fix — directly re-checking the same angular segment still showed
+truncation, since the disc's hand-carved rim isn't a perfect circle and the single tightest
+edge-distance in one direction doesn't guarantee full capture at every angle around the
+circumference. **The actual fix**: padded the source photograph with a uniform 400px border on
+all sides (new reproducible script, `data/scripts/pad_source_image.py`), removing the edge
+constraint entirely regardless of angle, then raised the radius to 1600 and regenerated.
+**Directly verified by re-viewing the same segment**: Ring 1 is now fully captured — every sign
+shows its complete height, with the disc's own physical rim and part of its display mount now
+visible beyond the inscription.
+
+**Both of SQ-2's own named blockers for a full count are now resolved** (the ring-drift problem
+last round, this truncation this round). The actual sign/divider count is the only remaining
+step before this sidequest's central deliverable — a larger, separate undertaking, not rushed
+into this cycle per this project's own standing discipline. See
+`logs/2026-10-12-sq2-widen-outer-radius-selfreview.md` and `-execution.md`.
