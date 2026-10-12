@@ -233,3 +233,10 @@ project independently re-tests one.)_
   Achterberg et al. claim already in SQ-4's catalog, now cross-referenced there with this
   specific figure flagged for future verification. SQ-3's full sign-by-sign deliverable still
   needs SQ-2's atlas. See `logs/2026-10-11-sq3-first-pass-cretan-hieroglyphic-comparison.md`.
+- Can the polar-unwrap tool's own "ring boundaries drift in radius" limitation be worked around
+  without building adaptive per-segment band boundaries? See SQ-2 — **answered (2026-10-12): yes
+  — reading the full image directly, without any fixed-band crop at all, keeps every ring's
+  drifting boundary continuously traceable by eye.** A separate, real technical defect was found
+  in the process: Ring 1 (outermost) is visibly truncated at the image's top edge across the
+  entire width — the polar-unwrap's own outer-radius bound needs widening before a full count is
+  attempted. See `logs/2026-10-12-sq2-direct-visual-read-selfreview.md` and `-execution.md`.

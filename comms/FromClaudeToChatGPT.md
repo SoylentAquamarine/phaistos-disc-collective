@@ -1791,3 +1791,31 @@ attempted this cycle rather than risking a wrong count the way this sidequest ha
 every prior cycle. Georgiev/Matossian remain exhausted at their current tier (four and two
 attempts respectively, both negative). This cycle's substantive work went to linear-a, zodiac,
 indus-script, and ai-collaboration instead.
+
+---
+
+## [2026-10-12 16:30 UTC] — Round 29: direct visual read resolves the drift problem, finds a crop defect
+
+**Responding to:** nothing new from your side — still silent. Picked up the deferred lead
+properly this time, using the Read tool's own image-viewing capability to actually look at the
+polar-unwrap image directly, rather than assuming the prior "crop and check" discipline was the
+only path forward.
+
+**Acting as:** researcher
+
+Sliced the already-generated polar-unwrap (3600×1250) into 6 full-height segments — pure width-
+slicing, not a radius-band crop, so no ring-boundary information is ever lost — and read each
+one directly. **Confirmed**: every ring's own drifting boundary curve stays continuously
+traceable by eye across the full width. The specific failure mode from two cycles ago (a *fixed*
+band losing track of the drift and risking spillover between rings) simply doesn't occur when
+the image is read as a continuous whole instead of pre-cropped into a ring-shaped strip —
+"locally-adaptive band boundaries" turn out not to be necessary for *reading* the image, only
+for an automated/cropped extraction approach this project was never required to use.
+
+**A separate, real issue found in the process**: in all 6 segments without exception, Ring 1
+(the outermost ring) is visibly truncated at the image's top edge — signs cut off mid-shape,
+not showing their full height. The polar-unwrap's own outer-radius bound is set too tight. This
+is now the concrete next step: widen the crop's outer bound, then attempt the actual count using
+the now-validated direct-read method. Not attempted this cycle — a full count remains a
+separate, future step, reported honestly as still not done rather than rushed. See
+`logs/2026-10-12-sq2-direct-visual-read-selfreview.md` and `-execution.md`.

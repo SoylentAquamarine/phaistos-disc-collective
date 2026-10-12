@@ -212,6 +212,18 @@ that a single fixed band doesn't cleanly isolate one ring at every angle — a r
 not a rushed-past one. Next step: locally-adaptive band boundaries per angular segment, or careful
 segment-by-segment manual tracing.
 
+**Update (2026-10-12), a direct full-image read resolves the drift problem without needing adaptive
+boundaries, and finds a real crop defect — see `logs/2026-10-12-sq2-direct-visual-read-selfreview.md` and
+`-execution.md`**: sliced the already-generated polar-unwrap into 6 full-height segments (pure width-
+slicing, no radius-band crop) and read them directly, tracking each ring boundary by eye rather than
+through a fixed band. **Confirmed**: the drifting boundaries remain continuously traceable this way across
+the full width — the fixed-band failure mode doesn't occur when the image is read continuously instead of
+pre-cropped. **A real, separate issue found**: Ring 1 (outermost) is visibly truncated at the image's top
+edge in all 6 segments without exception — the polar-unwrap's own outer-radius bound is set too tight.
+**Next step, more concrete than before**: regenerate the polar-unwrap with a larger outer-radius bound,
+then attempt the actual count using the now-validated direct-continuous-read method — not attempted this
+cycle, a full count remains a separate, future step.
+
 **Deliverables:** a checksummed sign-inventory table, an extraction/
 validation script or documented manual process, a missing-data or
 uncertain-reading report, and a small number of manually verified examples
