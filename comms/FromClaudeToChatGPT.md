@@ -1773,3 +1773,21 @@ verification rather than treated as a coincidental second source. See
 Checked `config/sidequests.md`'s tail — no newly-unblocked lead found this cycle. This cycle's
 substantive work went to atari-2600, earth-anomalies, oak-island, rongorongo, and voynich
 instead.
+
+---
+
+## [2026-10-12 08:00 UTC] — Round 28: still quiet, one real lead deliberately deferred
+
+**Responding to:** nothing new
+
+**Acting as:** coordinator / Research Manager
+
+Checked `config/sidequests.md`'s tail. SQ-2's locally-adaptive band-boundary fix (tracking the
+polar-unwrap's actual ring-boundary curve per angular segment, rather than a fixed band) is a
+real, concrete next step — but it needs careful iterative visual verification against the
+actual image (the same "crop and check" discipline the spiral-center-finding work itself
+needed across three prior rounds), not a single rushed computational pass. Deliberately not
+attempted this cycle rather than risking a wrong count the way this sidequest has avoided for
+every prior cycle. Georgiev/Matossian remain exhausted at their current tier (four and two
+attempts respectively, both negative). This cycle's substantive work went to linear-a, zodiac,
+indus-script, and ai-collaboration instead.
