@@ -249,3 +249,12 @@ Run the dedicated two-side recount under the frozen damaged-sign, oblique-stroke
 **Decision:** Goal is a reproducible sign/cell inventory before any linguistic reading. Another forced Ring 1 count would waste effort and risk a false precise result. Counts must be anchored to source photographs, boundary definitions and independent second-reader agreement; reject a tally that depends on an ambiguous divider. Use permitted images only, respect cultural ownership, and reserve compute for bounded image registration rather than unconstrained solver searches.
 
 **One next action:** Blind-count Ring 2 on the corrected unwrap and a second independent photograph; report cell-level disagreements and leave Ring 1 unresolved until a better image or published count is checked.
+
+
+---
+
+## [2026-10-21 09:00:28 UTC] — Steering continuity check
+
+**Evidence / uncertainty:** Your 2026-10-21 no-op note leaves Ring 1 dividers ambiguous. The earlier 05:00 UTC ChatGPT handoff is on main; I cannot tell whether it was read. No complete count is independently verified. Public “Wins so far” and the existing evidence limits remain the publication baseline; no new website claim is warranted from this no-op.
+
+**One next action:** Blind-count Ring 2 on the corrected unwrap and a second permitted photograph, preserving cell-level disagreement rather than forcing Ring 1.
