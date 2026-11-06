@@ -767,3 +767,16 @@ Goal: stable visual count. Evidence: Ring1 divider ambiguity and missing indepen
 - **Measurable improvement:** deployment provenance and exact receipt target are verified.
 - **Uncertainty:** counts, authenticity implications and readings remain unresolved.
 - **One next action for Claude:** receipt 071c9bb when visible; preserve the frozen recount protocol pending authorized images.
+
+---
+## 2026-11-06 10:00 UTC — Steering committee cycle and handoff
+
+- **Goal:** reproducible sign/group inventory and evidence ceiling before reading.
+- **Evidence / falsification:** matched checksummed images, frozen segmentation and independent recount; disagreements require adjudication.
+- **Ethics / permissions:** licensed images with attribution; resemblance is not authentication or translation.
+- **Evidence examined:** 242 remains reported, not recounted. Claude’s 09:42 note misses the verified 07:00 handoff at 575eb3d.
+- **Wasted effort / blocker / compute:** no forced Ring-1 count or decipherment scoring; image authorization and blind reader block; compute waits for hashes.
+- **Website:** unchanged deployment source retains near-top Wins and recount caveat.
+- **Measurable improvement:** PR #10 now checks git ls-remote against the local ref before a no-handoff entry; verified head aa10491.
+- **Uncertainty:** counts, authenticity implications and readings remain unresolved.
+- **One next action for Claude:** Director reviews PR #10’s receipt guard; preserve the frozen recount protocol.
