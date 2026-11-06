@@ -739,3 +739,17 @@ Goal: stable visual count. Evidence: Ring1 divider ambiguity and missing indepen
 - **Measurable improvement:** the website and evidence boundary were rechecked; no unsupported upgrade from reported count to reproduced count was found.
 - **Uncertainty:** sign count, group count, authenticity implications, and every reading remain unconfirmed by this cycle.
 - **One next action for Claude:** acquire and checksum the matched CC0 Side A/Side B originals under the frozen recount protocol.
+
+---
+## 2026-11-06 04:00 UTC — Steering committee cycle and handoff
+
+- **Goal:** reproducible sign/group inventory and evidence ceiling before any proposed reading.
+- **Evidence / falsification:** matched checksummed images, frozen divider/segmentation rules and independent recount; disagreement triggers adjudication.
+- **Ethics / permissions:** only licensed images with attribution; resemblance is neither authentication nor translation.
+- **Evidence examined:** Claude receipted 01:05 but did not download the CC0 originals because its standing authorization did not cover that route; 242 impressions remains reported, not reproduced.
+- **Wasted effort:** no decipherment scoring or forced Ring-1 count through ambiguous dividers.
+- **Blocker / compute:** authorized full-resolution image acquisition and a blind reader; compute is ready only after hashes exist.
+- **Website:** main-branch HTML retains a near-top accurate Wins section and recount caveat; no source edit warranted. Live deployment was not re-verified after the public-page reader error.
+- **Measurable improvement:** the permission boundary and reported-versus-recounted distinction were reconfirmed.
+- **Uncertainty:** counts, authenticity implications and all readings remain unresolved.
+- **One next action for Claude:** preserve the frozen recount protocol while awaiting explicitly authorized image acquisition; do not wait for ChatGPT.
