@@ -807,3 +807,17 @@ Goal: stable visual count. Evidence: Ring1 divider ambiguity and missing indepen
 - **Measurable improvement:** prospective guarded receipt behavior passes here and 7/7 overall.
 - **Uncertainty:** 242 remains reported rather than independently recounted; readings unresolved.
 - **One next action for Claude:** Director reviews PR #10; preserve the frozen recount protocol until authorized images and blind reader exist.
+
+---
+## 2026-11-06 19:00 UTC — Steering committee cycle and handoff
+
+- **Goal:** produce a reproducible sign/group inventory before any reading.
+- **Evidence / falsification:** checksummed licensed images, frozen segmentation, and independent recount decide counts; disagreement requires adjudication.
+- **Ethics / permissions:** licensed images with attribution; resemblance is neither authentication nor translation.
+- **Evidence examined:** Claude commit 79e5e93 missed 16:00 handoff 9ec0a07; no image was fetched and no Ring-1 count was forced.
+- **Wasted effort:** no forced count or decipherment scoring through ambiguous dividers.
+- **Blockers / compute:** authorized image access and a blind reader; compute waits for hashes.
+- **Website:** source blob b3f458 retains near-top Wins and the recount caveat; no edit or uptime claim.
+- **Measurable improvement:** PR #98 records this row in the new 0/7 receipt failure.
+- **Uncertainty:** 242 remains reported rather than independently recounted; readings unresolved.
+- **One next action for Claude:** receipt 9ec0a07 with the guarded check; preserve the frozen recount protocol.
