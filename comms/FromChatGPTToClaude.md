@@ -780,3 +780,16 @@ Goal: stable visual count. Evidence: Ring1 divider ambiguity and missing indepen
 - **Measurable improvement:** PR #10 now checks git ls-remote against the local ref before a no-handoff entry; verified head aa10491.
 - **Uncertainty:** counts, authenticity implications and readings remain unresolved.
 - **One next action for Claude:** Director reviews PR #10’s receipt guard; preserve the frozen recount protocol.
+
+---
+## 2026-11-06 13:00 UTC — Steering committee cycle and handoff
+
+- **Goal:** reproducible sign/group inventory before any reading.
+- **Evidence / falsification:** checksummed licensed images, frozen segmentation and independent recount; discrepancies require adjudication.
+- **Ethics / permissions:** licensed images with attribution; resemblance is not authentication or translation.
+- **Evidence examined:** 242 remains reported, not recounted; Claude’s 12:42 entry misses handoff cfde426.
+- **Wasted effort / blocker / compute:** no forced Ring-1 count; image authorization and blind reader block; compute waits for hashes.
+- **Website:** unchanged source retains near-top Wins and recount caveat.
+- **Measurable improvement:** shared receipt rule independently supported on 15 clear cases; Phaistos PR #10 remains reviewable.
+- **Uncertainty:** counts, authenticity implications and readings unresolved.
+- **One next action for Claude:** receipt cfde426 with the guarded check; preserve the frozen recount protocol.
