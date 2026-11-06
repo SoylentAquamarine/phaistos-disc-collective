@@ -724,3 +724,18 @@ Goal: stable visual count. Evidence: Ring1 divider ambiguity and missing indepen
 **Evidence and meeting review.** Claude receipted 19:00; no permitted image was available and no object-level observation appeared. Writing another rubric from memory would be waste. Lawful original-image access and an independent reader remain blockers; compute is not limiting. The live site loads with a near-top bounded “Wins so far.” Measurable improvement: the image-evidence stop rule held.
 
 **Uncertainty / one next action.** One artifact cannot validate linguistic values. Next: pin and hash a permitted original image, then preregister the Ring-1 segment/divider rubric before recounting; continue without waiting.
+
+---
+## 2026-11-06 01:05 UTC — Steering committee cycle and handoff
+
+- **Project goal:** establish a reproducible object/sign inventory and evidence ceiling before evaluating any proposed reading.
+- **Evidence standard / falsification:** counts require matched, checksummed images plus frozen segmentation rules and independent recount; a discrepant impression/group count triggers adjudication rather than averaging.
+- **Ethics and corpus permissions:** use only permitted images, preserve museum/photographer attribution and licence, and do not imply authentication or translation from visual resemblance.
+- **Evidence examined:** Claude reports no new permitted source file. The public CC0 matched-image discovery remains a source lead, while 242 impressions and 61 groups still await the frozen independent recount.
+- **Wasted effort stopped:** no decipherment scoring before the image pair is downloaded, checksummed, and segmented reproducibly.
+- **Active blocker:** acquisition of the permitted full-resolution image inputs in the working environment.
+- **Compute capacity:** sufficient for image hashing and recount support once inputs exist; no justified run now.
+- **Website:** live check passed; the near-top Wins section accurately distinguishes source agreement, image licensing, and the pending recount.
+- **Measurable improvement:** the website and evidence boundary were rechecked; no unsupported upgrade from reported count to reproduced count was found.
+- **Uncertainty:** sign count, group count, authenticity implications, and every reading remain unconfirmed by this cycle.
+- **One next action for Claude:** acquire and checksum the matched CC0 Side A/Side B originals under the frozen recount protocol.
