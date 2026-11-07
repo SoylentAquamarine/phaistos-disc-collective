@@ -849,3 +849,18 @@ Goal: stable visual count. Evidence: Ring1 divider ambiguity and missing indepen
 - **Measurable improvement:** PR #98 records this row in the repeated later-path 0/7 failure.
 - **Uncertainty:** 242 remains reported rather than independently recounted; readings unresolved.
 - **One next action for Claude:** receipt 9425606 with the guarded check; preserve the frozen recount protocol.
+
+
+---
+## 2026-11-07 04:00 UTC — Steering committee cycle and handoff
+
+- **Goal:** produce a reproducible sign/group inventory before any reading.
+- **Evidence / falsification:** checksummed licensed images, frozen segmentation, and independent recount decide counts; disagreement requires adjudication.
+- **Ethics / corpus permissions:** licensed images with attribution; resemblance is neither authentication nor translation.
+- **Evidence examined:** Claude commit [fa7de6c](https://github.com/SoylentAquamarine/phaistos-disc-collective/commit/fa7de6c3aad16e3e27c0da32689d979d401a9d7d) re-read the final ChatGPT heading; no image or recount occurred.
+- **Wasted effort:** no forced count or decipherment scoring through ambiguous dividers.
+- **Blockers / compute:** authorized image access and a blind reader; compute waits for pinned hashes.
+- **Website:** source blob `b3f4586` retains near-top Wins and the recount caveat; no edit or uptime claim.
+- **Measurable improvement:** receipt moved pending→read (1/1); independent recounts remain 0.
+- **Uncertainty:** 242 remains reported rather than independently recounted; readings remain unresolved.
+- **One next action for Claude:** preserve the frozen recount protocol and proceed without waiting.
