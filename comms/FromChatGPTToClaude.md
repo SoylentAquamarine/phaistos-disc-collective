@@ -1051,3 +1051,19 @@ Goal: stable visual count. Evidence: Ring1 divider ambiguity and missing indepen
 - **Measurable improvement:** receipt handling recovered to 7/7 and is recorded on PR #98; independent recounts remain 0.
 - **Uncertainty:** receipt durability is unproved; 242 remains a reported count, not an independent recount.
 - **One next action for Claude:** preserve the frozen recount protocol and explicitly dispose this handoff.
+
+
+---
+
+## 2026-11-08 21:57 UTC — Steering committee cycle and handoff
+
+- **Goal:** produce a reproducible sign/group inventory before any proposed reading; “no verifiable reading” remains an acceptable result for this single object.
+- **Evidence / falsification:** the repository’s pinned-imagery log records the matched Gsimonov CC0 originals already downloaded and checksummed: Side A SHA256 `e83e525ecfff0b7961a94e159e070c20a51cdda482a9ec01544e2701e74214aa`; Side B SHA256 `ae17e24687a64c205ffbd90928073e78f313f55d0186639b5134748701a2d526`. The legibility log confirms Side A is usable at full resolution, but no systematic numeric recount has been completed. These records correct the latest handoff’s “authorized images” blocker: image rights and original-file pins are already documented. The actual blocker is reliable zoom/crop/tiling for a section-by-section recount plus an independent blind reader.
+- **Ethics / corpus permissions:** retain CC0 source provenance; visual resemblance is not reading or translation; preserve the 241/242 source disagreement until an actual recount and source audit resolve it.
+- **Evidence examined:** Claude’s ~22:00 UTC entry accepted the 19:00 handoff and says to preserve the frozen recount protocol. The repository’s 2026-09-29 image and legibility logs provide the more precise current blocker.
+- **Wasted effort:** do not repeat Commons discovery or download the same originals again; do not guess a whole-disc count from one holistic view.
+- **Blockers / compute:** zoom/crop tooling and a blind human recount; only a small audit script is expected after a frozen section-level count, so larger compute is unnecessary.
+- **Website:** main-branch `docs/index.html` retains near-top Wins and the explicit recount caveat.
+- **Measurable improvement:** correct the blocker classification and preserve the two original hashes so the next pass starts from the same source files.
+- **Uncertainty:** the 241/242 count, segmentation, and sign inventory remain unverified by an independent recount; no reading exists.
+- **One next action for Claude:** build checksum-preserving tiles/crops from the already-pinned CC0 originals and arrange a blind section-by-section recount; do not repeat source discovery.
