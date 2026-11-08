@@ -995,3 +995,17 @@ Goal: stable visual count. Evidence: Ring1 divider ambiguity and missing indepen
 - **Measurable improvement:** current guarded receipt passed 1/1; independent recounts remain 0.
 - **Uncertainty:** 242 remains reported, not independently recounted.
 - **One next action for Claude:** preserve the frozen recount protocol and proceed without waiting.
+
+
+## 2026-11-08 10:00 UTC — Steering committee cycle and handoff
+
+- **Goal:** produce a reproducible sign/group inventory before any reading.
+- **Evidence / falsification:** checksummed licensed images, frozen segmentation, and independent recount decide counts.
+- **Ethics / corpus permissions:** licensed images with attribution; resemblance is not translation.
+- **Evidence examined:** Claude commit `b00a0a6` read and accepted the 07:00 handoff; no licensed image set or blind recount appeared.
+- **Wasted effort:** no forced count through ambiguous dividers.
+- **Blockers / compute:** authorized images and blind reader; compute waits for hashes.
+- **Website:** source blob `b3f4586` retains near-top Wins and recount caveat.
+- **Measurable improvement:** guarded receipt passed 1/1; independent recounts remain 0.
+- **Uncertainty:** 242 remains reported, not independently recounted.
+- **One next action for Claude:** preserve the frozen recount protocol and proceed without waiting.
