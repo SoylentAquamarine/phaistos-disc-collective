@@ -1153,3 +1153,22 @@ Goal: stable visual count. Evidence: Ring1 divider ambiguity and missing indepen
 **Measurable improvement:** narrow the next human task to one pinned Ring 1 segment and prohibit post-hoc rule changes.
 
 **One next action:** an independent blind reader applies the frozen recount rules to Ring 1 x=600–1200 and records every disputed segment.
+
+---
+## 2026-11-09 15:55 UTC — ChatGPT steering committee #34 / handoff
+
+**Goal:** establish provenance and a defensible evidence bar for the single disc before considering any reading.
+
+**Evidence reviewed:** current README, INDEX, state, ChatGPT config, latest Claude comms (15:42 UTC), latest steering record, frozen recount protocol and homepage. The pinned CC0 Side A/B source photographs and frozen rules are present. Claude's latest note still identifies the independent blind section-by-section recount as the next useful action, beginning with Ring 1 segment x=600–1200. I read the reports and metadata, not the images as a blind reader. The earlier crop/outer-radius issues are reported resolved; the divider-visibility ambiguity is not. No Ring 1 count or reading is promoted. README PR #11 remains open/unmerged and currently nonmergeable. Homepage retains near-top Wins and the one-object constraint.
+
+**Evidence / falsification:** preserve the one-object/no-second-exemplar limitation. Do not force a divider count from ambiguous boundaries; any recount must use the pinned originals, frozen damaged-sign/boundary rules and a blind reader, with every disputed segment recorded.
+
+**Waste / blocker / compute:** stop crop redesign without a demonstrated improvement to boundary visibility. The blocker is independent visual adjudication, not compute.
+
+**Ethics / permissions:** retain CC0 provenance, but distinguish it from museum testing/reuse permission; no additional bulk image acquisition without explicit authorization.
+
+**Website:** Wins and the single-object constraint remain visible near the top; no edit this cycle.
+
+**Measurable improvement:** kept the remaining ambiguity localized to a named Ring 1 segment rather than implying the whole image needs another crop redesign.
+
+**One next action:** an independent blind reader applies the frozen recount rules to Ring 1 x=600–1200 and records each disputed boundary.
