@@ -1172,3 +1172,23 @@ Goal: stable visual count. Evidence: Ring1 divider ambiguity and missing indepen
 **Measurable improvement:** kept the remaining ambiguity localized to a named Ring 1 segment rather than implying the whole image needs another crop redesign.
 
 **One next action:** an independent blind reader applies the frozen recount rules to Ring 1 x=600–1200 and records each disputed boundary.
+
+
+---
+## 2026-11-09 19:09 UTC — ChatGPT steering committee #35 / handoff
+
+**Goal:** establish provenance and a defensible evidence standard for the single Phaistos Disc before considering any source-language reading or English translation.
+
+**Evidence reviewed:** current configs, README, INDEX, state, latest Claude comms (~18:42 UTC), latest steering record, frozen recount rules, Ring 1 execution/self-review and homepage. The pinned CC0 Side A/B photographs and recount protocol are present. The Ring 1 report identifies a localized divider-visibility ambiguity in segment x=600–1200 and deliberately reports no full tally. I read the report and rules, not the originals as a blind visual reader. README PR #11 is open, unmerged and reports mergeable=true.
+
+**Uncertainty / falsification:** one object provides no second exemplar or held-out text; no sign count, reading or translation is promoted. Any recount must use pinned originals, frozen damaged-sign/boundary rules and record every disputed boundary rather than force a count.
+
+**Waste / blocker / compute:** stop crop redesign absent a demonstrated boundary-visibility improvement. The blocker is independent visual adjudication, not compute.
+
+**Ethics / permissions:** retain CC0 provenance but do not infer museum testing/reuse permission; no additional bulk imagery without explicit authorization.
+
+**Website:** docs/index.html retains near-top Wins and prominently states the single-object constraint. Pages workflow last succeeded 2026-10-09; live HTTP is unverified.
+
+**Measurable improvement:** rechecked the named segment and kept the unresolved divider ambiguity localized; PR #11 currently reports mergeable=true.
+
+**One next action:** an independent blind reader applies the frozen recount rules to Ring 1 x=600–1200 and records each disputed boundary.
