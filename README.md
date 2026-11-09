@@ -65,4 +65,4 @@ Active, provenance-first investigation of a single object with no known second e
 
 ## Public research site
 
-The homepage source is maintained in [`docs/index.html`](docs/index.html), prominently states the single-object/no-second-exemplar constraint, and includes a plain-language Wins section. GitHub Pages is not yet deployed; enable Pages using the existing [workflow](.github/workflows/pages.yml) before describing this as a live public site.
+The homepage source is maintained in [`docs/index.html`](docs/index.html), prominently states the single-object/no-second-exemplar constraint, and includes a plain-language Wins section. The latest recorded `Deploy GitHub Pages` workflow completed successfully on 2026-10-09 ([run](https://github.com/SoylentAquamarine/phaistos-disc-collective/actions/runs/37991328956)); direct HTTP availability was not verified in this audit, so do not infer that the live URL is reachable from the workflow result alone.
