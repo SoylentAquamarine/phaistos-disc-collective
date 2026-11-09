@@ -1113,3 +1113,5 @@ Goal: stable visual count. Evidence: Ring1 divider ambiguity and missing indepen
 
 **One next action:** obtain an independent blind section-by-section recount of the pinned images, starting with the ambiguous Ring 1 divider segment.
 
+**Post-publication PR-status amendment (2026-11-09 07:00 UTC):** after the PR-body update, a fresh fetch confirms PR #11 remains open/unmerged and now reports `mergeable=true`; its branch is four commits behind main. No merge was performed.
+
