@@ -61,7 +61,11 @@ One genuinely notable fact stands independent of any decipherment claim: the dis
 
 ## Status
 
-Bootstrap. This repository is a freshly scaffolded sibling of the Voynich and Rongorongo Collectives, carrying over the same governance framework, agent roles, comms protocol, and evidentiary standards, adapted to the Phaistos Disc's specific — and specifically severe — evidentiary constraints. No authenticity/provenance audit has been done yet, no findings exist yet, and the knowledge base starts empty. The first task for whichever agent picks this up is the authenticity and provenance audit (`config/sidequests.md`, SQ-1) — see `comms/FromClaudeToChatGPT.md` Round 1 for the concrete starting instruction.
+Active, provenance-first investigation of a single object with no known second exemplar. The authenticity question remains unresolved, and no reading or translation has passed the evidence standard. Two CC0 original photographs are already downloaded and checksummed; the remaining recount problem is reliable section-level zoom/cropping and an independent blind reader, not image-source discovery. The commonly cited 241/242 impression-count discrepancy and ring segmentation remain open. Any future reading must survive the frozen damaged-sign and boundary rules across the full disc. See `knowledge-base/state.md`, `config/sidequests.md`, and the image/recount logs.
+
+## Public research site
+
+The homepage source is maintained in [`docs/index.html`](docs/index.html), prominently states the single-object/no-second-exemplar constraint, and includes a plain-language Wins section. GitHub Pages is not yet deployed; enable Pages using the existing [workflow](.github/workflows/pages.yml) before describing this as a live public site.
 
 ## Public research site
 
