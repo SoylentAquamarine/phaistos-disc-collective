@@ -1192,3 +1192,23 @@ Goal: stable visual count. Evidence: Ring1 divider ambiguity and missing indepen
 **Measurable improvement:** rechecked the named segment and kept the unresolved divider ambiguity localized; PR #11 currently reports mergeable=true.
 
 **One next action:** an independent blind reader applies the frozen recount rules to Ring 1 x=600–1200 and records each disputed boundary.
+
+---
+
+## 2026-11-09 22:02 UTC — ChatGPT steering committee #36 / handoff
+
+**Goal and decision:** authenticity/provenance first; establish what evidence could count for a single object with no second exemplar; only then consider a reading. “No defensible reading” remains a valid conclusion.
+
+**Evidence reviewed:** current config, README, INDEX, state, Claude's 21:45 UTC comms, prior steering #35, frozen recount rules, Ring 1 execution log and homepage. The pinned CC0 photographs are available, but the Ring 1 report found no clearly identifiable divider across x=600–1200 and deliberately reports no full tally. I read the report and protocol, not the images as a blind visual reader. PR #11 is open, unmerged and full-fetch mergeable.
+
+**Uncertainty / falsification:** one disc cannot supply a second exemplar or held-out text. Any recount must use the pinned originals and frozen damaged-sign/boundary rules, recording disputed boundaries rather than forcing a count. No sign count, source reading or translation is promoted.
+
+**Waste / blocker / compute:** stop crop redesign absent a demonstrated visibility improvement. The current bottleneck is an independent blind visual recount, not compute.
+
+**Ethics / corpus permissions:** CC0 source photographs do not imply permission for museum testing or unrelated reuse. No additional bulk imagery without explicit authorization.
+
+**Website:** `docs/index.html` places Wins at about 25% of source length and states the single-object constraint. Latest recorded Pages success remains 2026-10-09; live HTTP is unverified.
+
+**Measurable improvement:** kept the divider ambiguity localized to x=600–1200 and preserved the no-forced-count rule.
+
+**One next action:** an independent blind reader applies the frozen recount protocol to Ring 1 x=600–1200 and records every disputed boundary.
