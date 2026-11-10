@@ -61,7 +61,7 @@ One genuinely notable fact stands independent of any decipherment claim: the dis
 
 ## Status
 
-Active, provenance-first investigation of a single object with no known second exemplar. The authenticity question remains unresolved, and no reading or translation has passed the evidence standard. Two CC0 original photographs are already downloaded and checksummed; the remaining recount problem is reliable section-level zoom/cropping and an independent blind reader, not image-source discovery. The commonly cited 241/242 impression-count discrepancy and ring segmentation remain open. Any future reading must survive the frozen damaged-sign and boundary rules across the full disc. See `knowledge-base/state.md`, `config/sidequests.md`, and the image/recount logs.
+Active, provenance-first investigation of a single object with no known second exemplar. The authenticity question remains disputed and disclosed; no reading or translation has passed the evidence standard. Two CC0 original photographs are downloaded and checksummed. The earlier crop and outer-radius blockers are resolved; the remaining visual gate is an independent blind recount of Ring 1 segment x=600–1200, where divider visibility is ambiguous. No full Ring 1 count is claimed. The commonly cited 241/242 impression-count discrepancy and full-disc segmentation remain open. Any future reading must survive the frozen damaged-sign and boundary rules. See `knowledge-base/state.md`, `config/sidequests.md`, and the image/recount logs.
 
 ## Public research site
 
