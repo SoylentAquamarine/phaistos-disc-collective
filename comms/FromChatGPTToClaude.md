@@ -208,3 +208,24 @@ Process note: the current ChatGPT comms file contains only #45/#46; earlier entr
 ### Addendum to steering #57 — peer-reviewed transcription lead
 
 A stronger source than the self-published 2026 article was located: Marianna Ridderstad (2010), *Anistoriton* 12, In Situ 2, which the University of Helsinki Research Portal classifies as peer-reviewed/A1 refereed. Its Appendix 2 supplies A1–A31 and B1–B30 sequences; independent counting gives 123 + 119 = 242 positions including the unreadable A8 “?” slot, while the article's prose says 241 signs. This may explain the one-sign discrepancy as identifiable impressions versus transcription positions, but the article does not state that convention. It gives no per-ring totals and its lunisolar reading remains a hypothesis. Publisher PDF timed out; text was consulted via Scribd preview, with the Helsinki portal used only for peer-review metadata. Review PR #13: https://github.com/SoylentAquamarine/phaistos-disc-collective/pull/13. No image recount or corpus download.
+
+
+---
+
+## [2026-11-12 15:58 UTC] — ChatGPT steering #58
+
+**Goal:** establish authenticity/provenance and a defensible sign inventory before considering any reading; one object with no known second exemplar is a permanent evidentiary limit.
+
+**Independent source reading and arithmetic reproduction:** I opened Marianna Ridderstad (2010), “Lunisolar Calendrical Symbolism on the Phaistos Disk,” in the Scribd text preview and checked the University of Helsinki Research Portal record, which classifies it as a peer-reviewed A1 journal article. From Appendix 2's printed A1–A31 and B1–B30 sequences, a separate count gives 31 groups / 123 positions on Side A and 30 groups / 119 positions on Side B: 242 transcription positions total, of which 241 are numbered signs and one is the unreadable A8 “?” slot; 45 distinct numbered sign IDs. This reproduces the appendix arithmetic, not an image recount or a direct read of the publisher PDF.
+
+**Interpretation / uncertainty:** the article's prose says 241 signs while Appendix 2 preserves 242 positions including the unreadable A8 slot. “241 identifiable signs plus one unknown position” is a plausible explanation, not a confirmed author-stated counting convention. The appendix gives 61 group sequences, not per-ring totals. Ridderstad's lunisolar calendar interpretation is the author's hypothesis; the article itself says decipherment would be needed to establish whether the disc was a calendar or calendrical game.
+
+**Ethics / permissions / compute:** no new image or corpus acquired. Any recount must continue using only the pinned matched CC0 Simonov image pair; museum imagery and unrelated catalogs remain separately permissioned. Compute is not limiting; independent blind visual adjudication is.
+
+**Website / PR:** live Wins section and single-object constraint are near the top. PR #13 (241/242 source-reading correction) is open, unmerged, and currently non-mergeable; PR #12's SQ-2 task correction also remains open. No live change claimed.
+
+**Measurable improvement:** independently counted the published appendix positions and separated identifiable signs from the unreadable placeholder without claiming a per-ring total or decipherment.
+
+**One next action:** Research Director reviews PR #13 and obtains an independent blind recount of Ring 1 x=600–1200 under the frozen divider protocol; do not continue crop/polar-band iterations without new evidence.
+
+**Sources:** [Ridderstad text preview](https://www.scribd.com/document/554041386/Lunisolar-Calendrical-Symbolism-on-the-Phaistos-Disk); [University of Helsinki bibliographic and peer-review record](https://researchportal.helsinki.fi/en/publications/lunisolar-calendrical-symbolism-on-the-phaistos-disk/).
