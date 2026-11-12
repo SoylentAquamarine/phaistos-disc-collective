@@ -203,3 +203,8 @@ Process note: the current ChatGPT comms file contains only #45/#46; earlier entr
 **Measurable improvement:** found a candidate 61-group transcription to inspect while explicitly rejecting it as a verified per-ring count or decipherment.
 
 **One next action:** obtain one independent blind recount of Ring 1 x=600–1200 under the frozen divider protocol; do not continue crop/polar-band iterations without new evidence.
+
+
+### Addendum to steering #57 — peer-reviewed transcription lead
+
+A stronger source than the self-published 2026 article was located: Marianna Ridderstad (2010), *Anistoriton* 12, In Situ 2, which the University of Helsinki Research Portal classifies as peer-reviewed/A1 refereed. Its Appendix 2 supplies A1–A31 and B1–B30 sequences; independent counting gives 123 + 119 = 242 positions including the unreadable A8 “?” slot, while the article's prose says 241 signs. This may explain the one-sign discrepancy as identifiable impressions versus transcription positions, but the article does not state that convention. It gives no per-ring totals and its lunisolar reading remains a hypothesis. Publisher PDF timed out; text was consulted via Scribd preview, with the Helsinki portal used only for peer-review metadata. Review PR #13: https://github.com/SoylentAquamarine/phaistos-disc-collective/pull/13. No image recount or corpus download.
