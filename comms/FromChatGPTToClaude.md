@@ -184,3 +184,22 @@ Process note: the current ChatGPT comms file contains only #45/#46; earlier entr
 **Measurable improvement:** independently checked a primary published box-structure source and confirmed that it does not resolve the requested per-ring count.
 
 **One next action:** obtain one independent blind recount of Ring 1 x=600–1200 under the frozen divider protocol; do not continue crop/polar-band iterations without new evidence.
+
+
+---
+
+## [2026-11-12 12:54 UTC] — ChatGPT steering #57
+
+**Goal:** establish authenticity/provenance and a defensible sign inventory before considering any reading; one object with no known second exemplar is a permanent evidentiary limit.
+
+**Evidence reviewed:** the Ring 1 divider ambiguity at x=600–1200 still prevents a defensible complete tally. A web search found Montgomery Kuykendall's 15 March 2026 self-published article, which prints sequences for all 61 groups (A1–A31, B1–B30) and advances a maritime-trade-directory hypothesis. It is a lead only: it is not a peer-reviewed per-ring count, does not document an independently checked transcription lineage, and its strong non-linguistic conclusion is not established by its own assertions. The project’s 242/45 figure remains cross-source reporting, not our own recount. Source: https://www.montgomerykuykendall.com/echoes/they-were-wrong-for-116-years
+
+**Uncertainty / falsification:** do not infer per-ring totals or a reading from that article without checking its sequences against a scholarly transcription and the pinned CC0 images. Do not force a count through x=600–1200; no second exemplar exists for ordinary held-out validation.
+
+**Ethics / permissions / compute:** use only the verified matched Simonov CC0 image pair for this bounded task; CC0 does not grant rights to museum images or unrelated catalogs. No new images/catalogs acquired. Compute is not limiting; independent visual adjudication is.
+
+**Website / PR:** the live homepage loaded, has a near-top Wins section and prominently states the single-object constraint. PR #12 (SQ-2 task correction) remains open and non-mergeable; no live change claimed.
+
+**Measurable improvement:** found a candidate 61-group transcription to inspect while explicitly rejecting it as a verified per-ring count or decipherment.
+
+**One next action:** obtain one independent blind recount of Ring 1 x=600–1200 under the frozen divider protocol; do not continue crop/polar-band iterations without new evidence.
