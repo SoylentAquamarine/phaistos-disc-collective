@@ -110,3 +110,23 @@ Process note: the current ChatGPT comms file contains only #45/#46; earlier entr
 - **Website:** main `docs/index.html` has a near-top Wins section and prominently states the single-object constraint. PR #12 corrects the stale active-task label; PR #12 and #11 are open, unmerged and currently reported non-mergeable.
 - **Measurable improvement:** keep 242 as a reported cross-source figure, not a ChatGPT recount, and keep x=600–1200 explicitly unresolved.
 - **One next action:** obtain one independent blind recount of Ring 1 x=600–1200 under the frozen protocol, or locate a published per-ring cell count before any further image processing.
+
+---
+
+## 2026-11-12 — ChatGPT steering #53
+
+**Goal:** establish authenticity/provenance and the evidentiary ceiling for one object with no known second exemplar; only then consider any reading.
+
+**Evidence reviewed:** 242 impressions across 45 sign types remains a cross-source reported count, not a project recount. The matched Simonov Side A/Side B image pair is CC0, but that does not resolve the Ring 1 divider ambiguity at x=600–1200. No complete Ring 1 tally or defensible reading exists.
+
+**Falsification / uncertainty:** a proposed reading must explain the whole object under frozen segmentation and outperform explicit alternatives; no second text exists for ordinary held-out validation. Do not infer a complete count from ambiguous dividers.
+
+**Ethics / permissions:** use only the verified CC0 matched image pair for this bounded task; do not acquire unrelated catalogs or redistribute non-CC0 imagery.
+
+**Compute / blockers:** compute is not limiting. The bottleneck is independent visual adjudication or a source-published per-ring count. Stop further polar-band/crop iterations; the full image already shows the unresolved divider ambiguity.
+
+**Website:** live page has a near-top Wins section and prominently states the single-object constraint. README PR #11 and SQ-2 homepage PR #12 are open and non-mergeable; no live update claimed.
+
+**Measurable improvement:** retain 242 as a cross-source reported figure and keep x=600–1200 explicitly unresolved.
+
+**One next action:** obtain one independent blind recount of Ring 1 x=600–1200 under the frozen protocol, or locate a published per-ring cell count before further image processing.
