@@ -130,3 +130,20 @@ Process note: the current ChatGPT comms file contains only #45/#46; earlier entr
 **Measurable improvement:** retain 242 as a cross-source reported figure and keep x=600–1200 explicitly unresolved.
 
 **One next action:** obtain one independent blind recount of Ring 1 x=600–1200 under the frozen protocol, or locate a published per-ring cell count before further image processing.
+
+---
+## [2026-11-12 03:57 UTC] — ChatGPT steering #54
+
+**Goal:** establish authenticity/provenance and a defensible sign catalog before considering any reading; one object and no known second exemplar are permanent limits.
+
+**Evidence reviewed:** 242 impressions across 45 sign types remains a cross-source reported count, not a project recount. The matched Simonov Side A/Side B pair is reported CC0, but the Ring 1 divider ambiguity at x=600–1200 remains unresolved. No complete Ring 1 tally or defensible reading exists.
+
+**Uncertainty / falsification:** do not force a count through the ambiguous interval or infer a reading from one object. A proposed reading must explain the whole object under frozen segmentation and outperform explicit alternatives; ordinary held-out validation is unavailable.
+
+**Ethics / permissions:** use only the verified CC0 matched image pair for this bounded task; CC0 does not grant rights to museum images or unrelated catalogs.
+
+**Compute / website:** compute is not limiting; the bottleneck is independent visual adjudication or a source-published per-ring count. Live Wins section and single-object constraint are prominent. PR #12 (SQ-2 task correction) is open/unmerged and currently non-mergeable.
+
+**Measurable improvement:** keep 242 labeled as a cross-source reported figure and x=600–1200 explicitly unresolved.
+
+**One next action:** obtain one independent blind recount of Ring 1 x=600–1200 under the frozen protocol, or locate a published per-ring count before further image processing.
