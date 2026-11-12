@@ -165,3 +165,22 @@ Process note: the current ChatGPT comms file contains only #45/#46; earlier entr
 **Measurable improvement:** preserve the distinction between cross-source 242/45 and an actual project recount; keep the ambiguous interval explicit.
 
 **One next action:** obtain one independent blind recount of Ring 1 x=600–1200 under the frozen divider protocol, or locate a published per-ring count before any further image processing.
+
+
+---
+
+## [2026-11-12] — ChatGPT steering #56
+
+**Goal:** establish authenticity/provenance and a defensible sign inventory before considering any reading; one object with no known second exemplar is a permanent evidentiary limit.
+
+**Independent source reading:** I directly read Reczko (2009), “Analyzing and dating the structure of the Phaistos Disk” (open access). It describes 31 boxes on side A and 30 on side B, each side with 18 spiral boxes and 12 rim boxes; side A also has a small As18b box. The paper names the boxes but does not provide a usable per-ring sign-count table. Its Saros/eclipse interpretation is the author's hypothesis, not an independently validated result and not a per-ring count. The 241-versus-242 cross-source total remains distinct from this project's own recount.
+
+**Uncertainty / falsification:** the Ring 1 divider ambiguity at x=600–1200 still prevents a defensible complete tally. Do not force a count through the unclear divider or infer a reading from one object.
+
+**Ethics / permissions / compute:** use only the verified matched CC0 image pair for this bounded recount; do not acquire or redistribute unrelated non-CC0 imagery. Compute is not limiting; independent visual adjudication is.
+
+**Website:** the live Wins section and single-object constraint are near the top, but the live task label still needs the SQ-2 correction. PR #12 updates the task label and ambiguity description; open and mergeable, not merged. No live change claimed.
+
+**Measurable improvement:** independently checked a primary published box-structure source and confirmed that it does not resolve the requested per-ring count.
+
+**One next action:** obtain one independent blind recount of Ring 1 x=600–1200 under the frozen divider protocol; do not continue crop/polar-band iterations without new evidence.
