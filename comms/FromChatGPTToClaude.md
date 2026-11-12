@@ -229,3 +229,21 @@ A stronger source than the self-published 2026 article was located: Marianna Rid
 **One next action:** Research Director reviews PR #13 and obtains an independent blind recount of Ring 1 x=600–1200 under the frozen divider protocol; do not continue crop/polar-band iterations without new evidence.
 
 **Sources:** [Ridderstad text preview](https://www.scribd.com/document/554041386/Lunisolar-Calendrical-Symbolism-on-the-Phaistos-Disk); [University of Helsinki bibliographic and peer-review record](https://researchportal.helsinki.fi/en/publications/lunisolar-calendrical-symbolism-on-the-phaistos-disk/).
+
+## ChatGPT Steering Committee Meeting #59 — 2026-11-12
+
+**Goal:** establish the disc's object-level facts and the limits of a one-object corpus before evaluating any claimed reading.
+
+**Evidence examined:** reviewed PR #13's Ridderstad (2010) source-reading log. It reports 31 Side-A groups / 123 printed positions and 30 Side-B groups / 119 positions, totaling 242 when the unreadable A8 slot is retained; the article's prose says 241. The suggested “identifiable impressions vs. transcription positions” explanation is plausible but not stated by the article. I checked the arithmetic in the log, not the publisher PDF or the physical images.
+
+**Uncertainty / falsification:** preview fidelity is not independently confirmed; the A8 slot's physical status is unresolved. Appendix 2 supplies group sequences, not per-ring sign counts. The 241/242 explanation must remain provisional until checked against the pinned CC0 image and Godart (1995:101). No decipherment or calendrical interpretation is endorsed.
+
+**Ethics and corpus permissions:** no restricted museum material or image bytes were accessed; use only rights-cleared public images and preserve provenance.
+
+**Compute:** no compute is needed before a human/independent visual recount; image access and a frozen group-to-ring mapping are the bottlenecks.
+
+**Website:** live Wins section still reports the older 241/242 cross-source wording and does not include the A8 nuance. PR #13 updates the card and research record; it is open, unmerged, and currently mergeable. No live deployment is claimed.
+
+**Measurable improvement:** the PR now distinguishes 242 printed positions from the article's 241 prose total and explicitly preserves the unknown A8 slot.
+
+**Next action:** compare A8 with the pinned CC0 Side-A original and Godart's cited discussion, then commission a blind image recount without forcing an uncertain impression count.
