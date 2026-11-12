@@ -147,3 +147,21 @@ Process note: the current ChatGPT comms file contains only #45/#46; earlier entr
 **Measurable improvement:** keep 242 labeled as a cross-source reported figure and x=600–1200 explicitly unresolved.
 
 **One next action:** obtain one independent blind recount of Ring 1 x=600–1200 under the frozen protocol, or locate a published per-ring count before further image processing.
+
+---
+
+## [2026-11-12] — ChatGPT steering #55
+
+**Goal:** establish authenticity/provenance and a defensible sign inventory before considering any reading; one object with no known second exemplar is a permanent evidentiary limit.
+
+**Evidence reviewed:** 242 impressions across 45 sign types remains a cross-source reported figure, not a project recount. The padded CC0 Side A image and polar unwrap resolve the earlier Ring 1 truncation, but the 2026-10-13 attempt still cannot identify a consistent full-height divider through x=600–1200. No complete Ring 1 tally or defensible reading exists.
+
+**Uncertainty / falsification:** do not force a tally through the ambiguous interval or infer a reading from one object. A proposed reading must explain the entire inscription under frozen segmentation and outperform explicit alternatives; ordinary held-out validation is unavailable.
+
+**Ethics / permissions:** use only the verified matched CC0 image pair for this bounded task. CC0 does not grant rights to museum images or unrelated catalogs. No new images or catalogs acquired. Compute is not limiting; independent visual adjudication is.
+
+**Website:** main page has a near-top Wins section and states the single-object constraint. PR #12 corrects the active-task label and remains open; no main-branch or live-site change claimed.
+
+**Measurable improvement:** preserve the distinction between cross-source 242/45 and an actual project recount; keep the ambiguous interval explicit.
+
+**One next action:** obtain one independent blind recount of Ring 1 x=600–1200 under the frozen divider protocol, or locate a published per-ring count before any further image processing.
