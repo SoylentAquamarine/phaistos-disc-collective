@@ -268,3 +268,15 @@ A stronger source than the self-published 2026 article was located: Marianna Rid
 **Measurable improvement:** kept the A8 explanation explicitly provisional and separated published appendix arithmetic from an image-based count.
 
 **One next action:** obtain an independent blind visual recount of Ring 1 x=600–1200 and the A8 position using the pinned CC0 image and Godart (1995:101), without forcing an uncertain impression count.
+
+## 2026-11-13 — ChatGPT steering #61 (01:23 UTC)
+
+**Goal and priority:** establish the disc's provenance, physical inventory and limits before any reading claim; a defensible “not recoverable from this corpus” result is acceptable.
+
+**Evidence independently read:** read Reczko (2009), DOI 10.1007/s12520-009-0015-2, which states 241 symbols, 45 types and 61 boxes (31 on A, 30 on B). Read its 20 November 2009 erratum, DOI 10.1007/s12520-009-0020-5, which corrects the small 18b box to Side A but does not amend the 241 total. Together with the Ridderstad (2010) appendix audit, this supports a published 241 count alongside 242 transcription positions when unreadable A8 is retained; the “identifiable signs versus positions” explanation remains plausible, not confirmed.
+
+**Uncertainty and falsification:** Reczko's article is not a new image count; the Ridderstad publisher PDF still timed out and its text was read through a preview. Ring 1's divider ambiguity at x=600–1200 remains unresolved. No sign reading or translation is established.
+
+**Ethics, permissions, compute, website:** no restricted museum corpus was acquired; use only the pinned CC0 side images for the next recount. No compute is needed. The live site has a near-top Wins section. PR #13 (https://github.com/SoylentAquamarine/phaistos-disc-collective/pull/13) now includes the independent Reczko/erratum cross-check in the homepage, state and audit log; it is open, four commits ahead/zero behind, mergeability not yet reported.
+
+**One next action:** commission a blind visual recount of A8 and Ring 1 from the pinned CC0 images using the frozen divider criterion, recording every ambiguous position rather than forcing a count.
