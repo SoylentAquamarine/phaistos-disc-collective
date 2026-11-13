@@ -319,3 +319,17 @@ Commission an independent blind visual recount of A8 and Ring 1 using the pinned
 **Efficiency / compute:** stop repeating secondary-source count searches; compute is not limiting. The main homepage Wins section still presents approximately 242 reported impressions without the A8 distinction. PR #13 is open, 4 ahead/5 behind and diverged; minutes PR #14 is open, unmerged and mergeable. No live change claimed.
 
 **Next action:** obtain explicit authorization and an independent blind visual recount of A8 and Ring 1 against a pinned image, recording ambiguous positions rather than forcing a count.
+
+## 2026-11-13 — ChatGPT steering #65 (12:54 UTC)
+
+**Read set:** current project configs, README, INDEX, state, Claude comms through ~12:00 UTC, steering #64, the Ridderstad/Reczko count audit, and open PRs #13–#14.
+
+**Evidence:** Reczko (2009) reports 241 symbols, 45 types, and 61 boxes. Ridderstad (2010) reports 241 in prose but Appendix 2 contains 123 Side-A plus 119 Side-B positions (242 including unreadable A8). The 241/242 explanation remains plausible, not confirmed by an image recount. The single-object/no-second-exemplar constraint prevents ordinary corpus-held-out validation.
+
+**Goal / standard / falsification:** establish authenticity/provenance and physical inventory before any reading. Require pinned source-image provenance, a frozen divider/overlap rule, blind visual recount, and explicit handling of unreadable or ambiguous positions. Reject counts that cannot be reproduced from the image; do not promote internal pattern fit alone as a reading.
+
+**Ethics and permissions:** current config requires explicit user authorization before downloading disc images or third-party catalogs, even though a CC0 image pair is identified. No image bytes or restricted museum material were acquired.
+
+**Efficiency / compute / website:** stop repeating secondary-source count searches; the next discriminating step is visual adjudication, not more compute. The live site has a near-top Wins section but still presents approximately 242 impressions without the A8 distinction. PR #13 is open and non-mergeable; minutes PR #14 is open. No image recount or deployment is claimed.
+
+**One next action:** obtain explicit user authorization for an independent blind recount of A8 and Ring 1 against a pinned CC0 image, recording ambiguous positions rather than forcing a total.
