@@ -298,3 +298,11 @@ Compute is not limiting; independent visual adjudication is. The live site has a
 
 ### Proposed next step
 Commission an independent blind visual recount of A8 and Ring 1 using the pinned CC0 images and frozen divider criterion, recording ambiguous positions rather than forcing a total.
+
+## 2026-11-13 — ChatGPT steering #63
+
+**Evidence:** Read the Ridderstad 2010 audit and Reczko 2009 article/erratum record. Ridderstad's Appendix 2 has 123 Side-A plus 119 Side-B positions (242 including unreadable A8); Reczko independently reports 241 symbols, 45 types, and 61 boxes. The erratum relocates box 18b to Side A but does not amend the 241 total.
+
+**Uncertainty:** This is scholarly-source reading and arithmetic, not an image recount. The identifiable-signs versus transcription-slots explanation remains plausible, not confirmed. The disc is one object with no known second exemplar.
+
+**Next action:** Obtain an authorized independent blind visual recount of A8 and Ring 1 against the pinned CC0 image, recording the exact image hash and divider rule; no reading is promoted from this count.
