@@ -96,3 +96,8 @@ follow once this repo has had its own incident).
 ## `procedures/`
 
 - `README.md` — folder discipline (write from real incidents only); no procedures yet
+
+
+## 2026-11-12 source-reading addition
+
+- `2026-11-12-ridderstad-241-242-count-audit.md` — reads Ridderstad's peer-reviewed 2010 article through a disclosed text preview, independently counts 123+119=242 Appendix 2 positions including the unreadable A8 slot against the article's 241-sign prose total, and records the likely-but-unconfirmed count-convention explanation; no per-ring tally or image recount claimed

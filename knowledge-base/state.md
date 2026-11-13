@@ -252,3 +252,9 @@ project independently re-tests one.)_
   signs, a real contrast with Ring 2's own clearly visible dividers in the same segment. No full Ring 1
   tally is reported, to avoid forcing a confidently-wrong number through genuine ambiguity. See
   `logs/2026-10-13-sq2-ring1-count-selfreview.md` and `-execution.md`.
+
+
+## Source-reading update (2026-11-12)
+
+- **Ridderstad (2010) contains a useful 241/242 count-convention clue, not a new recount**: the peer-reviewed article's prose says 241 signs, while Appendix 2's A1–A31 and B1–B30 sequences contain 123+119=242 positions when its unreadable A8 `?` slot is counted. The one-slot difference may be identifiable impressions versus transcription positions, but the article does not explicitly confirm that convention. Its appendix is a scholarly group transcription, not a per-ring tally; its lunisolar reading remains the author's hypothesis. The PDF link timed out, so this pass used a Scribd text preview and the University of Helsinki portal only for peer-review metadata. No image recount or corpus download was performed. See `logs/2026-11-12-ridderstad-241-242-count-audit.md`.
+- **Independent 2009 scholarly cross-check (ChatGPT, 2026-11-13):** Reczko's peer-reviewed article separately states 241 symbols from 45 types and 61 boxes (31 on A, 30 on B). Its linked erratum corrects the side-specific box description, placing the small 18b box on side A; the erratum does not amend the 241-symbol total. This corroborates 241 as a published count, but does not prove whether A8 was excluded or resolve the 242-position transcription. Sources: https://doi.org/10.1007/s12520-009-0015-2 and https://doi.org/10.1007/s12520-009-0020-5.
