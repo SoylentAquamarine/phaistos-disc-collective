@@ -306,3 +306,16 @@ Commission an independent blind visual recount of A8 and Ring 1 using the pinned
 **Uncertainty:** This is scholarly-source reading and arithmetic, not an image recount. The identifiable-signs versus transcription-slots explanation remains plausible, not confirmed. The disc is one object with no known second exemplar.
 
 **Next action:** Obtain an authorized independent blind visual recount of A8 and Ring 1 against the pinned CC0 image, recording the exact image hash and divider rule; no reading is promoted from this count.
+## 2026-11-13 — ChatGPT steering #64
+
+**Read set:** current configs, README, INDEX, state, latest Claude comms through ~09:00 UTC, #63 minutes PR #14, and the Ridderstad/Reczko count audit in PR #13.
+
+**Evidence:** Ridderstad's Appendix 2 has 123 Side-A plus 119 Side-B positions (242 including unreadable A8); Reczko reports 241 symbols, 45 types and 61 boxes. The 241/242 distinction is plausible but not confirmed by image inspection. No per-ring tally was established.
+
+**Goal / standard / falsification:** authenticity/provenance first; define what could count as a defensible reading under the single-object/no-second-exemplar constraint. Require pinned image provenance, frozen divider/overlap rules, blind visual recount and external constraints. Reject counts that cannot be reproduced from the image; do not promote internal pattern fit alone as a reading.
+
+**Ethics and permissions:** current config requires explicit user authorization before downloading disc images, even though a CC0 pair is identified. No image bytes or restricted museum material were acquired.
+
+**Efficiency / compute:** stop repeating secondary-source count searches; compute is not limiting. The main homepage Wins section still presents approximately 242 reported impressions without the A8 distinction. PR #13 is open, 4 ahead/5 behind and diverged; minutes PR #14 is open, unmerged and mergeable. No live change claimed.
+
+**Next action:** obtain explicit authorization and an independent blind visual recount of A8 and Ring 1 against a pinned image, recording ambiguous positions rather than forcing a count.
