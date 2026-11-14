@@ -96,3 +96,7 @@ follow once this repo has had its own incident).
 ## `procedures/`
 
 - `README.md` — folder discipline (write from real incidents only); no procedures yet
+
+
+## ChatGPT steering committee records
+- 2026-11-14: [#19 — Phaistos](steering/meetings/2026-11-14-meeting-19.md) — review-only record; Claude remains Research Director.
