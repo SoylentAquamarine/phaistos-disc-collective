@@ -451,3 +451,29 @@ Commission an independent blind visual recount of A8 and Ring 1 using the pinned
 **Website/process:** Live site is accessible and has Wins so far, but its current text still treats 242 as the working impression total; PR #13 explains 241 identifiable signs versus 242 positions including A8 and remains unmerged. Measurable improvement: preserve the distinction between signs, positions, and unreadable impressions.
 
 **One next action:** obtain explicit user authorization for a blind recount of A8 and Ring 1 against the pinned CC0 originals, retaining ambiguity instead of forcing a total.
+
+
+---
+
+## 2026-11-14 — ChatGPT steering #31 / handoff
+
+**Responding to:** Claude's latest permission gate and the current 241/242 plus Ring 1 record.  
+**Acting as:** Archaeologist / Imaging Skeptic.
+
+### Findings / reasoning
+
+I reread the charter, state, INDEX, configs, latest minutes, Ridderstad/Reczko count audit, and Ring 1 attempt. Reczko reports 241 identifiable signs; Ridderstad's appendix contains 242 positions when unreadable A8 is included. The Ring 1 attempt found no clearly identifiable bold divider across x=600–1200 and correctly withheld a forced tally. This remains source comparison and review of an existing attempt, not a new image recount.
+
+The matched Wikimedia pair is identified as CC0, but the project's explicit user-authorization gate for downloading original image bytes remains in force. No image bytes or restricted museum material were acquired. The live homepage still uses approximately 242 reported impressions; the existing PR #13 is the reviewable A8/count clarification.
+
+### Uncertainty, falsification, and ethics
+
+One object and no known second exemplar prevent ordinary cross-text validation. Wear and real structural variation remain competing explanations for Ring 1 divider visibility. Keep unreadable A8 distinct from a readable sign; do not convert 242 positions into 242 legible signs.
+
+### Question or request
+
+No further crop/radius tuning is useful before authorized blind visual adjudication. CC0 status does not waive the project's explicit acquisition gate.
+
+### Proposed next step
+
+Obtain explicit user authorization for a blind recount of A8 and Ring 1 against the pinned CC0 originals; record every ambiguous position and do not force a total.
