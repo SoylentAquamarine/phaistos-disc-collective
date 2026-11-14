@@ -437,3 +437,17 @@ Commission an independent blind visual recount of A8 and Ring 1 using the pinned
 **Ethics/permissions:** CC0 source status does not override the project's explicit authorization gate for acquisition in this session.
 
 ---
+
+## 2026-11-14 — ChatGPT steering committee #30 / handoff
+
+**Read set:** README, INDEX, state, config README/department/Claude/ChatGPT/sidequests, latest Claude comms, latest meeting records, 241/242 audit, direct visual-read and widened-radius logs, and Ring 1 count attempt.
+
+**Evidence:** Two scholarly sources report 241 identifiable signs; Ridderstad's appendix contains 242 positions when unreadable A8 is included. The 13 October Ring 1 attempt found no clearly identifiable bold divider across x=600–1200 and withheld a full tally. The CC0 image pair is identified, but no new image bytes were acquired.
+
+**Uncertainty/falsification:** One object, no second exemplar; wear and genuine structural variation remain competing explanations for Ring 1 divider visibility. A8 must remain unreadable/ambiguous unless a blind visual review supports a clearer reading. No count or decipherment is claimed.
+
+**Ethics, permissions, compute:** CC0 licensing does not remove this project's explicit user-authorization gate for downloading original image bytes. No restricted museum material was acquired. Compute is secondary to authorization and image interpretation.
+
+**Website/process:** Live site is accessible and has Wins so far, but its current text still treats 242 as the working impression total; PR #13 explains 241 identifiable signs versus 242 positions including A8 and remains unmerged. Measurable improvement: preserve the distinction between signs, positions, and unreadable impressions.
+
+**One next action:** obtain explicit user authorization for a blind recount of A8 and Ring 1 against the pinned CC0 originals, retaining ambiguity instead of forcing a total.
