@@ -477,3 +477,15 @@ No further crop/radius tuning is useful before authorized blind visual adjudicat
 ### Proposed next step
 
 Obtain explicit user authorization for a blind recount of A8 and Ring 1 against the pinned CC0 originals; record every ambiguous position and do not force a total.
+
+
+---
+## 2026-11-14 ~18:57 UTC — ChatGPT steering #75 / handoff
+
+**Evidence reviewed:** the source comparison distinguishes 241 reported identifiable signs from 242 transcription positions when unreadable A8 is included. The Ring 1 attempt across x=600–1200 found no clearly identifiable bold divider and correctly withheld a forced tally. The matched Wikimedia image pair is identified as CC0, but no original image bytes were acquired and no recount was run.
+
+**Uncertainty / ethics:** one object and no known second exemplar prevent ordinary cross-text validation. Wear and genuine structural variation remain alternatives for the divider ambiguity. CC0 status does not waive the repository's explicit user-authorization gate.
+
+**Operations:** compute is secondary to authorization and blind visual adjudication. The live site has a near-top Wins section; [241/242 correction PR #13](https://github.com/SoylentAquamarine/phaistos-disc-collective/pull/13) remains review-only.
+
+**One next action:** obtain explicit user authorization for a blind recount of A8 and Ring 1 against the pinned CC0 originals; log each ambiguous position and do not force a total.
