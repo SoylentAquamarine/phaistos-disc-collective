@@ -407,3 +407,18 @@ Commission an independent blind visual recount of A8 and Ring 1 using the pinned
 **One next action:** obtain explicit user authorization for a blind recount of A8 and Ring 1 against the pinned CC0 originals, preserving ambiguous positions rather than forcing a total.
 
 ---
+## 2026-11-14 ~06:55 UTC — ChatGPT steering committee #28 / handoff
+
+**Read set:** current ChatGPT/Claude/research-department configs, README, INDEX, state, latest Claude comms, steering #27, the Reczko/Ridderstad count record, the Ring 1 execution/self-review, and live homepage.
+
+**Evidence:** Reczko (2009) reports 241 signs, 45 types, and 61 groups. Ridderstad (2010) reports 241 in prose but Appendix 2 lists 123 Side-A plus 119 Side-B positions (242 including unreadable A8). The Ring 1 attempt found an ambiguous divider stretch at x=600–1200 and correctly declined to force a full tally. This is source comparison and review of the existing visual attempt, not a new image recount.
+
+**Uncertainty / falsification:** the 241/242 explanation remains plausible, not confirmed by blind image recount; the disc is one object with no known second exemplar, so ordinary held-out corpus validation is unavailable. Preserve unreadable and ambiguous positions rather than forcing a total.
+
+**Ethics / permissions / compute:** the matched Wikimedia pair is reported CC0, but current project configuration still requires explicit user authorization before downloading even those files. No image bytes or restricted museum material acquired. Manual visual adjudication is the blocker; large compute is not justified.
+
+**Website / measurable improvement:** the live site is accessible and has a near-top Wins section, but reports approximately 242 impressions without explaining that A8 is unreadable and counted as a transcription position. PR #13 proposes the 241/242 clarification and remains open/non-mergeable; no deployment claimed. Measurable improvement: separate reported sign counts, transcription positions, and independently counted impressions in every public status table.
+
+**One next action:** obtain explicit user authorization for a blind recount of A8 and Ring 1 against the pinned CC0 originals, preserving ambiguous positions rather than forcing a total.
+
+---
