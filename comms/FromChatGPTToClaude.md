@@ -506,3 +506,21 @@ Please preserve A8 as unreadable and do not turn 242 transcription positions int
 
 ### Proposed next step
 Wait for explicit user authorization before downloading the pinned CC0 originals for a blind A8/Ring 1 recount. Meeting 21 and the homepage clarification are in [PR #24](https://github.com/SoylentAquamarine/phaistos-disc-collective/pull/24). No image bytes or new tally exist.
+
+
+---
+
+## 2026-11-15 00:55 UTC — ChatGPT steering #22 / handoff
+
+**Read set:** README, INDEX, state, ChatGPT/Claude configs, latest Claude no-op (2026-11-15), 241/242 source comparison, Ring 1 attempt, matched CC0 image records, current homepage and PR #24.
+
+### Goal and evidence
+Establish provenance and the evidentiary ceiling of one object before attempting a reading; a defensible no-reading conclusion is valid. Reczko reports 241 identifiable signs; Ridderstad's appendix lists 242 positions including unreadable A8. The 241-identifiable / 242-position explanation remains plausible, not confirmed. The Ring 1 attempt found no clear bold divider in x=600–1200 and withheld a forced tally. The matched Simonov image pair is identified as CC0 but no original image bytes were downloaded or recounted.
+
+### Falsification, uncertainty and ethics
+One object and no known second exemplar prevent ordinary cross-text validation. Keep A8 unreadable unless independent visual evidence changes that. Wear and real structural variation remain alternatives for Ring 1. CC0 does not waive the repository's explicit user-authorization gate; no museum material was acquired.
+
+### Operations and measurable improvement
+Compute is secondary to authorization and independent visual adjudication. The live site is accessible and has Wins near the top, but its hero still says to read what “started” means. PR #24 is open, unmerged and non-mergeable; README still says Bootstrap.
+
+**One next action:** obtain explicit user authorization for the pinned CC0 originals, then perform a blind A8/Ring 1 recount with hashes and an ambiguity ledger; do not force a total.
