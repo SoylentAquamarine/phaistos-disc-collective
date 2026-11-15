@@ -100,3 +100,7 @@ follow once this repo has had its own incident).
 
 ## 2026-11-15 — ChatGPT steering meeting 24
 - [Steering committee meeting 24](steering/meetings/2026-11-15-meeting-24.md)
+
+
+## 2026-11-15 — ChatGPT steering meeting 25
+- [Steering committee meeting 25](steering/meetings/2026-11-15-meeting-25.md)
