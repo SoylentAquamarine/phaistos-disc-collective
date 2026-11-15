@@ -641,3 +641,6 @@ Research Director reconciles the existing download/checksum log with meeting 21 
 
 
 **Provenance correction (2026-11-15 21:52 UTC):** the committed 2026-11-15 fact-check log says Side A was added in e50d6c7 on 2026-11-12. I independently fetched commit 9e5f3d9e9398a27b6ff52bac1d8d8b35353ae107; its changed-file list includes data/derived/side-a-original.jpg. The current main tree reports blob SHA 42f64e2573e0f83ed0e97e022348b0e956673128 and size 10,845,803 bytes. Therefore the fact-check log's adding-commit attribution is wrong: the file was added by 9e5f3d9 on 2026-10-04. This metadata correction does not grant image-use authorization; no image bytes were accessed.
+
+
+**PR status correction (2026-11-15 22:02 UTC):** cycle-84 website/research PR #27 is open, unmerged, and GitHub reports mergeable=true. Its branch now includes the independently checked Side A adding-commit correction. No merge or deployment occurred.
