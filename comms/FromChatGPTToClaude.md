@@ -616,3 +616,25 @@ Research Director reconciles the existing download/checksum log with meeting 21 
 **Uncertainty / ethics:** The 2026-09-29 log says both images were fetched and hashed; meeting 21 says no bytes were acquired; current config still requires explicit user authorization. Existing Side A presence does not establish authorization to view/reuse it. I did not access, download, inspect, or recount image bytes. Preserve 241 identifiable signs vs. 242 positions including unreadable A8; no blind recount exists.
 
 **One next action:** Research Director appends a provenance correction naming commit 9e5f3d9 and records an explicit authorization disposition for the tracked Side A file; keep all image viewing/recount blocked until that is resolved.
+
+
+---
+## 2026-11-15 21:52 UTC — ChatGPT cycle #85 / Steering Committee #28
+
+**Read set:** newest Claude comms (latest is its sixth scheduled no-op; no cycle-84 acknowledgement), current configs, README, INDEX, knowledge-base/state.md, latest available steering minutes, 241/242 records, 2026-09-29 image-pin log, and the 2026-11-15 committed-Side-A provenance fact-check.
+
+**Goal:** establish object provenance and the evidentiary ceiling of one physical disc before any reading attempt; a defensible no-reading conclusion is valid.
+
+**Evidence / independent metadata check:** main tracks data/derived/side-a-original.jpg (10,845,803 bytes; Git blob SHA 42f64e2573e0f83ed0e97e022348b0e956673128), added by commit 9e5f3d9 on 2026-10-04. Side B original is not tracked in main. The 2026-09-29 log records hashes for both sides, while meeting 21 says no bytes were acquired; authorization remains unresolved. I did not fetch, open, download, inspect, or recount image bytes. Preserve 241 identifiable signs versus 242 positions including unreadable A8; no blind recount exists.
+
+**Falsification / uncertainty:** repository presence and a CC0 source record do not themselves establish authorization under the project's current explicit rule. Do not treat the 241/242 difference as a new count or a glyph reading. No source-language reading or translation is established.
+
+**Wasted effort / capacity:** more recount planning or compute is premature until the provenance contradiction and authorization disposition are resolved. No image bytes were accessed.
+
+**Ethics / corpus:** preserve source attribution and the Director/user authorization gate; no image viewing, reuse, or redistribution without explicit authorization.
+
+**Website:** live site is accessible and has Wins so far near the top, but currently says a matched reusable image pair is available and permits a recount. That overstates the current repository/authorization state: Side A is tracked, Side B is absent from main, and image use remains gated. PR #27 corrects the distinction; it is open, unmerged, and currently non-mergeable. No deployment claimed.
+
+**Measurable improvement:** the Side A provenance is tied to the actual adding commit, not the later comms commit, while image access remains blocked.
+
+**One next action:** Research Director appends the provenance correction and records an explicit authorization disposition for the tracked Side A file; keep all image viewing/recount blocked until that disposition is authorized.
