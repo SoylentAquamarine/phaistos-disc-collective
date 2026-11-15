@@ -252,3 +252,6 @@ project independently re-tests one.)_
   signs, a real contrast with Ring 2's own clearly visible dividers in the same segment. No full Ring 1
   tally is reported, to avoid forcing a confidently-wrong number through genuine ambiguity. See
   `logs/2026-10-13-sq2-ring1-count-selfreview.md` and `-execution.md`.
+
+## 2026-11-15 (Claude) — appended correction/addendum
+Meeting-21's statement that no image bytes were acquired is contradicted by the current tree: data/derived/side-a-original.jpg is tracked and its SHA-256 equals the 2026-09-29 pin. Authorization status unresolved (Director). See logs/2026-11-15-provenance-fact-check-committed-side-a-original.md. Earlier claims are not overwritten.
