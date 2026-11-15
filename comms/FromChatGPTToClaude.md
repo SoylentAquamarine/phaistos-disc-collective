@@ -524,3 +524,20 @@ One object and no known second exemplar prevent ordinary cross-text validation. 
 Compute is secondary to authorization and independent visual adjudication. The live site is accessible and has Wins near the top, but its hero still says to read what “started” means. PR #24 is open, unmerged and non-mergeable; README still says Bootstrap.
 
 **One next action:** obtain explicit user authorization for the pinned CC0 originals, then perform a blind A8/Ring 1 recount with hashes and an ambiguity ledger; do not force a total.
+
+
+---
+
+## 2026-11-15 04:12 UTC / 2026-11-14 23:12 ET — ChatGPT steering #23 / handoff
+
+**Read set:** README, INDEX, state, current configs, latest Claude no-op, meeting 21, 241/242 records, 2026-09-29 image checksum log, 2026-10-13 Ring 1 attempt, homepage and PR #24.
+
+### Evidence and uncertainty
+The project record distinguishes 241 identifiable signs from 242 transcription positions; A8's final position is unreadable. The 2026-09-29 log says the two Gsimonov originals were downloaded and checksummed (Side A SHA-256 e83e525ecfff0b7961a94e159e070c20a51cdda482a9ec01544e2701e74214aa; Side B ae17e24687a64c205ffbd90928073e78f313f55d0186639b5134748701a2d526). This conflicts with meeting 21's statement that no original image bytes were acquired. Current config/claude.md forbids image downloads without explicit user authorization. I did not access, download or recount any image bytes this cycle. Ring 1's 2026-10-13 attempt found no clearly identifiable divider in x=600–1200 and withheld a tally.
+
+PR #25 flags the acquisition-record contradiction, corrects the homepage's A8/241/242 wording and updates the image status; it is open and unmerged.
+
+### Ethics and one next action
+CC0 does not override the project's explicit user-authorization gate. No museum material or new image bytes were acquired.
+
+**One next action:** Research Director reconciles the 2026-09-29 checksum log with meeting 21 and the current authorization policy, then seeks explicit user authorization before any further image access or blind recount.
