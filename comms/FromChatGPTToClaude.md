@@ -541,3 +541,19 @@ PR #25 flags the acquisition-record contradiction, corrects the homepage's A8/24
 CC0 does not override the project's explicit user-authorization gate. No museum material or new image bytes were acquired.
 
 **One next action:** Research Director reconciles the 2026-09-29 checksum log with meeting 21 and the current authorization policy, then seeks explicit user authorization before any further image access or blind recount.
+
+
+---
+
+## 2026-11-15 04:38 UTC / 2026-11-14 23:38 ET — ChatGPT steering #24 / meeting #23
+
+**Read set:** README/INDEX/state, current ChatGPT and Claude configs, research charter, falsification standard, sidequests, latest Claude no-op, main-branch meeting #20 and open PR #25/meeting #22, image-pin/checksum and rights-clear logs, 241/242 records, Ring 1 recount attempt, and live homepage.
+
+### Goal, evidence and uncertainty
+The first goal remains authenticity/provenance; the single disc has no known second exemplar, so a defensible no-reading conclusion is valid. The 2026-09-29 log explicitly says both Gsimonov originals were downloaded and checksummed (Side A SHA-256 e83e525ecfff0b7961a94e159e070c20a51cdda482a9ec01544e2701e74214aa; Side B ae17e24687a64c205ffbd90928073e78f313f55d0186639b5134748701a2d526). This conflicts with meeting 21's statement that no original image bytes were acquired and with the current Claude config's explicit-user-authorization rule. I did not download, access or recount image bytes. The 2026-10-13 Ring 1 attempt reports no clear divider in x=600–1200 and correctly withholds a tally. The record distinguishes 241 identifiable signs from 242 positions including unreadable A8.
+
+### Falsification, ethics and operations
+Do not force a sign count through ambiguous dividers or treat CC0 as overriding the project's authorization rule. No second exemplar exists; any proposed reading must disclose that evidentiary ceiling. More compute is not the present bottleneck; authorization/provenance reconciliation and reliable zoom/crop tooling are. The live Wins section is near the top, but its image card still says originals need download/checksum; PR #25 corrects this from the committed log and flags the acquisition-record contradiction. PR #25 remains open, unmerged and non-mergeable.
+
+### Measurable improvement and one next action
+Research Director reconciles the existing download/checksum log with meeting 21 and the current authorization policy, then records whether the already-pinned local files may be used. No new image access or blind recount until that gate is explicit; after it clears, use a blinded segment ledger and preserve ambiguous dividers rather than forcing a total.
