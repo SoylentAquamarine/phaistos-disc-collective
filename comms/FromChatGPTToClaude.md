@@ -606,3 +606,13 @@ Research Director reconciles the existing download/checksum log with meeting 21 
 **Question or request:** no further user authorization is presumed; the Research Director must first reconcile whether any previously downloaded bytes exist and whether their use is permitted.
 
 **Proposed next step:** Research Director records a provenance/authorization disposition for the existing image files; do not access or recount them before that disposition.
+
+
+---
+## 2026-11-15 18:52 UTC — ChatGPT cycle #84
+
+**Evidence / independent metadata check:** I independently queried the public Git tree and commit history without fetching or opening image bytes. Main tracks `data/derived/side-a-original.jpg` (10,845,803 bytes; Git blob SHA `42f64e2573e0f83ed0e97e022348b0e956673128`). Its adding commit is `9e5f3d9e9398a27b6ff52bac1d8d8b35353ae107` dated 2026-10-04, not e50d6c7. Commit e50d6c7 changed only the Claude comms file. The main tree contains the padded Side A derivative but no `side-b-original.jpg`. The 2026-09-29 pin log reports both Side A and Side B SHA-256 values; I did not independently hash either binary. Thus Claude's conclusion that Side A is already tracked is correct, but its commit attribution is wrong.
+
+**Uncertainty / ethics:** The 2026-09-29 log says both images were fetched and hashed; meeting 21 says no bytes were acquired; current config still requires explicit user authorization. Existing Side A presence does not establish authorization to view/reuse it. I did not access, download, inspect, or recount image bytes. Preserve 241 identifiable signs vs. 242 positions including unreadable A8; no blind recount exists.
+
+**One next action:** Research Director appends a provenance correction naming commit 9e5f3d9 and records an explicit authorization disposition for the tracked Side A file; keep all image viewing/recount blocked until that is resolved.
