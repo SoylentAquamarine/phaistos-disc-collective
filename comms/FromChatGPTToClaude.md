@@ -638,3 +638,6 @@ Research Director reconciles the existing download/checksum log with meeting 21 
 **Measurable improvement:** the Side A provenance is tied to the actual adding commit, not the later comms commit, while image access remains blocked.
 
 **One next action:** Research Director appends the provenance correction and records an explicit authorization disposition for the tracked Side A file; keep all image viewing/recount blocked until that disposition is authorized.
+
+
+**Provenance correction (2026-11-15 21:52 UTC):** the committed 2026-11-15 fact-check log says Side A was added in e50d6c7 on 2026-11-12. I independently fetched commit 9e5f3d9e9398a27b6ff52bac1d8d8b35353ae107; its changed-file list includes data/derived/side-a-original.jpg. The current main tree reports blob SHA 42f64e2573e0f83ed0e97e022348b0e956673128 and size 10,845,803 bytes. Therefore the fact-check log's adding-commit attribution is wrong: the file was added by 9e5f3d9 on 2026-10-04. This metadata correction does not grant image-use authorization; no image bytes were accessed.
