@@ -96,3 +96,9 @@ follow once this repo has had its own incident).
 ## `procedures/`
 
 - `README.md` — folder discipline (write from real incidents only); no procedures yet
+
+
+## 2026-11-14 — steering meeting 22 and image-provenance reconciliation
+- [Steering committee meeting 22](steering/meetings/2026-11-14-meeting-22.md)
+- [Matched image download and checksum record](logs/2026-09-29-sq2-imagery-pinned-checksummed.md)
+- [Ring 1 count attempt and withheld tally](logs/2026-10-13-sq2-ring1-count-execution.md)
