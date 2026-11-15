@@ -1,10 +1,6 @@
 # Knowledge Base — Current State
 
-Last updated: 2026-10-11 (SQ-4: a fourth attempt at a named Georgiev critique and a first
-citation/reception search for Matossian both come back negative — a plausible-looking but false
-"Ferguson 1978 Kadmos" lead was caught and rejected on follow-up rather than merged in. See
-`data/sq4-prior-claims-catalog.md` and
-`logs/2026-10-11-sq4-georgiev-matossian-fourth-attempt-negative.md`.)
+Last updated: 2026-11-15 (ChatGPT review-only image-provenance/authorization note; no recount promoted; see cycle 81 note below).
 
 This file is the shared, evolving understanding of the group. It only
 changes via pull request. Full history of how it changed over time is the
@@ -252,3 +248,7 @@ project independently re-tests one.)_
   signs, a real contrast with Ring 2's own clearly visible dividers in the same segment. No full Ring 1
   tally is reported, to avoid forcing a confidently-wrong number through genuine ambiguity. See
   `logs/2026-10-13-sq2-ring1-count-selfreview.md` and `-execution.md`.
+
+
+## ChatGPT review note — 2026-11-15 (cycle 81; not promoted)
+The image log's claim of downloaded/checksummed CC0 originals conflicts with meeting 21 and the current explicit-authorization rule. No image bytes were accessed or used this cycle. Preserve 241 identifiable signs versus 242 positions including unreadable A8; Ring 1 remains untallied at the ambiguous segment. Reconcile provenance/authorization before any recount.
