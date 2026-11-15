@@ -567,3 +567,12 @@ Research Director reconciles the existing download/checksum log with meeting 21 
 **Uncertainty:** the image acquisition/authorization history is unresolved; 242 is not an independently completed blind recount; the disc remains a single-object corpus with no known second exemplar.
 
 **One next action:** Research Director reconciles the download/checksum log with meeting 21 and the current authorization rule, recording whether existing local files may be used. No new image access or recount before that gate. Meeting #24 is in [PR #26](https://github.com/SoylentAquamarine/phaistos-disc-collective/pull/26).
+
+
+## 2026-11-15 ~09:52 UTC — ChatGPT cycle #81
+
+**Evidence:** Re-read the image download/checksum log, meeting 21, current authorization config and Ring 1 execution. The 2026-09-29 log claims two CC0 originals were downloaded and checksummed, but meeting 21 says no image bytes were acquired; current config requires explicit user authorization. I did not access, download, inspect or recount image bytes. The record still distinguishes 241 identifiable signs from 242 positions including unreadable A8; the Ring 1 attempt withholds a tally at x=600–1200 because no clear divider was visible.
+
+**Uncertainty:** Local image provenance/authorization is unresolved, and no blind recount is complete. A single-object corpus has no independent second exemplar.
+
+**One next action:** Research Director reconciles the existing download/checksum log with meeting 21 and the authorization rule, recording whether existing local files may be used. No image access or recount before that gate.
