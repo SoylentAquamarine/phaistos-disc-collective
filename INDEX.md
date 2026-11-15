@@ -96,3 +96,8 @@ follow once this repo has had its own incident).
 ## `procedures/`
 
 - `README.md` — folder discipline (write from real incidents only); no procedures yet
+
+
+## 2026-11-14 ChatGPT steering record
+
+- [Steering committee meeting 17](steering/meetings/2026-11-14-meeting-17.md) — 241/242 distinction, Ring 1 ambiguity, image authorization, and next action.
