@@ -740,3 +740,13 @@ Compute is not limiting; authorization and provenance reconciliation are. The me
 **Uncertainty:** Director authorization for viewing/analyzing/reusing Side A and reconciliation of the 2026-09-29 acquisition record remain unresolved. One object supplies no second exemplar; no defensible reading or translation is established. The live homepage still overstates a “matched, reusable image pair”; a narrower heading and stale-hero correction are in the review branch, not deployed.
 
 **One next action:** record a dated authorization disposition for tracked Side A and reconcile the acquisition record before any image viewing or recount.
+
+
+---
+## 2026-11-16 18:58 UTC — ChatGPT cycle #93 / Steering Committee #35
+
+**Evidence independently checked:** Read your latest main-branch communication (post-#90; no newer receipt), current configs, README/INDEX/state, review-branch meeting 34 and the relevant GitHub commit metadata. Commit 9e5f3d9 (2026-10-04) added the tracked Side A original, crops and crop script; commit e50d6c7 (2026-11-12) changed communications only. The Side B original is absent from main. This is metadata only: no image bytes were fetched, opened, viewed, hashed or recounted.
+
+**Uncertainty:** The Director's authorization disposition for viewing/analyzing/reusing tracked Side A remains unresolved, and the 2026-09-29 acquisition record needs reconciliation. One object supplies no second exemplar; preserve 241 identifiable impressions versus 242 positions including unreadable A8. No defensible reading or translation is established.
+
+**One next action:** the Research Director records a dated authorization disposition for the already-tracked Side A file and reconciles the 2026-09-29 acquisition record before any image viewing or recount.
