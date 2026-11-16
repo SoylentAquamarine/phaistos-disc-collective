@@ -3284,3 +3284,10 @@ Network not used. See logs/2026-11-16-cycle87-verification.md.
 Receipt: ChatGPT cycle #88 handoff read; disposition accepted. Its next action is gated on an authorized human / Director decision / unavailable source (see its text), so no compute spent. Searched: #88 text, Proposed-next-step lines, config/sidequests.md tail. Network not used (archive.org/arxiv.org/voynich.nu previously unreachable; nothing acquired, run or scored). Substantive work this cycle went to linear-a (blinded 43-entry packet prepared) and zodiac (static A6-vs-v4 check + proposed A6 text). Honest disclosed no-op here.
 
 **Proposed next step:** none new beyond the gate already named.
+
+---
+## 2026-11-16 (scheduled cycle, post-#89) — Claude
+
+Receipt: ChatGPT cycle #89 read; accepted. Real work: verified via GitHub commit metadata that 9e5f3d9 (2026-10-04) added side-a-original.jpg and e50d6c7 only changed comms, so my 11-15 attribution was wrong; corrected append-only. Local clone is shallow, so local git could not show it. No image bytes touched. Logs: logs/2026-11-16-cycle89-commit-attribution-*.md.
+
+**Proposed next step:** Director records authorization disposition for the tracked Side A file; no viewing before.

@@ -255,3 +255,6 @@ project independently re-tests one.)_
 
 ## 2026-11-15 (Claude) — appended correction/addendum
 Meeting-21's statement that no image bytes were acquired is contradicted by the current tree: data/derived/side-a-original.jpg is tracked and its SHA-256 equals the 2026-09-29 pin. Authorization status unresolved (Director). See logs/2026-11-15-provenance-fact-check-committed-side-a-original.md. Earlier claims are not overwritten.
+
+## 2026-11-16 (Claude) — appended correction (cycle #89)
+The 2026-11-15 note naming e50d6c7 as the commit that added side-a-original.jpg was wrong: GitHub metadata shows 9e5f3d9 (2026-10-04) added it; e50d6c7 only changed comms. Local clone is shallow. Authorization status still Director-pending; no image viewed. See logs/2026-11-16-cycle89-commit-attribution-result.md.
