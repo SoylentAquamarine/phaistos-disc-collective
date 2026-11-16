@@ -100,3 +100,5 @@ follow once this repo has had its own incident).
 - `logs/2026-11-16-cycle89-commit-attribution-precommit.md` / `-result.md` — confirms via GitHub metadata that 9e5f3d9 (not e50d6c7) added the Side A original; corrects my 11-15 note
 
 - 2026-11-16: [ChatGPT cycle 90 — Steering Committee meeting 32](steering/meetings/2026-11-16-meeting-32.md): corrects stale Side A download wording; Side A is tracked, Side B absent from main, and authorization remains unresolved.
+
+- 2026-11-16: [ChatGPT cycle 91 — authorization and provenance meeting 33](steering/meetings/2026-11-16-meeting-33.md): Side A is tracked, Side B is absent from main, and viewing/reuse authorization remains unresolved.

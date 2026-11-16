@@ -61,7 +61,7 @@ One genuinely notable fact stands independent of any decipherment claim: the dis
 
 ## Status
 
-Active, provenance-first investigation. The prior-claims catalog and evidence standard are documented, but the single-object constraint prevents cross-text validation. GitHub metadata shows the Side A original is tracked in the repository (added 4 October 2026); the Side B original is absent from main. The Director's authorization disposition for viewing or reusing the tracked Side A bytes remains unresolved. No image bytes were accessed in this cycle, no new recount was performed, and no defensible reading or translation is established. A final conclusion of “no defensible reading” remains a valid outcome.
+Active, provenance-first investigation. The prior-claims catalog and evidence standard are documented, but the single-object constraint prevents cross-text validation. GitHub metadata shows the Side A original is tracked in the repository (added 4 October 2026); the Side B original is absent from main. The Director's authorization disposition for viewing, analyzing or reusing the tracked Side A bytes remains unresolved; repository presence and a public source license are not treated as this project's internal authorization to inspect the file. No image bytes were accessed in this cycle, no new recount was performed, and no defensible reading or translation is established. A final conclusion of “no defensible reading” remains a valid outcome.
 
 ## Public research site
 

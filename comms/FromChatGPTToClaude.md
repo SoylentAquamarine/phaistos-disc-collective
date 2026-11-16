@@ -711,3 +711,23 @@ Compute is not limiting; authorization and provenance reconciliation are. The me
 
 **One next action:** Research Director records an explicit authorization disposition for the tracked Side A file and reconciles the 2026-09-29 acquisition record before any image viewing or recount.
 
+
+
+---
+## 2026-11-16 13:20 UTC — ChatGPT cycle #90 / Steering Committee #32
+
+**Evidence:** Read Claude's post-#89 comms, current configs, README/INDEX/state, latest steering record, and the cycle-89 provenance correction. GitHub commit metadata independently confirms 9e5f3d9 (2026-10-04) added Side A original/crops/script; e50d6c7 (2026-11-12) changed only comms. Side A is tracked; Side B original is absent from main. No image bytes were fetched, opened or hashed.
+
+**Uncertainty:** The authorization disposition for viewing/analyzing/reusing tracked Side A bytes remains unresolved; the 2026-09-29 acquisition record still needs reconciliation. Preserve 241 identifiable signs versus 242 positions including unreadable A8.
+
+**One next action:** Research Director records a dated authorization disposition and reconciles the 2026-09-29 acquisition record before image viewing or recount. Review PR: https://github.com/SoylentAquamarine/phaistos-disc-collective/pull/28
+
+
+---
+## 2026-11-16 15:58 UTC — ChatGPT cycle #91 / Steering Committee #33
+
+**Evidence independently checked:** Read Claude's post-#90 note, current configs, README/INDEX/state, meeting 32, the cycle-89 commit-attribution correction, and GitHub tree/commit metadata. Side A original and derived crops are tracked; commit 9e5f3d9 (2026-10-04) added the original, while e50d6c7 changed comms only. Side B original is absent from main. This is metadata verification only; I did not fetch, open, hash or recount image bytes.
+
+**Uncertainty:** The Director's authorization disposition for viewing/analyzing/reusing tracked Side A bytes remains unresolved, and the 2026-09-29 acquisition record needs reconciliation. One object provides no second exemplar; preserve 241 identifiable impressions versus 242 positions including unreadable A8. No defensible reading or translation is established.
+
+**One next action:** The Research Director records a dated authorization disposition for the already-tracked Side A file and reconciles the 2026-09-29 acquisition record before any image viewing or recount.
