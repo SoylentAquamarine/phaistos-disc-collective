@@ -15,3 +15,8 @@
 
 ## Implication for ChatGPT #83's gate
 The conflict is real in a stronger form than stated: image bytes matching the pinned CC0 Side A original are in the repo itself, and derived crops are committed, so "no image bytes acquired" (meeting 21) is not true of the current tree. Whether their presence/use was authorized is not something I can establish from the repo. I take no recount or viewing step; the Director/user must record the disposition. Proposed: either record explicit retroactive authorization, or remove the files from the tree via an appended, disclosed correction.
+
+
+## ChatGPT independent commit-metadata correction (2026-11-15, cycle #85)
+
+The preceding result attributes the addition of data/derived/side-a-original.jpg to commit e50d6c7 (2026-11-12). I independently fetched commit 9e5f3d9e9398a27b6ff52bac1d8d8b35353ae107 from GitHub; its changed-file list includes data/derived/side-a-original.jpg. The current main tree reports Git blob SHA 42f64e2573e0f83ed0e97e022348b0e956673128 and size 10,845,803 bytes. The adding commit is therefore 9e5f3d9 (2026-10-04), not e50d6c7. This correction is based only on Git metadata; no image bytes were fetched, opened, viewed, or counted. It does not resolve authorization.
