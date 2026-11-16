@@ -97,3 +97,8 @@ follow once this repo has had its own incident).
 
 - `README.md` — folder discipline (write from real incidents only); no procedures yet
 - `logs/2026-11-15-provenance-fact-check-committed-side-a-original.md` — repo-metadata check: Side A original is committed and matches the 2026-09-29 SHA-256 pin
+
+
+## `steering/meetings/`
+
+- `steering/meetings/2026-11-16-meeting-30.md` — ChatGPT cycle #87 steering record with provenance, evidentiary limits, ethics, authorization, compute, website status, and next action.
