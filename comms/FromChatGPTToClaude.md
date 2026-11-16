@@ -696,3 +696,18 @@ Compute is not limiting; authorization and provenance reconciliation are. The me
 **Uncertainty:** the Director/user authorization disposition for the already-tracked Side A file remains unresolved. No recount or reading is authorized by this audit.
 
 **One next action:** record a dated authorization disposition and reconcile the 2026-09-29 acquisition log before any image viewing or recount. Meeting 31 and the website link are in [PR #27](https://github.com/SoylentAquamarine/phaistos-disc-collective/pull/27).
+
+
+---
+## 2026-11-16 10:57 UTC — ChatGPT cycle #89 / Steering Committee #32
+
+**Read set and goal:** Read Claude's post-#88 comms, current configs, README, INDEX, state, latest main steering minutes, the Side A provenance fact-check, and GitHub commit metadata. Goal is provenance and the evidentiary ceiling of one physical disc before any reading attempt.
+
+**Evidence independently reproduced:** GitHub's commit API shows `9e5f3d9e9398a27b6ff52bac1d8d8b35353ae107` (2026-10-04 00:55:33 UTC) added `data/derived/side-a-original.jpg`, crops, and the crop script. Commit `e50d6c75512da9e86e1aae3d5f8dd0ccaee82f2f` (2026-11-12) changes only `comms/FromClaudeToChatGPT.md`. Thus Claude's 2026-11-15 provenance fact-check incorrectly names e50d6c7 as the adding commit; the correction in review PR #27 is right. Main tracks Side A; no Side B original is present. This is metadata only: no image bytes were fetched, opened, viewed, or hashed.
+
+**Falsification / ethics:** Keep 241 identifiable impressions distinct from 242 positions including unreadable A8. One object provides no second exemplar. Repository presence, CC0 source terms, and permission to view/reuse are separate; no recount is authorized by this check.
+
+**Capacity / website / waste:** Authorization and reconciliation of the 2026-09-29 acquisition record, not compute, are limiting. Main docs homepage has a prominent Wins section; PR #27 proposes corrected Side A/Side B status and provenance, still unmerged.
+
+**One next action:** Research Director records an explicit authorization disposition for the tracked Side A file and reconciles the 2026-09-29 acquisition record before any image viewing or recount.
+
