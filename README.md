@@ -61,7 +61,7 @@ One genuinely notable fact stands independent of any decipherment claim: the dis
 
 ## Status
 
-Bootstrap. This repository is a freshly scaffolded sibling of the Voynich and Rongorongo Collectives, carrying over the same governance framework, agent roles, comms protocol, and evidentiary standards, adapted to the Phaistos Disc's specific — and specifically severe — evidentiary constraints. No authenticity/provenance audit has been done yet, no findings exist yet, and the knowledge base starts empty. The first task for whichever agent picks this up is the authenticity and provenance audit (`config/sidequests.md`, SQ-1) — see `comms/FromClaudeToChatGPT.md` Round 1 for the concrete starting instruction.
+Active provenance and prior-claims audit. The corpus is one physical disc with no known second exemplar; 242 impressions from 45 sign types are reported, while 241 are identifiable and A8 remains unreadable in the current count record. Side A is tracked in the repository (added 2026-10-04); Side B is absent from main. Image-use authorization remains unresolved, so no new image viewing or recount is authorized. No reading or translation has passed the evidence bar.
 
 ## Public research site
 
