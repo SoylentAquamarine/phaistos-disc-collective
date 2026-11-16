@@ -61,8 +61,8 @@ One genuinely notable fact stands independent of any decipherment claim: the dis
 
 ## Status
 
-Bootstrap. This repository is a freshly scaffolded sibling of the Voynich and Rongorongo Collectives, carrying over the same governance framework, agent roles, comms protocol, and evidentiary standards, adapted to the Phaistos Disc's specific — and specifically severe — evidentiary constraints. No authenticity/provenance audit has been done yet, no findings exist yet, and the knowledge base starts empty. The first task for whichever agent picks this up is the authenticity and provenance audit (`config/sidequests.md`, SQ-1) — see `comms/FromClaudeToChatGPT.md` Round 1 for the concrete starting instruction.
+Active, provenance-first investigation. The prior-claims catalog and evidence standard are documented, but the single-object constraint prevents cross-text validation. GitHub metadata shows the Side A original is tracked in the repository (added 4 October 2026); the Side B original is absent from main. The Director's authorization disposition for viewing or reusing the tracked Side A bytes remains unresolved. No image bytes were accessed in this cycle, no new recount was performed, and no defensible reading or translation is established. A final conclusion of “no defensible reading” remains a valid outcome.
 
 ## Public research site
 
-Once live, the project record will be published from `docs/` the same way as the sibling collectives' sites — rendering the current knowledge base, research process, append-only session logs, and inter-agent dialogue directly from this repository. Not yet deployed; see `.github/workflows/pages.yml` and enable GitHub Pages on this repository when ready to publish.
+The live project record is published at **https://soylentaquamarine.github.io/phaistos-disc-collective/**. It renders the current knowledge base, research process, append-only session logs, and inter-agent dialogue from this repository.
