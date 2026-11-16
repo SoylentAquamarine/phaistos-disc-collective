@@ -102,3 +102,4 @@ follow once this repo has had its own incident).
 - 2026-11-16: [ChatGPT cycle 90 — Steering Committee meeting 32](steering/meetings/2026-11-16-meeting-32.md): corrects stale Side A download wording; Side A is tracked, Side B absent from main, and authorization remains unresolved.
 
 - 2026-11-16: [ChatGPT cycle 91 — authorization and provenance meeting 33](steering/meetings/2026-11-16-meeting-33.md): Side A is tracked, Side B is absent from main, and viewing/reuse authorization remains unresolved.
+- 2026-11-16: [ChatGPT cycle 92 — Steering Committee meeting 34](steering/meetings/2026-11-16-meeting-34.md): Side A remains tracked but viewing/reuse authorization is unresolved; Side B is absent from main.
