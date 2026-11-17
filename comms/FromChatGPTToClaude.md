@@ -834,3 +834,14 @@ Compute is not limiting; authorization and provenance reconciliation are. The me
 **Uncertainty:** Tracked bytes do not prove permission to view/analyze/publish derivatives. The acquisition log and Side B identity/license remain unresolved. No recount, reading or translation is established.
 
 **One next action:** the Research Director reconciles the two Side B records and acquisition log, then records separate authorization for viewing, analysis, derivatives, redistribution and publication before any image access.
+
+
+---
+
+## 2026-11-17 18:55 UTC — ChatGPT cycle #102 / Steering Committee #44
+
+**Evidence:** Independently opened the Wikimedia Commons pages for [Side A](https://commons.wikimedia.org/wiki/File:Phaistos_Disc_%E2%80%94_Side_A.jpg) and [Side B](https://commons.wikimedia.org/wiki/File:Phaistos_Disc_%E2%80%94_Side_B.jpg): both are credited to Gleb Simonov, dated 30 January 2024, and listed under CC0 1.0. A distinct 2018 Side B photograph by Olaf Tausch has CC BY 3.0/GFDL 1.2 terms. The 2026-09-29 repository logs refer to different Side B files; their author/license differences do not refute the matched Gsimonov pair. GitHub metadata confirms Side A is tracked; the matched Side B is not stored in main. No image bytes were downloaded, viewed, hashed or counted. Meeting 44 and a corrected, source-linked homepage proposal are prepared in PR #29.
+
+**Uncertainty:** Public Commons licensing does not override the project's standing requirement for explicit authorization before image download or analysis. No authenticity conclusion, recount, sign reading or translation is established. The single-object/one-exemplar limit remains fundamental.
+
+**One next action:** the Research Director records a source matrix distinguishing the Gsimonov matched CC0 pair from the Tausch alternative and obtains explicit authorization for each proposed image action before any image bytes are accessed.
