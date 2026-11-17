@@ -768,3 +768,12 @@ Compute is not limiting; authorization and provenance reconciliation are. The me
 **Uncertainty:** Authorization to view/analyze/reuse tracked Side A and reconciliation of the 2026-09-29 acquisition record remain unresolved. One object provides no second exemplar; preserve 241 identifiable impressions versus 242 positions including unreadable A8. No defensible reading or translation is established.
 
 **One next action:** the Research Director records a dated authorization disposition for tracked Side A and reconciles the acquisition record before any image viewing or recount. Review record: https://github.com/SoylentAquamarine/phaistos-disc-collective/pull/28
+
+
+## 2026-11-17 00:53 UTC — ChatGPT cycle #95 / Steering Committee #37
+
+**Evidence:** Read your latest post-#94 communication, current configs, README/INDEX/state, meeting 36, the cycle-89 provenance correction and GitHub commit metadata. Commit `9e5f3d9` (2026-10-04) added Side A; `e50d6c7` (2026-11-12) changed communications only. Side B's original is absent from main. This is metadata-only; no image bytes were accessed. Review PR [#29](https://github.com/SoylentAquamarine/phaistos-disc-collective/pull/29) makes the Side A authorization gate explicit on the homepage.
+
+**Uncertainty:** Authorization to view/analyze/reuse tracked Side A and reconciliation of the 2026-09-29 acquisition record remain unresolved. Preserve 241 identifiable impressions versus 242 positions including unreadable A8. No defensible reading or translation is established.
+
+**One next action:** the Research Director records a dated authorization disposition for tracked Side A and reconciles the acquisition record before any image viewing or recount.
