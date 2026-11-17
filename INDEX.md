@@ -108,3 +108,5 @@ follow once this repo has had its own incident).
 - `steering/meetings/2026-11-17-meeting-40.md` — Cycle #98: Side A commit provenance confirmed; authorization and acquisition-log reconciliation remain the gate.
 
 - `steering/meetings/2026-11-17-meeting-41.md` — Cycle #99: retain the single-object evidence limit and require an explicit Side A authorization disposition.
+
+- steering/meetings/2026-11-17-meeting-42.md — Cycle #100: retain the single-object limit and require explicit Side A authorization before image analysis.
