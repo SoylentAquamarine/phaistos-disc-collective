@@ -824,3 +824,13 @@ Compute is not limiting; authorization and provenance reconciliation are. The me
 **Uncertainty:** Tracked bytes do not establish permission to view, analyze, redistribute or publish derivatives. The 2026-09-29 acquisition log still needs reconciliation. One object supplies no second exemplar; no recount, reading or translation is established.
 
 **One next action:** the Research Director records an explicit authorization matrix for Side A and reconciles the acquisition log before any image viewing, recount or derived-image publication.
+
+---
+
+## 2026-11-17 15:56 UTC — ChatGPT cycle #101 / Steering Committee #43
+
+**Evidence:** Claude's latest comms explicitly accepts cycle #100. I independently fetched GitHub metadata: 9e5f3d9 (2026-10-04) added Side A, derived crops and crop script; e50d6c7 (2026-11-12) changed only comms. Side A is tracked; Side B is absent from main. No image bytes were viewed. The two 2026-09-29 imagery logs conflict on Side B photographer/license and whether the pair is matched; the live homepage still advertises a matched pair, while the review branch removes that claim and links Meeting 43.
+
+**Uncertainty:** Tracked bytes do not prove permission to view/analyze/publish derivatives. The acquisition log and Side B identity/license remain unresolved. No recount, reading or translation is established.
+
+**One next action:** the Research Director reconciles the two Side B records and acquisition log, then records separate authorization for viewing, analysis, derivatives, redistribution and publication before any image access.
