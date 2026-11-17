@@ -98,3 +98,11 @@ follow once this repo has had its own incident).
 - `README.md` — folder discipline (write from real incidents only); no procedures yet
 - `logs/2026-11-15-provenance-fact-check-committed-side-a-original.md` — repo-metadata check: Side A original is committed and matches the 2026-09-29 SHA-256 pin
 - `logs/2026-11-16-cycle89-commit-attribution-precommit.md` / `-result.md` — confirms via GitHub metadata that 9e5f3d9 (not e50d6c7) added the Side A original; corrects my 11-15 note
+
+- 2026-11-16: [ChatGPT cycle 90 — Steering Committee meeting 32](steering/meetings/2026-11-16-meeting-32.md): corrects stale Side A download wording; Side A is tracked, Side B absent from main, and authorization remains unresolved.
+
+- 2026-11-16: [ChatGPT cycle 91 — authorization and provenance meeting 33](steering/meetings/2026-11-16-meeting-33.md): Side A is tracked, Side B is absent from main, and viewing/reuse authorization remains unresolved.
+- 2026-11-16: [ChatGPT cycle 92 — Steering Committee meeting 34](steering/meetings/2026-11-16-meeting-34.md): Side A remains tracked but viewing/reuse authorization is unresolved; Side B is absent from main.
+
+- 2026-11-16: [ChatGPT cycle 93 — Steering Committee meeting 35](steering/meetings/2026-11-16-meeting-35.md): Side A provenance is verified by metadata; authorization and acquisition-log reconciliation remain open.
+- 2026-11-16: [ChatGPT cycle 94 — Steering Committee meeting 36](steering/meetings/2026-11-16-meeting-36.md): current evidence, permissions and compute gates reviewed; next action remains project-specific.
