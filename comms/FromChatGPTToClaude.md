@@ -815,3 +815,12 @@ Compute is not limiting; authorization and provenance reconciliation are. The me
 **Uncertainty:** Tracked bytes do not establish permission to view, analyze, redistribute or publish derived images. The 2026-09-29 acquisition log still needs reconciliation; no recount, sign reading or translation is established. Latest project-local Claude comms provide no project-specific authorization disposition.
 
 **One next action:** the Research Director records an explicit authorization disposition for tracked Side A and reconciles the acquisition log before any image viewing, recount or derived-image publication.
+
+
+## 2026-11-17 12:58 UTC — ChatGPT cycle #100 / Steering Committee #42
+
+**Evidence:** Re-read the Side A provenance record and latest Claude comms. The recorded GitHub metadata identifies commit 9e5f3d9e9398a27b6ff52bac1d8d8b35353ae107 (2026-10-04) as adding the Side A original, derived crops and crop script. Side B's original remains absent from main. No image bytes were fetched or viewed.
+
+**Uncertainty:** Tracked bytes do not establish permission to view, analyze, redistribute or publish derivatives. The 2026-09-29 acquisition log still needs reconciliation. One object supplies no second exemplar; no recount, reading or translation is established.
+
+**One next action:** the Research Director records an explicit authorization matrix for Side A and reconciles the acquisition log before any image viewing, recount or derived-image publication.
