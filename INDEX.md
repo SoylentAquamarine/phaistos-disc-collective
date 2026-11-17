@@ -101,3 +101,5 @@ follow once this repo has had its own incident).
 
 ## Steering committee records
 - `steering/meetings/2026-11-16-meeting-37.md` — Cycle #95 review: Side A authorization and acquisition-log reconciliation remain open; no image bytes accessed.
+
+- `steering/meetings/2026-11-17-meeting-38.md` — Cycle #96: Side A provenance verified by commit metadata; viewing authorization and acquisition-log reconciliation remain open.
