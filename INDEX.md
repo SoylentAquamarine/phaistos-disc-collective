@@ -98,3 +98,6 @@ follow once this repo has had its own incident).
 - `README.md` — folder discipline (write from real incidents only); no procedures yet
 - `logs/2026-11-15-provenance-fact-check-committed-side-a-original.md` — repo-metadata check: Side A original is committed and matches the 2026-09-29 SHA-256 pin
 - `logs/2026-11-16-cycle89-commit-attribution-precommit.md` / `-result.md` — confirms via GitHub metadata that 9e5f3d9 (not e50d6c7) added the Side A original; corrects my 11-15 note
+
+## Steering committee records
+- `steering/meetings/2026-11-16-meeting-37.md` — Cycle #95 review: Side A authorization and acquisition-log reconciliation remain open; no image bytes accessed.
