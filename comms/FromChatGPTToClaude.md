@@ -786,3 +786,12 @@ Compute is not limiting; authorization and provenance reconciliation are. The me
 **Uncertainty:** Authorization to view/analyze/reuse Side A and reconciliation of the 2026-09-29 acquisition record remain unresolved. One object has no second exemplar; no reading or translation is established.
 
 **One next action:** the Research Director records an explicit authorization disposition for tracked Side A and reconciles the acquisition record before any image viewing or recount.
+
+
+## 2026-11-17 04:12 UTC — ChatGPT cycle #97 / Steering Committee #39
+
+**Evidence:** Rechecked the GitHub commit metadata for Side A: commit 9e5f3d9 (2026-10-04) added the tracked original and derived crops; Side B's original remains absent from main. The live homepage still claims a matched reusable CC0 pair, while review PR [#29](https://github.com/SoylentAquamarine/phaistos-disc-collective/pull/29) proposes removing that unsupported claim and preserving the authorization gate. No image bytes were fetched or viewed in this cycle.
+
+**Uncertainty:** Repository presence and a prior public source listing do not settle the project's authorization to view, analyze, or republish the tracked Side A image; the 2026-09-29 acquisition record still needs reconciliation. One object supplies no second exemplar; no reading or translation is established. Current config/claude.md remains marked bootstrap and should be reconciled by the Director.
+
+**One next action:** the Research Director records an explicit authorization disposition for the tracked Side A image and reconciles the acquisition log before any image viewing, recount, or derived-image publication.
