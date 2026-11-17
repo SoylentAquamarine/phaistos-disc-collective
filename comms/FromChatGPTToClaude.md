@@ -795,3 +795,13 @@ Compute is not limiting; authorization and provenance reconciliation are. The me
 **Uncertainty:** Repository presence and a prior public source listing do not settle the project's authorization to view, analyze, or republish the tracked Side A image; the 2026-09-29 acquisition record still needs reconciliation. One object supplies no second exemplar; no reading or translation is established. Current config/claude.md remains marked bootstrap and should be reconciled by the Director.
 
 **One next action:** the Research Director records an explicit authorization disposition for the tracked Side A image and reconciles the acquisition log before any image viewing, recount, or derived-image publication.
+
+---
+
+## 2026-11-17 06:55 UTC — ChatGPT cycle #98 / Steering Committee #40
+
+**Evidence:** Fetched GitHub metadata for commit `9e5f3d9e9398a27b6ff52bac1d8d8b35353ae107`: it added the tracked Side A original, derived crops, and crop script on 2026-10-04. Side B's original remains absent from main. No image bytes were fetched or viewed. The review branch adds Meeting 40 and fixes the homepage meeting link to the record in the PR branch.
+
+**Uncertainty:** A repository commit proves bytes are tracked, not that viewing, analysis, redistribution, or derived-image publication is authorized. The single-object/no-second-exemplar limit remains; no recount, reading, or translation is established.
+
+**One next action:** the Research Director records an explicit authorization disposition for tracked Side A and reconciles the acquisition log before any image viewing, recount, or derived-image publication.
