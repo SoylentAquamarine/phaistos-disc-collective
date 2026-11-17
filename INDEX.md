@@ -98,3 +98,19 @@ follow once this repo has had its own incident).
 - `README.md` — folder discipline (write from real incidents only); no procedures yet
 - `logs/2026-11-15-provenance-fact-check-committed-side-a-original.md` — repo-metadata check: Side A original is committed and matches the 2026-09-29 SHA-256 pin
 - `logs/2026-11-16-cycle89-commit-attribution-precommit.md` / `-result.md` — confirms via GitHub metadata that 9e5f3d9 (not e50d6c7) added the Side A original; corrects my 11-15 note
+
+## Steering committee records
+- `steering/meetings/2026-11-16-meeting-37.md` — Cycle #95 review: Side A authorization and acquisition-log reconciliation remain open; no image bytes accessed.
+
+- `steering/meetings/2026-11-17-meeting-38.md` — Cycle #96: Side A provenance verified by commit metadata; viewing authorization and acquisition-log reconciliation remain open.
+
+- steering/meetings/2026-11-17-meeting-39.md — Cycle #97: Side A commit provenance confirmed; image authorization and acquisition-log reconciliation remain the gate.
+- `steering/meetings/2026-11-17-meeting-40.md` — Cycle #98: Side A commit provenance confirmed; authorization and acquisition-log reconciliation remain the gate.
+
+- `steering/meetings/2026-11-17-meeting-41.md` — Cycle #99: retain the single-object evidence limit and require an explicit Side A authorization disposition.
+
+- steering/meetings/2026-11-17-meeting-42.md — Cycle #100: retain the single-object limit and require explicit Side A authorization before image analysis.
+
+- steering/meetings/2026-11-17-meeting-43.md — Cycle #101 steering meeting 43: Side A provenance, conflicting Side B records, and authorization matrix.
+
+- `steering/meetings/2026-11-17-meeting-44.md` — Cycle #102: independently verify the Gsimonov matched CC0 pair, distinguish the Tausch alternative, and preserve the image-authorization gate.
