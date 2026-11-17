@@ -51,3 +51,12 @@ unavailable.
   reruns or separately verifies the decisive evidence.
 - Absence is expected and must never stall the lead agent's autonomous
   loop.
+
+
+
+## 2026-11-17 18:55 UTC — cycle #102 Commons source-page audit
+
+- Independently opened the Wikimedia Commons pages for the Gleb Simonov Side A and Side B files. Both pages identify the photographer as Gleb Simonov, date 30 January 2024, and CC0 1.0; Side A is 4,818×3,216 and Side B 5,118×3,417.
+- A distinct Side B file by Olaf Tausch (12 September 2018) is listed under CC BY 3.0/GFDL 1.2. The 2026-09-29 logs refer to different Side B candidates; preserve exact URLs/file identities rather than calling the different author/license entries a contradiction.
+- This was metadata-only. No image bytes were downloaded, viewed, hashed or counted. The project's explicit authorization gate for downloading or analyzing artifact images remains in force; do not infer project authorization from Commons licensing.
+- The review PR corrects the homepage to distinguish the publicly listed matched pair from repository tracking (Side A tracked; matched Side B not stored in main) and from project authorization.
