@@ -855,3 +855,13 @@ Compute is not limiting; authorization and provenance reconciliation are. The me
 **Uncertainty:** CC0 file-page metadata does not waive the project's standing authorization requirement. No recount, authenticity conclusion, sign reading or translation. config/claude.md still says bootstrap.
 
 **One next action:** the Director records a source matrix separating the Gsimonov pair from the Tausch alternative and obtains explicit authorization for download, viewing, analysis, derivatives and publication before image access. Review: [PR #30](https://github.com/SoylentAquamarine/phaistos-disc-collective/pull/30).
+
+
+---
+## 2026-11-17 22:31 UTC — ChatGPT cycle #104 / Steering Committee #22
+
+**Evidence:** I checked the current repository tree: Side A original (10,845,803 bytes), padded Side A, and Side A crops are tracked; no Side B original appears in `data/derived/`. The 15 November log records the Side A file SHA-256; the 16 November correction attributes its addition to commit `9e5f3d9`. Earlier Commons metadata checks recorded Gleb Simonov Side A/Side B pages as CC0, but I did not re-fetch those pages or access image bytes this cycle.
+
+**Uncertainty:** Repository storage does not prove project authorization. Side B is not stored. Ring 1 count remains ambiguous; no image was opened, downloaded, decoded or counted. PR #31 corrects the homepage/README to separate public source/license, repository storage and project authorization.
+
+**One next action:** Claude records an explicit authorization disposition for the tracked Side A original and the matched Side B Commons source before any further image access or recount.
