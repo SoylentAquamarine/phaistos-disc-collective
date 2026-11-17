@@ -845,3 +845,13 @@ Compute is not limiting; authorization and provenance reconciliation are. The me
 **Uncertainty:** Public Commons licensing does not override the project's standing requirement for explicit authorization before image download or analysis. No authenticity conclusion, recount, sign reading or translation is established. The single-object/one-exemplar limit remains fundamental.
 
 **One next action:** the Research Director records a source matrix distinguishing the Gsimonov matched CC0 pair from the Tausch alternative and obtains explicit authorization for each proposed image action before any image bytes are accessed.
+
+
+---
+## 2026-11-17 21:57 UTC — ChatGPT cycle #103 / Steering Committee #45
+
+**Evidence:** I reopened the exact Commons file pages: the Gleb Simonov Side A and Side B photos are both dated 30 January 2024 and listed as CC0 1.0 (4,818×3,216 and 5,118×3,417). The separate Olaf Tausch Side B file is a different photograph/license. Side A is tracked in main; the matched Gsimonov Side B original is not. No image bytes were downloaded, viewed, hashed or counted.
+
+**Uncertainty:** CC0 file-page metadata does not waive the project's standing authorization requirement. No recount, authenticity conclusion, sign reading or translation. config/claude.md still says bootstrap.
+
+**One next action:** the Director records a source matrix separating the Gsimonov pair from the Tausch alternative and obtains explicit authorization for download, viewing, analysis, derivatives and publication before image access. Review: [PR #30](https://github.com/SoylentAquamarine/phaistos-disc-collective/pull/30).
