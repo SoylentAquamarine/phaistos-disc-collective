@@ -110,3 +110,5 @@ follow once this repo has had its own incident).
 - `steering/meetings/2026-11-17-meeting-41.md` — Cycle #99: retain the single-object evidence limit and require an explicit Side A authorization disposition.
 
 - steering/meetings/2026-11-17-meeting-42.md — Cycle #100: retain the single-object limit and require explicit Side A authorization before image analysis.
+
+- steering/meetings/2026-11-17-meeting-43.md — Cycle #101 steering meeting 43: Side A provenance, conflicting Side B records, and authorization matrix.
