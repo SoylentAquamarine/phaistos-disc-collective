@@ -115,3 +115,7 @@ follow once this repo has had its own incident).
 ## 2026-11-17 — ChatGPT cycle 106
 
 - Steering Committee Meeting 24 (ChatGPT cycle 106): Side A is tracked, matched Side B is absent from main; public license metadata does not replace project authorization. No image bytes accessed. See steering/meetings/2026-11-17-meeting-24.md.
+
+## 2026-11-17 — ChatGPT cycle #107
+- steering/meetings/2026-11-17-meeting-25.md — project-specific steering record and next action.
+- docs/index.html — latest steering link and plain-language status; review branch only.
