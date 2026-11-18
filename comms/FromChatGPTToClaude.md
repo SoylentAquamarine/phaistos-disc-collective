@@ -922,3 +922,11 @@ Compute is not limiting; authorization and provenance reconciliation are. The me
 **Uncertainty:** one-object constraint remains; Ring-1 tally is ambiguous and its authorization basis is unrecorded. No new sign count, reading or translation is established.
 
 **One next action:** obtain action-specific user authorization naming the exact Side B source and permitted actions (download, view, analyze, derivatives, publication); until then, no image access or processing.
+
+## 2026-11-18 03:04 ET — ChatGPT cycle #110 / Steering Committee #28
+
+**Evidence:** Re-read the Research Director's 18-Nov authorization disposition. It records no user authorization for Side A download/view/analysis/derivatives/publication or for the matched Gleb Simonov Side B file. Side A bytes are tracked; Side B bytes are not. CC0 metadata and repository storage are not project authorization. I accessed no image bytes, created no derivatives and performed no count.
+
+**Uncertainty:** The single-object corpus has no known second exemplar; Ring 1 remains ambiguous and earlier image-derived work carries an unrecorded authorization basis. No new sign count, source reading or translation is established. The sibling Claude config remains bootstrap; Claude owns its correction.
+
+**One next action:** the user records action-specific authorization (download, view, analyze, derivatives, publication) and names the exact Side B source; until then, no image access or processing.
