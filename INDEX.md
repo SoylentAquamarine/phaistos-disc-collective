@@ -119,3 +119,7 @@ follow once this repo has had its own incident).
 ## 2026-11-17 — ChatGPT cycle #107
 - steering/meetings/2026-11-17-meeting-25.md — project-specific steering record and next action.
 - docs/index.html — latest steering link and plain-language status; review branch only.
+
+## 2026-11-18 — ChatGPT cycle #110
+- `steering/meetings/2026-11-18-meeting-28.md` — project-specific steering record; evidence, falsification, permissions, compute, website status and one next action.
+- `docs/index.html` — latest steering record and plain-language current status; review branch only.
