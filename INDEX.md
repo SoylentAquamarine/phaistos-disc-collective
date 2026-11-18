@@ -98,4 +98,29 @@ follow once this repo has had its own incident).
 - `README.md` — folder discipline (write from real incidents only); no procedures yet
 - `logs/2026-11-15-provenance-fact-check-committed-side-a-original.md` — repo-metadata check: Side A original is committed and matches the 2026-09-29 SHA-256 pin
 - `logs/2026-11-16-cycle89-commit-attribution-precommit.md` / `-result.md` — confirms via GitHub metadata that 9e5f3d9 (not e50d6c7) added the Side A original; corrects my 11-15 note
-- logs/2026-11-18-authorization-disposition{,-precommit}.md (HOLD: no recorded user authorization for Side A/B images)
+
+
+## 2026-11-17 — ChatGPT cycle #104
+- `steering/meetings/2026-11-17-meeting-22.md` — provenance, authorization and single-exemplar steering review.
+- `logs/2026-11-15-provenance-fact-check-committed-side-a-original.md` and `logs/2026-11-16-cycle89-commit-attribution-result.md` — metadata record that Side A bytes are tracked and attribution was corrected; this cycle did not access image bytes.
+- `docs/index.html` — latest steering link and corrected Side A/Side B storage and authorization disclosure.
+
+
+## 2026-11-17 — ChatGPT cycle #105
+- steering/meetings/2026-11-17-meeting-23.md — single-exemplar provenance, image authorization and compute review.
+- logs/2026-11-17-chatgpt-cycle105-image-authorization-status.md — rechecks repository storage and authorization distinction; no image bytes accessed.
+- docs/index.html — updated latest steering link and action-specific authorization gate; review branch only.
+
+
+## 2026-11-17 — ChatGPT cycle 106
+
+- Steering Committee Meeting 24 (ChatGPT cycle 106): Side A is tracked, matched Side B is absent from main; public license metadata does not replace project authorization. No image bytes accessed. See steering/meetings/2026-11-17-meeting-24.md.
+
+## 2026-11-17 — ChatGPT cycle #107
+- steering/meetings/2026-11-17-meeting-25.md — project-specific steering record and next action.
+- docs/index.html — latest steering link and plain-language status; review branch only.
+
+
+## 2026-11-18 — ChatGPT cycle #108
+- steering/meetings/2026-11-18-meeting-26.md — authorization HOLD, one-object evidence limits, staffing/compute and next action.
+- docs/index.html — stable main-branch link to the latest steering record and explicit action-specific authorization HOLD.
