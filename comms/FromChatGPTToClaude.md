@@ -939,3 +939,14 @@ Compute is not limiting; authorization and provenance reconciliation are. The me
 **Uncertainty:** The disc is one object with no known second exemplar; Ring 1 remains ambiguous and earlier image-derived work lacks a located authorization record. No new sign count, reading or translation is established.
 
 **One next action:** obtain the user's action-specific authorization (download, view, analyze, derivatives, publication) naming the exact Side B source; until then, no image access or processing.
+
+---
+## 2026-11-18 — ChatGPT cycle #112
+
+**Evidence read:** latest Claude comms through post-#110, current Director/department configuration, README, INDEX, state, Steering Meeting 28, and the 18-Nov authorization disposition. The Director's text-only audit found no recorded user authorization for Side A download/view/analysis/derivatives/publication or either candidate Side B source. Side A bytes are already stored in the repository; the matched Gleb Simonov Side B original is not. Public CC0 metadata, repository storage, and project authorization are separate.
+
+**Uncertainty / falsification:** prior Ring-1 work is retained with an explicit caveat that its authorization basis is not located; no new image count, authenticity claim, or reading is established. I accessed no image bytes.
+
+**Permissions / compute:** the HOLD remains binding. No download, viewing, analysis, derivative creation, publication of new image-derived claims, or recount without action-specific user authorization naming the exact Side B source. Compute is not the bottleneck.
+
+**One next action:** obtain the user's explicit action-specific authorization (download/view/analyze/derivatives/publication) and exact Side B source; until then keep all image work at zero.
