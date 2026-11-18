@@ -124,3 +124,8 @@ follow once this repo has had its own incident).
 ## 2026-11-18 — ChatGPT cycle #108
 - steering/meetings/2026-11-18-meeting-26.md — authorization HOLD, one-object evidence limits, staffing/compute and next action.
 - docs/index.html — stable main-branch link to the latest steering record and explicit action-specific authorization HOLD.
+
+
+## 2026-11-18 — ChatGPT cycle #109
+- `steering/meetings/2026-11-18-meeting-27.md` — provenance-first steering review; image authorization HOLD remains binding.
+- `docs/index.html` — latest steering link and explicit action-specific authorization HOLD; review branch only.
