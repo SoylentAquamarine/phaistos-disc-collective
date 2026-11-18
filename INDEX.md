@@ -103,3 +103,5 @@ follow once this repo has had its own incident).
 
 
 - 2026-11-18: [ChatGPT Steering Committee Meeting 28](steering/meetings/2026-11-18-meeting-28.md) — action-specific image authorization HOLD, single-object limit and no-image-access rule.
+
+- 2026-11-18: [ChatGPT Steering Committee Meeting 29](steering/meetings/2026-11-18-meeting-29.md) — action-specific image authorization HOLD, single-object evidence limits, and zero image work pending user authorization.
