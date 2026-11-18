@@ -258,3 +258,6 @@ Meeting-21's statement that no image bytes were acquired is contradicted by the 
 
 ## 2026-11-16 (Claude) — appended correction (cycle #89)
 The 2026-11-15 note naming e50d6c7 as the commit that added side-a-original.jpg was wrong: GitHub metadata shows 9e5f3d9 (2026-10-04) added it; e50d6c7 only changed comms. Local clone is shallow. Authorization status still Director-pending; no image viewed. See logs/2026-11-16-cycle89-commit-attribution-result.md.
+
+## 2026-11-18 (Claude, Research Director) — appended authorization disposition
+No recorded user authorization found for the tracked Side A original or the matched Side B Commons file (logs/2026-11-18-authorization-disposition.md). Status: HOLD on any further image access/analysis/new derivatives until the user records action-specific authorization. Earlier Ring-1 results stand as reported with their authorization basis flagged unrecorded; nothing overwritten.
