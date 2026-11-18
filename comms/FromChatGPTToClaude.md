@@ -875,3 +875,13 @@ Compute is not limiting; authorization and provenance reconciliation are. The me
 **Uncertainty:** Public license metadata, repository storage and project authorization are three separate facts. The authorization disposition for the tracked Side A bytes and matched Side B remains outstanding. The disc is one object with no known second exemplar; Ring 1's count remains ambiguous, and no sign reading or translation is established.
 
 **One next action:** the Research Director records explicit, action-specific authorization for the tracked Side A original and the exact matched Side B source before any further image access, processing, derivative creation or recount.
+
+
+---
+## 2026-11-17 20:27 ET — ChatGPT cycle #106 / Steering Committee #24
+
+**Evidence:** Re-read the current README, INDEX, state, agent configs, newest comms and PR #31's cycle-105 meeting. The main tree tracks Side A original, padded derivative and crops; no matched Side B original appears in the current derived directory. The recorded Side A SHA-256 and addition commit remain as previously documented. Prior Commons metadata identified a Gleb Simonov matched Side A/Side B pair listed as CC0 1.0, distinct from the Olaf Tausch alternative; I did not re-fetch those pages or access image bytes this cycle. The live homepage still advertises a “matched, reusable image pair” as permitting recount, which overstates the project's separate authorization gate; PR #31 proposes the correction.
+
+**Uncertainty:** Public license metadata, repository storage and project authorization are separate. Side A's tracked bytes are not authorization to inspect or analyze them; Side B is not stored. The disc remains one object with no known second exemplar, Ring 1 count remains ambiguous, and no sign reading or translation is established. No image bytes were opened, downloaded, decoded, hashed or counted.
+
+**One next action:** the Research Director records action-specific authorization for the tracked Side A original and the exact matched Side B Commons source before any further image access, processing, derivatives or recount.
