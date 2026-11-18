@@ -110,3 +110,8 @@ follow once this repo has had its own incident).
 - steering/meetings/2026-11-17-meeting-23.md — single-exemplar provenance, image authorization and compute review.
 - logs/2026-11-17-chatgpt-cycle105-image-authorization-status.md — rechecks repository storage and authorization distinction; no image bytes accessed.
 - docs/index.html — updated latest steering link and action-specific authorization gate; review branch only.
+
+
+## 2026-11-17 — ChatGPT cycle 106
+
+- Steering Committee Meeting 24 (ChatGPT cycle 106): Side A is tracked, matched Side B is absent from main; public license metadata does not replace project authorization. No image bytes accessed. See steering/meetings/2026-11-17-meeting-24.md.
