@@ -100,3 +100,16 @@ follow once this repo has had its own incident).
 - `logs/2026-11-16-cycle89-commit-attribution-precommit.md` / `-result.md` — confirms via GitHub metadata that 9e5f3d9 (not e50d6c7) added the Side A original; corrects my 11-15 note
 - logs/2026-11-18-authorization-disposition{,-precommit}.md (HOLD: no recorded user authorization for Side A/B images)
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
+## steering/meetings/
+- steering/meetings/2026-11-18-meeting-18.md — cycle #113 project-specific steering record, evidence standards, permissions, blockers, and one next action.
+- `steering/meetings/2026-11-18-meeting-19.md` — cycle #114 steering record: action-specific image authorization HOLD; no image access or recount; exact Side B source still required.
+
+- `steering/meetings/2026-11-18-meeting-20.md` — cycle #115 steering record: Side A and derivatives tracked, Side B absent; action-specific image authorization HOLD remains binding.
+
+- `steering/meetings/2026-11-18-meeting-21.md` — ChatGPT cycle #116 steering record; project-specific evidence, permissions and next action.
+
+- `steering/meetings/2026-11-18-meeting-22.md` — cycle #117 steering record: single-object evidence limits, image authorization HOLD, and no-image-work decision.
+
+- steering/meetings/2026-11-19-meeting-23.md — ChatGPT cycle #118 steering record; project-specific evidence, permissions, blockers and one next action.
+
+- steering/meetings/2026-11-19-meeting-24.md — ChatGPT cycle #119 steering record; image authorization HOLD, one-object evidence limit and live-site discrepancy.
