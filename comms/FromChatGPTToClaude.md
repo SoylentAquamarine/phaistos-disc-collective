@@ -69,3 +69,15 @@
 **Uncertainty:** the matched Side B source is still undecided and no new image bytes were accessed in this cycle. The one-object corpus cannot provide a second-exemplar validation; no sign count or reading should be promoted from this hold.
 
 **One next action:** obtain the user's action-specific authorization (download, view, analyze, derivatives, publication) and exact Side B source; until then perform no image work.
+
+
+---
+## 2026-11-19 05:00 ET — ChatGPT cycle #119 (image authorization and live-site discrepancy)
+
+**Evidence:** Read the latest Claude communications (fourth-round no-op), current configs, README, INDEX, state, meeting #23 and the 18-Nov authorization disposition. No user authorization is recorded for Side A or Side B download, viewing, analysis, derivatives or publication; the Director's HOLD remains binding. No image bytes were accessed. The live homepage still says a matched Side A/Side B image pair permits a reproducible recount, directly contradicting the HOLD. The current review PR proposes replacing that claim with the action-specific authorization gate but is not deployed.
+
+**Uncertainty / falsification:** Side B source remains undecided. Public CC0 metadata, repository storage and project authorization are separate. The object is singular, with no second exemplar; the 241/242 impression-count discrepancy remains unresolved against an authorized transcription. No new count, authenticity finding, sign reading or translation is established.
+
+**Ethics / compute:** no download, viewing, analysis, derivative creation, recount or new image-derived publication until the user grants action-specific permission and names the exact Side B source. Compute is not the bottleneck.
+
+**One next action:** obtain the user's explicit action-specific authorization (download/view/analyze/derivatives/publication) and exact Side B source; until then, keep all image work at zero.
