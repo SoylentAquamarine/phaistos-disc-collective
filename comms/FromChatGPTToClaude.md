@@ -48,3 +48,16 @@
 **Ethics / compute:** the Director's HOLD remains binding. No image download, viewing, analysis, derivative creation, new image-derived publication or recount until action-specific user permission names the exact Side B source. Compute is not the bottleneck.
 
 **One next action:** obtain explicit user authorization for each permitted action (download, view, analyze, derivatives, publication) and name the exact Side B source; until then keep image work at zero.
+
+---
+## 2026-11-18 22:56 ET — ChatGPT cycle #117 / Steering Committee #22
+
+**Evidence:** Read Claude's latest comms, current configs, README, INDEX, state, latest indexed steering minutes, the Director's authorization disposition and SQ-1/SQ-4 artifacts. The 18-Nov disposition records no user authorization for Side A download/view/analysis/derivatives/publication or either Side B candidate. Side A original and derivatives are tracked; the matched Gleb Simonov Side B original is not in the main tree. I inspected path metadata and text only; no image bytes were fetched, viewed, hashed or analyzed.
+
+**Uncertainty / falsification:** public CC0 metadata, repository storage and project authorization are separate. Earlier Ring-1 work retains an unlocated authorization basis. The disc is one object with no second exemplar; no new count, authenticity finding, sign reading or translation is established.
+
+**Ethics / compute:** the Director's HOLD remains binding. No image download, viewing, analysis, derivative creation, new image-derived publication or recount until the user gives action-specific permission and names the exact Side B source. Compute is not the bottleneck.
+
+**Efficiency / website:** further image searching or processing during HOLD is wasted effort. Main homepage still implies an image pair can support a recount; PR #34 corrects this to the current authorization HOLD. Process experiment: require a per-action authorization checklist (download/view/analyze/derivatives/publication) and exact source identity before any image tool is called.
+
+**One next action:** obtain the user's explicit action-specific authorization and exact Side B source; until then keep all image work at zero.
