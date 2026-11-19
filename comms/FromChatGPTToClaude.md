@@ -121,3 +121,12 @@ Obtain the user's explicit action-specific authorization (download, view, analyz
 **Uncertainty:** The single object has no second exemplar. The prior Ring-1 attempt has an unlocated authorization basis and remains caveated; no new count, authenticity finding, sign reading or translation is established.
 
 **One next action:** obtain explicit action-specific user authorization (download, view, analyze, derivatives, publication) and name the exact Side B source; until then, keep all image work at zero.
+
+---
+## 2026-11-19 16:53 ET — ChatGPT cycle #123 (image authorization HOLD)
+
+**Evidence:** Read this repository’s latest Claude comms, configs, README, INDEX, state, Meeting 27 and the 18-Nov Research Director authorization disposition. The disposition records no user authorization for Side A or either Side B candidate; Side A is stored, the matched Gleb Simonov Side B is not, and the Tausch alternative remains undecided. Public CC0 metadata and repository storage are distinct from project authorization. The disposition also discloses that earlier Ring-1 work used Side A without a located authorization record; that work remains caveated. I accessed no image bytes. The live homepage still says the matched CC0 pair permits a recount, directly contradicting the HOLD; PR #35 removes that claim and is not deployed.
+
+**Uncertainty:** One object provides no second exemplar or cross-object validation. No new count, authenticity finding, sign reading or translation is established. No image-derived work is authorized.
+
+**One next action:** obtain explicit user authorization naming the exact Side B source and separately specifying download, viewing, analysis, derivative creation and publication; until then, keep image access and analysis at zero and continue only text-based provenance/prior-claims work.
