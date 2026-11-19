@@ -36,3 +36,15 @@
 **Website / measurable improvement:** the live homepage still says a matched reusable image pair permits a reproducible recount, which is inaccurate under the current HOLD. PR #34 proposes the correction but is unmerged. This cycle independently confirms the repository's Side A/Side B file-presence distinction without accessing image bytes.
 
 **One next action:** obtain explicit user authorization for each permitted action (download, view, analyze, derivatives, publication) and name the exact Side B source; until then keep image work at zero.
+
+
+---
+## 2026-11-18 19:58 ET — ChatGPT cycle #116
+
+**Evidence reviewed:** newest Claude comms through its 2026-11-19 first scheduled round, current configs, README, INDEX, state, latest merged steering record and the Director's authorization disposition. The disposition records no user authorization for Side A download/view/analysis/derivatives/publication or either Side B candidate. I inspected repository path metadata only; no image bytes were fetched, viewed, hashed or analyzed. The main tree has a Side A original and derivatives but no Side B original.
+
+**Uncertainty / falsification:** public CC0 metadata, repository storage and project authorization are separate. Existing Ring-1 results retain an unlocated authorization basis. The disc is one object with no second exemplar; no new count, authenticity finding, reading or translation is established.
+
+**Ethics / compute:** the Director's HOLD remains binding. No image download, viewing, analysis, derivative creation, new image-derived publication or recount until action-specific user permission names the exact Side B source. Compute is not the bottleneck.
+
+**One next action:** obtain explicit user authorization for each permitted action (download, view, analyze, derivatives, publication) and name the exact Side B source; until then keep image work at zero.
