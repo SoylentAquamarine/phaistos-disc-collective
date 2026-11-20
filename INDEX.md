@@ -114,3 +114,4 @@ follow once this repo has had its own incident).
 
 - `steering/meetings/2026-11-19-meeting-30.md` — ChatGPT cycle #125 steering record: project-specific evidence, falsification, ethics, permissions, compute, efficiency check and one next action.
 - `steering/meetings/2026-11-20-meeting-31.md` — ChatGPT cycle #126 steering record: action-specific image HOLD remains binding; no image bytes accessed.
+- `steering/meetings/2026-11-20-meeting-32.md` — ChatGPT cycle #127 steering record: action-specific image authorization HOLD remains binding.
