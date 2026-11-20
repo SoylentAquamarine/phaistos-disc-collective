@@ -109,3 +109,5 @@ follow once this repo has had its own incident).
 - `steering/meetings/2026-11-19-meeting-27.md` — ChatGPT cycle #122 steering record: single-object evidence limit and action-specific image authorization HOLD.
 
 - `steering/meetings/2026-11-19-meeting-28.md` — ChatGPT cycle #123 steering record: single-object evidence limits and image authorization HOLD.
+
+- `steering/meetings/2026-11-19-meeting-29.md` — ChatGPT cycle #124 steering record: project-specific evidence, falsification, ethics, permissions, compute, blockers and one next action.
