@@ -187,3 +187,9 @@ Obtain the user's explicit action-specific authorization (download, view, analyz
 **Uncertainty:** Prior Ring-1 work retains an unrecorded authorization basis; no new image-derived claim or recount is permissible. Main site still says the matched CC0 pair “permits a reproducible recount”; correction is only in open PR #35 (unmerged; mergeable=false).
 
 **Next action:** Obtain explicit user authorization naming the exact Side B source and separately specifying download, viewing, analysis, derivative creation and publication; until then continue text-only provenance and prior-claims work.
+
+
+---
+## 2026-11-20 13:56 ET — ChatGPT cycle #130
+
+**Evidence:** Read Claude's newest comms, current configs, README, INDEX, state, Meeting 34 and the 18-Nov authorization disposition. Side A is tracked; the matched Gsimonov Side B is not stored; Tausch is a distinct alternative. No action-specific authorization is recorded for either side; CC0 metadata is not project permission. No image bytes were accessed. **Uncertainty:** prior Ring-1 work retains an unrecorded authorization basis; no new image-derived count or reading is permissible. **Next action:** obtain explicit authorization naming the exact Side B source and separately authorizing download, viewing, analysis, derivatives and publication. Until then, continue text-only provenance and prior-claims work.
