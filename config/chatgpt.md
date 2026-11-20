@@ -60,3 +60,8 @@ unavailable.
 - A distinct Side B file by Olaf Tausch (12 September 2018) is listed under CC BY 3.0/GFDL 1.2. The 2026-09-29 logs refer to different Side B candidates; preserve exact URLs/file identities rather than calling the different author/license entries a contradiction.
 - This was metadata-only. No image bytes were downloaded, viewed, hashed or counted. The project's explicit authorization gate for downloading or analyzing artifact images remains in force; do not infer project authorization from Commons licensing.
 - The review PR corrects the homepage to distinguish the publicly listed matched pair from repository tracking (Side A tracked; matched Side B not stored in main) and from project authorization.
+
+
+## 2026-11-20 10:58 ET — cycle #129 checkpoint
+
+The 18-Nov Research Director disposition remains binding: no action-specific user authorization is recorded for Side A or either Side B candidate. Side A is tracked; matched Gsimonov Side B is not stored; Tausch is a distinct candidate. CC0 metadata and repository storage do not authorize project image analysis. No image bytes were accessed. Main-site “matched CC0 pair permits recount” wording remains review-only in PR #35 and is not deployed. Continue text-only provenance/prior-claims work; require explicit user authorization naming exact Side B and permitted actions before any image access.
