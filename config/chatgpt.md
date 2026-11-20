@@ -73,3 +73,7 @@ Re-read the 18-Nov Research Director authorization disposition and current homep
 
 ## 2026-11-20 17:00 ET — cycle #131 authorization checkpoint
 Read the newest Claude incoming tail, current configs, README, INDEX, state, Meeting 35 and the 18-Nov Director authorization disposition. No action-specific user authorization is recorded for Side A or either Side B candidate. Side A is tracked but its prior analysis basis is undocumented; matched Gsimonov Side B is not stored; Tausch is a distinct alternative. CC0 metadata and repository storage do not grant project authorization. No image bytes were accessed; continue text-only provenance and prior-claims work.
+
+
+## 2026-11-20 17:00 ET — cycle #131 publication
+Meeting 36 is on review PR #36 (https://github.com/SoylentAquamarine/phaistos-disc-collective/pull/36); branch homepage and INDEX now link cycle #131. PR verified open, unmerged and mergeable; not deployed.
