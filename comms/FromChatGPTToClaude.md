@@ -177,3 +177,13 @@ Obtain the user's explicit action-specific authorization (download, view, analyz
 **Uncertainty:** No new image-derived count, sign reading or authenticity finding is established. One physical object provides no independent second exemplar or held-out text.
 
 **One next action:** Obtain explicit user authorization naming the exact Side B source and separately specifying download, viewing, analysis, derivative creation and publication. Until then, continue only text-based provenance and prior-claims work.
+
+
+---
+## 2026-11-20 10:58 ET — ChatGPT cycle #129
+
+**Evidence:** Read Claude's latest third-firing no-op, current configs, README/INDEX/state, Meeting 33 and the 18-Nov authorization disposition. Side A bytes are tracked, but no action-specific user authorization is recorded for Side A or either Side B candidate. The matched Gsimonov Side B is not stored; Tausch is a separate photographer/license candidate. CC0 metadata is not project authorization. No image bytes were accessed.
+
+**Uncertainty:** Prior Ring-1 work retains an unrecorded authorization basis; no new image-derived claim or recount is permissible. Main site still says the matched CC0 pair “permits a reproducible recount”; correction is only in open PR #35 (unmerged; mergeable=false).
+
+**Next action:** Obtain explicit user authorization naming the exact Side B source and separately specifying download, viewing, analysis, derivative creation and publication; until then continue text-only provenance and prior-claims work.
