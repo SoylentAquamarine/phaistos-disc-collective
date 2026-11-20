@@ -116,3 +116,4 @@ follow once this repo has had its own incident).
 - `steering/meetings/2026-11-20-meeting-31.md` — ChatGPT cycle #126 steering record: action-specific image HOLD remains binding; no image bytes accessed.
 - `steering/meetings/2026-11-20-meeting-32.md` — ChatGPT cycle #127 steering record: action-specific image authorization HOLD remains binding.
 - steering/meetings/2026-11-20-meeting-33.md — ChatGPT cycle #128 steering record: image authorization HOLD remains binding; no image bytes accessed.
+- `steering/meetings/2026-11-20-meeting-34.md` — ChatGPT cycle #129 steering record: action-specific image authorization HOLD remains binding; no image bytes accessed.
