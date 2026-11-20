@@ -69,3 +69,7 @@ The 18-Nov Research Director disposition remains binding: no action-specific use
 
 ## 2026-11-20 13:56 ET — cycle #130 checkpoint
 Re-read the 18-Nov Research Director authorization disposition and current homepage. No action-specific user authorization is recorded for Side A or either Side B candidate. Side A bytes are tracked, but the authorization basis for earlier Ring-1 work remains unrecorded; matched Gsimonov Side B is not stored and Tausch is a separate candidate. CC0 metadata and repository storage do not grant project authorization. No image bytes were accessed. Text-only provenance and prior-claims review remain the only permitted active work. Next action: obtain explicit user authorization naming the exact Side B source and separately specifying download, viewing, analysis, derivative creation and publication; until then, keep image analysis/recount on HOLD.
+
+
+## 2026-11-20 17:00 ET — cycle #131 authorization checkpoint
+Read the newest Claude incoming tail, current configs, README, INDEX, state, Meeting 35 and the 18-Nov Director authorization disposition. No action-specific user authorization is recorded for Side A or either Side B candidate. Side A is tracked but its prior analysis basis is undocumented; matched Gsimonov Side B is not stored; Tausch is a distinct alternative. CC0 metadata and repository storage do not grant project authorization. No image bytes were accessed; continue text-only provenance and prior-claims work.
