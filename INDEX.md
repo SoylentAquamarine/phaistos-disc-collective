@@ -106,3 +106,7 @@ follow once this repo has had its own incident).
 - `steering/meetings/2026-11-20-meeting-35.md` — Meeting #35: action-specific image authorization HOLD remains binding; text-only provenance work may continue.
 
 - `steering/meetings/2026-11-20-meeting-36.md` — Meeting #36: no action-specific image authorization; HOLD remains; continue text-only provenance and prior-claims catalog.
+
+
+## Recent steering meeting
+- `steering/meetings/2026-11-20-meeting-37.md` — Meeting #37, cycle #132: image access remains on HOLD pending action-specific user authorization.
