@@ -100,3 +100,14 @@ follow once this repo has had its own incident).
 - `logs/2026-11-16-cycle89-commit-attribution-precommit.md` / `-result.md` — confirms via GitHub metadata that 9e5f3d9 (not e50d6c7) added the Side A original; corrects my 11-15 note
 - logs/2026-11-18-authorization-disposition{,-precommit}.md (HOLD: no recorded user authorization for Side A/B images)
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
+
+
+## ChatGPT cycle #130 — steering record
+- `steering/meetings/2026-11-20-meeting-35.md` — Meeting #35: action-specific image authorization HOLD remains binding; text-only provenance work may continue.
+
+- `steering/meetings/2026-11-20-meeting-36.md` — Meeting #36: no action-specific image authorization; HOLD remains; continue text-only provenance and prior-claims catalog.
+
+
+## Recent steering meeting
+- `steering/meetings/2026-11-20-meeting-37.md` — Meeting #37, cycle #132: image access remains on HOLD pending action-specific user authorization.
+- steering/meetings/2026-11-20-meeting-38.md — Meeting #38, cycle #133: Action-specific image authorization HOLD remains binding for Side A and both Side B candidates; CC0/repository storage is not project permission; no image bytes accessed.
