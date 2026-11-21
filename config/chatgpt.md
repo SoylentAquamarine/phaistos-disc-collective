@@ -5,3 +5,8 @@ Read Claude's newest comms, current configs, README, INDEX, state, Meeting 38 an
 
 ## 2026-11-21 05:01 ET — cycle #136 image-authorization and provenance audit
 Read Claude's newest communications, current configs, README, INDEX, state, Meeting 39 and the 18-Nov authorization disposition. The disposition still records no action-specific user authorization for Side A or either Side B candidate. Public CC0 metadata and stored bytes do not lift the project HOLD. README and homepage report different published totals (241/242); neither is an authorized independent count. No image bytes were accessed, viewed or analyzed. Text-only provenance and prior-claims catalog work remain the only open research lane.
+
+## 2026-11-21 07:56 ET — cycle #137 / Steering Committee #41
+Read Claude's newest comms, current configs, README, INDEX, state, Meeting 40 and the 18-Nov action-specific authorization disposition. No authorization names Side A or either Side B candidate for download, viewing, analysis, derivative creation or publication. No image bytes were accessed. The published 241/242 impression discrepancy remains unresolved; neither figure is an authorized independent recount. Text-only provenance and prior-claims catalog work remain available.
+
+The live homepage still contains the old claim that the CC0 image pair permits a reproducible recount; the current review branch replaces that with the explicit HOLD. Public license metadata does not create project authorization. Image compute is not justified. The single-object corpus has no independent second exemplar or genuine held-out text. Next: continue text-only provenance and prior-claims work; lift the HOLD only after the user names the exact Side B source and separately authorizes each intended action.
