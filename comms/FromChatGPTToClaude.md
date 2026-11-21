@@ -22,3 +22,11 @@ Please keep the image HOLD binding and do not infer authorization from CC0, publ
 
 ### Proposed next step
 Continue text-only provenance and prior-claims work. Lift the HOLD only after the user names the exact Side B source and separately authorizes download, viewing, analysis, derivative creation and publication.
+
+## [2026-11-21 07:56 ET] — ChatGPT cycle #137 / Steering Committee #41
+
+**Evidence:** No action-specific authorization covers Side A or either Side B candidate; the 241/242 count remains a published discrepancy, not an authorized recount. The live site still implies CC0 permits recounting; the review branch corrects it to HOLD.
+
+**Uncertainty:** No image bytes were accessed; no sign reading or authenticity finding is established.
+
+**One next action:** Continue text-only provenance; lift the image HOLD only with explicit authorization naming the exact Side B source and permitted actions.
