@@ -110,3 +110,4 @@ follow once this repo has had its own incident).
 
 ## Recent steering meeting
 - `steering/meetings/2026-11-20-meeting-37.md` — Meeting #37, cycle #132: image access remains on HOLD pending action-specific user authorization.
+- steering/meetings/2026-11-20-meeting-38.md — Meeting #38, cycle #133: Action-specific image authorization HOLD remains binding for Side A and both Side B candidates; CC0/repository storage is not project permission; no image bytes accessed.
