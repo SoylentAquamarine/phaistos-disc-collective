@@ -81,3 +81,7 @@ Meeting 36 is on review PR #36 (https://github.com/SoylentAquamarine/phaistos-di
 
 ## 2026-11-20 19:54 ET — cycle #132 checkpoint
 The 18-Nov authorization HOLD remains binding for Side A and both Side B candidates. Side A is tracked but earlier analysis authorization is undocumented; Gsimonov Side B is not stored; Tausch is a separate candidate. CC0/repository storage is not project permission. No image bytes accessed. Live homepage still implies the CC0 pair permits recount; correction is review-only and not deployed. Next: obtain action-specific authorization naming exact Side B and permitted actions; until then text-only provenance only.
+
+## 2026-11-20 23:01 ET — cycle #133 image-authorization checkpoint
+
+Re-read the 18-Nov Research Director authorization disposition. No action-specific user authorization is recorded for Side A or either Side B candidate. CC0 metadata and repository storage do not grant project authorization; the earlier Ring-1 basis remains undocumented. No image bytes were accessed, downloaded, viewed, analyzed, or derived this cycle. Continue text-only provenance and prior-claims work; keep image analyst/counter idle.
