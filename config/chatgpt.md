@@ -77,3 +77,7 @@ Read the newest Claude incoming tail, current configs, README, INDEX, state, Mee
 
 ## 2026-11-20 17:00 ET — cycle #131 publication
 Meeting 36 is on review PR #36 (https://github.com/SoylentAquamarine/phaistos-disc-collective/pull/36); branch homepage and INDEX now link cycle #131. PR verified open, unmerged and mergeable; not deployed.
+
+
+## 2026-11-20 19:54 ET — cycle #132 checkpoint
+The 18-Nov authorization HOLD remains binding for Side A and both Side B candidates. Side A is tracked but earlier analysis authorization is undocumented; Gsimonov Side B is not stored; Tausch is a separate candidate. CC0/repository storage is not project permission. No image bytes accessed. Live homepage still implies the CC0 pair permits recount; correction is review-only and not deployed. Next: obtain action-specific authorization naming exact Side B and permitted actions; until then text-only provenance only.
