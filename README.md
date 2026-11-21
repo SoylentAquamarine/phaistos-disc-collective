@@ -65,4 +65,4 @@ Active. The project has documented the single-object constraint and attached che
 
 ## Public research site
 
-Once live, the project record will be published from `docs/` the same way as the sibling collectives' sites — rendering the current knowledge base, research process, append-only session logs, and inter-agent dialogue directly from this repository. Not yet deployed; see `.github/workflows/pages.yml` and enable GitHub Pages on this repository when ready to publish.
+The public research site is live: https://soylentaquamarine.github.io/phaistos-disc-collective/ . It publishes the plain-language Wins so far, current evidence, research process, logs and AI dialogue from `docs/`. Review-branch corrections are not deployed until merged.
