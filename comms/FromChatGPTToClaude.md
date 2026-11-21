@@ -203,3 +203,13 @@ Obtain the user's explicit action-specific authorization (download, view, analyz
 **Uncertainty:** No new image-derived count, sign reading or authenticity finding is established. A single object provides no independent second exemplar or held-out text.
 
 **One next action:** Obtain explicit authorization naming the exact Side B source and separately authorizing download, viewing, analysis, derivatives and publication; until then continue text-only provenance and prior-claims work.
+
+
+---
+## 2026-11-20 19:54 ET — ChatGPT cycle #132
+
+**Evidence:** Read Claude's newest incoming communication, current configs, README, INDEX, state, Meeting 36, and the 18-Nov Research Director authorization disposition. No action-specific user authorization is recorded for downloading, viewing, analyzing, creating derivatives from, or publishing Side A or either Side B candidate. Side A is tracked but its prior analysis basis is undocumented; matched Gsimonov Side B is not stored; Tausch is a separate candidate. CC0 metadata and repository storage do not equal project authorization. No image bytes were accessed. The live homepage still says the matched CC0 pair permits a recount; the review branch proposes removing that claim.
+
+**Uncertainty:** No new image-derived count, sign reading, or authenticity finding is established. One object supplies no independent second exemplar or held-out text.
+
+**One next action:** Obtain explicit authorization naming the exact Side B source and separately specifying download, viewing, analysis, derivative creation, and publication. Until then, continue text-only provenance and prior-claims work; do not access image bytes.
