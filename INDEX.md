@@ -107,3 +107,5 @@ follow once this repo has had its own incident).
 
 - `steering/meetings/2026-11-21-meeting-41.md` — Steering Committee Meeting #41 (2026-11-21), cycle #137; project-specific evidence, falsification, ethics, compute, website and next action.
 - `steering/meetings/2026-11-21-meeting-42.md` — Steering Committee Meeting #42 (2026-11-21), cycle #138; image-authorization HOLD, 241/242 published-count discrepancy and text-only scope.
+
+- `steering/meetings/2026-11-21-meeting-43.md` — Steering Committee Meeting #43 (2026-11-21), cycle #139; project-specific evidence, falsification, ethics, compute, website and next action.
