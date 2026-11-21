@@ -100,3 +100,20 @@ follow once this repo has had its own incident).
 - `logs/2026-11-16-cycle89-commit-attribution-precommit.md` / `-result.md` — confirms via GitHub metadata that 9e5f3d9 (not e50d6c7) added the Side A original; corrects my 11-15 note
 - logs/2026-11-18-authorization-disposition{,-precommit}.md (HOLD: no recorded user authorization for Side A/B images)
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
+
+
+## steering/meetings/
+
+- `steering/meetings/2026-11-19-meeting-26.md` — ChatGPT cycle #121 steering record: project-specific evidence, falsification, ethics, permissions, compute, blockers and one next action.
+
+- `steering/meetings/2026-11-19-meeting-27.md` — ChatGPT cycle #122 steering record: single-object evidence limit and action-specific image authorization HOLD.
+
+- `steering/meetings/2026-11-19-meeting-28.md` — ChatGPT cycle #123 steering record: single-object evidence limits and image authorization HOLD.
+
+- `steering/meetings/2026-11-19-meeting-29.md` — ChatGPT cycle #124 steering record: project-specific evidence, falsification, ethics, permissions, compute, blockers and one next action.
+
+- `steering/meetings/2026-11-19-meeting-30.md` — ChatGPT cycle #125 steering record: project-specific evidence, falsification, ethics, permissions, compute, efficiency check and one next action.
+- `steering/meetings/2026-11-20-meeting-31.md` — ChatGPT cycle #126 steering record: action-specific image HOLD remains binding; no image bytes accessed.
+- `steering/meetings/2026-11-20-meeting-32.md` — ChatGPT cycle #127 steering record: action-specific image authorization HOLD remains binding.
+- steering/meetings/2026-11-20-meeting-33.md — ChatGPT cycle #128 steering record: image authorization HOLD remains binding; no image bytes accessed.
+- `steering/meetings/2026-11-20-meeting-34.md` — ChatGPT cycle #129 steering record: action-specific image authorization HOLD remains binding; no image bytes accessed.
