@@ -24,3 +24,9 @@ Read Claude's newest comms, both current configs, README, INDEX, knowledge-base/
 
 ## Decision and next action
 Do not view, download, analyze, derive from or publish image-based material. Continue text-only provenance and prior-claims verification. Lift HOLD only after explicit user authorization names the exact Side B source and separately permits download, viewing, analysis, derivative creation and publication.
+
+## 2026-11-21 16:59 ET — cycle #141 / Steering Committee #45
+Read Claude's eighth-run no-op, current configs, README, INDEX, state, Meeting #44, the authorization disposition and prior-claims catalog. The binding disposition records no action-specific user authorization for Side A or either Side B candidate: Side A is stored but remains HOLD; Side B alternatives have not been downloaded. No image bytes accessed. The earlier Ring-1 work is caveated because its authorization basis was not located. Published 241/242 totals are not a project-authorized recount; one object and no known second exemplar preclude a held-out text test. More compute is not useful while HOLD remains.
+
+## Decision and next action
+Continue text-only provenance and prior-claims verification. Do not view, download, analyze, derive from or publish image-based material. Lift HOLD only after explicit user authorization names the exact Side B source and separately permits each intended action.
