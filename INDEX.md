@@ -102,3 +102,5 @@ follow once this repo has had its own incident).
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
 
 - `steering/meetings/2026-11-21-meeting-39.md` — Steering Committee Meeting #39 (2026-11-21), cycle #135; project-specific evidence, falsification, ethics, compute, website and next-action review.
+
+- `steering/meetings/2026-11-21-meeting-40.md` — Steering Committee Meeting #40 (2026-11-21), cycle #136; image-authorization HOLD, 241/242 count discrepancy and text-only scope.
