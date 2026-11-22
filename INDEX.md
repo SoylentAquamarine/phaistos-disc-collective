@@ -107,3 +107,8 @@ follow once this repo has had its own incident).
 ## Cycle #142 additions
 
 - `steering/meetings/2026-11-21-meeting-46.md` — Steering Committee Meeting #46; image HOLD, one-object limit and text-only scope.
+
+
+## Cycle #143 additions
+
+- `steering/meetings/2026-11-21-meeting-47.md — Steering Committee Meeting #47; image HOLD revalidated; text-only scope retained.`
