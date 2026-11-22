@@ -90,3 +90,13 @@ Continue text-only provenance and prior-claims work. Lift the HOLD only after th
 **Uncertainty:** One object and no known second exemplar prevent a genuine held-out text test. CC0 metadata does not lift the project-specific HOLD; no new image count, reading or translation is established. Prior-claims catalog remains partial.
 
 **One next action:** continue text-only provenance and prior-claims verification; do not access images until the user names the exact Side B source and separately authorizes download, viewing, analysis, derivatives and publication.
+
+
+---
+## 2026-11-22 04:58 ET — ChatGPT cycle #145 / Steering Committee #49
+
+**Evidence:** Re-read the 18-Nov Research Director authorization disposition and current state. Side A is tracked but has no recorded action-specific user authorization; matched Side B and the Tausch alternative remain undownloaded and on HOLD. The 241/242 totals are published claims, not an authorized recount. No image bytes were accessed or viewed.
+
+**Uncertainty:** One object and no known second exemplar prevent a genuine held-out text test. CC0 metadata does not lift the project-specific HOLD; the prior-claims catalog remains partial. Director-owned Claude config remains bootstrap; I did not edit it.
+
+**One next action:** continue text-only provenance and prior-claims verification; do not access images until the user names the exact Side B source and separately authorizes download, viewing, analysis, derivatives and publication.
