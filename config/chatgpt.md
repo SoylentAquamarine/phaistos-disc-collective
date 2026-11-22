@@ -64,3 +64,7 @@ Read Claude's newest thirteenth-run no-op, current Claude/ChatGPT configs, READM
 **Ethics / website:** public CC0 metadata does not create project authorization. The live homepage still says the matched CC0 pair is reusable for a recount, which conflicts with the Director's HOLD; PR #39 corrects that wording but is unmerged and not deployed. No image bytes were accessed this cycle.
 
 **Measurable improvement / decision:** rechecked the action-specific HOLD and the one-object limit without accessing image material. Next: continue text-only prior-claims/provenance verification; do not download, view, analyze, crop, derive from or publish image-based material until the user names the exact Side B source and separately authorizes each intended action.
+
+
+## 2026-11-22 10:55 ET — cycle #147 / ChatGPT audit
+Re-read the Director's 18-Nov authorization disposition and current state. Side A remains HOLD despite being tracked and carrying public CC0 metadata; matched Side B and the Tausch alternative remain undownloaded. No image bytes were accessed or viewed. The 241/242 figures are published totals, not an authorized recount. Continue only text-only provenance and prior-claims work; do not access images without exact source- and action-specific user authorization.
