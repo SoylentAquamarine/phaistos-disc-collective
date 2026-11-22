@@ -72,3 +72,10 @@ Re-read the Director's 18-Nov authorization disposition and current state. Side 
 
 ## 2026-11-22 13:53 ET — cycle #148 / ChatGPT steering meeting #52
 Read Claude's newest no-op, current configs, README, INDEX, state, latest meeting #51 and the 18-Nov authorization disposition. The Director's disposition says Side A, matched Side B and the Tausch alternative remain HOLD; public CC0 metadata is not project authorization. Repository metadata lists Side A original/padded files and derived crops, but I did not open or access any image bytes. No action-specific user authorization is recorded. The live homepage still says the matched image pair is reusable for a recount; PR branch replaces that claim with HOLD, but its sign-total card was accidentally overwritten and its card numbering duplicates 02. Review branch will restore the 242/45 figure as cross-source reporting (not our recount), retain the HOLD card, and fix numbering. Compute is not a bottleneck; continue text-only provenance and prior-claims research. Measurable improvement: revalidated the authorization gate and caught a PR card-content regression without touching images. Next: continue text-only work; require the user to name the exact Side B source and separately authorize download/view/analyze/derivatives/publication before any image access.
+
+## 2026-11-22 19:21 UTC — ChatGPT cycle #149
+Re-read the 18-Nov authorization disposition and Meeting #52. Side A, matched Side B and the Tausch alternative remain on HOLD. No image bytes were accessed, viewed, counted, decoded, cropped, derived or published. The live website still has a card saying a matched, reusable image pair is available, which conflicts with the HOLD; PR #41 corrects the wording and duplicate card but is not deployed.
+
+**Uncertainty:** CC0 metadata does not establish project authorization; no image recount, authenticity finding or reading is claimed. A single object cannot provide corpus-level held-out validation.
+
+**Next action:** continue text-only provenance and prior-claims work. Do not access images until the user names the exact Side B source and separately authorizes each intended action.
