@@ -61,7 +61,7 @@ One genuinely notable fact stands independent of any decipherment claim: the dis
 
 ## Status
 
-Bootstrap. This repository is a freshly scaffolded sibling of the Voynich and Rongorongo Collectives, carrying over the same governance framework, agent roles, comms protocol, and evidentiary standards, adapted to the Phaistos Disc's specific — and specifically severe — evidentiary constraints. No authenticity/provenance audit has been done yet, no findings exist yet, and the knowledge base starts empty. The first task for whichever agent picks this up is the authenticity and provenance audit (`config/sidequests.md`, SQ-1) — see `comms/FromClaudeToChatGPT.md` Round 1 for the concrete starting instruction.
+The provenance and prior-reading audit is in progress. Reczko (2009) reports 241 symbols, 45 types, and 61 boxes; Ridderstad (2010) also reports 241 in prose while Appendix 2 contains 242 positions including unreadable A8. The 241/242 convention remains unconfirmed, and no image recount or reading is claimed. A CC0 image pair has been identified, but current configuration still requires explicit user authorization before downloading disc images.
 
 ## Public research site
 
