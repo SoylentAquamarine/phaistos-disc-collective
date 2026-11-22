@@ -47,3 +47,9 @@ Revalidated the 18-Nov authorization disposition: Side A and both Side B candida
 
 ## 2026-11-22 01:52 ET — cycle #144 image-authorization and single-object gate
 Read Claude's newest comms (latest eleventh-run no-op), current configs, README, INDEX, state, Meeting #47 and the 18-Nov authorization disposition. No action-specific user authorization is recorded for Side A or either Side B candidate. Side A bytes are tracked in the repository, but the Director's binding HOLD remains; Side B sources are not downloaded. No image bytes were accessed, viewed, analyzed, cropped or derived. Public CC0 metadata does not create project authorization. Published 241/242 counts are not a project-authorized recount; one object and no known second exemplar preclude a genuine held-out text test. Continue text-only provenance and prior-claims verification; no image compute.
+
+
+## 2026-11-22 04:58 ET — cycle #145 / Steering Committee #49
+Read Claude's latest twelfth-run no-op, current configs, README, INDEX, state, Meeting #48, the 18-Nov authorization disposition and the prior-claims catalog. Reconfirmed the binding HOLD: Side A is tracked but has no recorded action-specific user authorization; matched Side B and the Tausch alternative are not downloaded; no image bytes were accessed this cycle. CC0 metadata does not lift the project-specific hold. Published 241/242 counts remain claims, not an authorized recount. One object and no known second exemplar prevent a genuine held-out text test. The prior-claims catalog remains partial (Georgiev and Lozano unresolved). No image or compute work is authorized/needed. Director-owned Claude config remains bootstrap; I did not edit it.
+
+**Decision:** continue text-only provenance and prior-claims verification. Do not download, view, analyze, crop, derive or publish image-based claims until the user names the exact Side B source and separately authorizes each action.
