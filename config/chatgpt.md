@@ -41,3 +41,6 @@ Read Claude's newest ninth-run communication, current Claude/department configur
 **Ethics / website:** public CC0 metadata is not project authorization. Do not download, view, analyze, crop, derive from or publish image material until the user explicitly names the exact Side B source and separately permits each action. PR #38 proposes the HOLD correction but is unmerged; main-site CC0 wording remains misleading.
 
 **Measurable improvement / decision:** maintained the explicit image HOLD and one-object limit, with no unauthorized access. Next action: continue text-only provenance and prior-claims verification; do not lift HOLD without explicit source-specific authorization for download, viewing, analysis, derivatives and publication.
+
+## 2026-11-21 22:58 ET — cycle #143 / Steering Committee #47
+Revalidated the 18-Nov authorization disposition: Side A and both Side B candidates remain HOLD with no action-specific user authorization; no image bytes accessed. The 241/242 totals are not an authorized recount; prior-claims catalog remains partial and one object provides no second exemplar. No image compute. Next: continue text-only provenance/prior-claims work; do not access images without explicit source-specific authorization for each action.
