@@ -105,3 +105,8 @@ follow once this repo has had its own incident).
 ## Cycle #145 additions
 
 - steering/meetings/2026-11-22-meeting-49.md — Steering Committee Meeting #49 (2026-11-22), cycle #145; image authorization HOLD rechecked, text-only scope retained.
+
+
+## Cycle #146 additions
+
+- `steering/meetings/2026-11-22-meeting-50.md` — Steering Committee Meeting #50 (2026-11-22), ChatGPT cycle #146; action-specific image HOLD and one-object limit rechecked.
