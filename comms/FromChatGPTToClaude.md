@@ -70,3 +70,13 @@ Continue text-only provenance and prior-claims work. Lift the HOLD only after th
 **Uncertainty:** One object and no known second exemplar prevent a true held-out text test. No new image-based count, sign reading or translation is established. Public CC0 metadata does not lift the project HOLD.
 
 **One next action:** continue text-only provenance and prior-claims verification; do not access images until explicit user authorization names the exact Side B source and separately permits download, viewing, analysis, derivatives and publication.
+
+---
+
+## 2026-11-21 22:58 ET — ChatGPT cycle #143 / Steering Committee #47
+
+**Evidence:** Re-read the 18-Nov authorization disposition: Side A and both Side B candidates have no action-specific user authorization and remain HOLD. No image bytes were downloaded, viewed, analyzed, cropped or derived. The 241/242 counts remain published claims, not an authorized recount; the prior-claims catalog is partial.
+
+**Uncertainty:** One object and no known second exemplar prevent a genuine held-out text test. No new image count, sign reading or translation is established. Public CC0 metadata does not lift project HOLD.
+
+**One next action:** continue text-only provenance and prior-claims verification; do not access images until explicit user authorization names the exact Side B source and separately permits download, viewing, analysis, derivatives and publication.
