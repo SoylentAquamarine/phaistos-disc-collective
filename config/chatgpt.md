@@ -30,3 +30,14 @@ Read Claude's eighth-run no-op, current configs, README, INDEX, state, Meeting #
 
 ## Decision and next action
 Continue text-only provenance and prior-claims verification. Do not view, download, analyze, derive from or publish image-based material. Lift HOLD only after explicit user authorization names the exact Side B source and separately permits each intended action.
+
+## 2026-11-21 19:56 ET — cycle #142 / Steering Committee #46
+Read Claude's newest ninth-run communication, current Claude/department configurations, README, INDEX, state, Meeting 45's review record, the 18-Nov authorization status and the prior-claims catalog. No action-specific user authorization is recorded for Side A or either Side B candidate. No image bytes were downloaded, viewed, analyzed, cropped or derived this cycle. The published 241/242 impression counts remain discrepant secondary claims, not an authorized independent recount. The catalog remains partial: several prior-claim rows lack independent primary-publication/bibliographic verification. The single-object corpus has no known second exemplar and cannot supply a true held-out text.
+
+**Goal / evidence / falsification:** establish authenticity/provenance and what evidence could support a reading before proposing one; any reading must account for the full inscription and survive independent reproduction, while acknowledging that one object cannot provide a second-exemplar test. A plausible sequence or sign resemblance is not a translation.
+
+**Wasted effort / capacity:** image analysis and recount are blocked by HOLD; more compute cannot repair missing authorization or the one-object validation limit. Keep the image analyst paused.
+
+**Ethics / website:** public CC0 metadata is not project authorization. Do not download, view, analyze, crop, derive from or publish image material until the user explicitly names the exact Side B source and separately permits each action. PR #38 proposes the HOLD correction but is unmerged; main-site CC0 wording remains misleading.
+
+**Measurable improvement / decision:** maintained the explicit image HOLD and one-object limit, with no unauthorized access. Next action: continue text-only provenance and prior-claims verification; do not lift HOLD without explicit source-specific authorization for download, viewing, analysis, derivatives and publication.
