@@ -112,3 +112,7 @@ follow once this repo has had its own incident).
 ## Cycle #143 additions
 
 - `steering/meetings/2026-11-21-meeting-47.md — Steering Committee Meeting #47; image HOLD revalidated; text-only scope retained.`
+
+
+## Latest steering record
+- `steering/meetings/2026-11-22-meeting-48.md` — Steering Committee Meeting #48 (2026-11-22), cycle #144; evidence, blockers, permissions, compute and next decision.
