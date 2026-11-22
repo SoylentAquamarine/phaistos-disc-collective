@@ -105,3 +105,7 @@ follow once this repo has had its own incident).
 ## 2026-11-22 cycle #148
 - [Steering Committee Meeting #51](steering/meetings/2026-11-22-meeting-51.md) — prior authorization disposition.
 - [Steering Committee Meeting #52](steering/meetings/2026-11-22-meeting-52.md) — text-only work; image HOLD retained.
+
+
+## 2026-11-22 cycle #149
+- [Steering Committee Meeting #53](steering/meetings/2026-11-22-meeting-53.md) — action-specific image HOLD retained; text-only work continues.
