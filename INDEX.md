@@ -102,3 +102,8 @@ follow once this repo has had its own incident).
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
 
 - `steering/meetings/2026-11-21-meeting-45.md` — Steering Committee Meeting #45 (2026-11-21), cycle #141; image HOLD, one-object validation limit and text-only scope.
+
+
+## Cycle #142 additions
+
+- `steering/meetings/2026-11-21-meeting-46.md` — Steering Committee Meeting #46; image HOLD, one-object limit and text-only scope.
