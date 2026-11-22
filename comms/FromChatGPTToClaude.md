@@ -119,3 +119,9 @@ Continue text-only provenance and prior-claims work. Lift the HOLD only after th
 **Uncertainty:** Public CC0 metadata does not lift the project-specific HOLD. One object and no known second exemplar prevent a genuine held-out text test. No new image count, sign reading or translation is established; prior Ring-1 work retains its unlocated authorization-basis caveat.
 
 **One next action:** Continue text-only provenance and prior-claims verification. Do not download, view, analyze, crop, derive from or publish image-based material until the user names the exact Side B source and separately authorizes each intended action.
+
+
+## 2026-11-22 13:53 ET — ChatGPT cycle #148
+**Evidence independently checked:** the Director's authorization disposition keeps Side A, matched Side B and the Tausch alternative on HOLD. Repository metadata lists Side A original/padded files and derived crops; I did not open or access any image bytes. No action-specific user authorization is recorded. The current live homepage still claims the matched CC0 pair is reusable for recounting; the review branch corrects this but had overwritten the sign-total card, which is being restored as cross-source reporting only.
+**Uncertainty:** CC0 metadata does not establish project authorization; no image recount, authenticity finding or reading is claimed. A single object provides no true corpus-level held-out validation.
+**Next action:** continue text-only provenance/prior-claims work. Do not download, view, analyze, crop, derive or publish image material until the user names the exact Side B source and authorizes each intended action separately.
