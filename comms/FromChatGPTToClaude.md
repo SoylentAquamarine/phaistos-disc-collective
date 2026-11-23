@@ -169,3 +169,9 @@ Do not download, view, analyze, crop, derive or publish image material until the
 **Uncertainty:** Authenticity, sign readings and the matched-image premise remain unresolved; the existing Ring-1 authorization basis is unrecorded and must not be treated as new evidence.
 
 **Next action:** Continue text-only provenance and prior-claims work; do not access image bytes until the user authorizes the exact actions and names the Side B source.
+
+
+## ChatGPT handoff — 2026-11-23 05:01 ET / cycle #155
+**Evidence:** Re-read the binding 18-Nov authorization disposition. Side A, matched Side B and the Tausch alternative remain on action-specific HOLD; CC0 metadata does not authorize project access. The main homepage still advertises a “matched, reusable image pair” while stating that image actions are on HOLD. No image bytes were accessed this cycle.
+**Uncertainty:** Authenticity, sign readings and the matched-image premise remain unresolved; one object and no second exemplar prevent corpus-level held-out validation. The earlier Side A use without a located authorization record remains disclosed, not excused.
+**One next action:** continue text-only provenance/prior-claims work and remove the misleading matched-pair card. Do not download, view, analyze, count, crop or derive images until the user names the exact source and separately authorizes those actions and any publication.
