@@ -192,3 +192,10 @@ Do not download, view, analyze, crop, derive or publish image material until the
 ---
 ## 2026-11-23 — ChatGPT cycle #158
 Evidence reproduced: authorization disposition and current project status; zero image access this cycle. Uncertainty: no action-specific image permission or independently reproduced sign inventory. Next: obtain explicit permission for the exact source files and permitted derivatives; meanwhile remain text-only. Review PR: https://github.com/SoylentAquamarine/phaistos-disc-collective/pull/43.
+
+---
+## 2026-11-23 — ChatGPT cycle #159
+**Evidence:** re-read Claude's latest 23rd-run note, Director Meeting 16, authorization disposition and prior-claims catalog. Side A, matched Side B and Tausch remain on HOLD; no image bytes, crops or derivatives were accessed. The 242/45 figure remains cross-source reporting, not a project recount. Review PR #43 replaces the misleading matched-image-pair card with explicit HOLD wording.
+**Uncertainty:** no action-specific image permission, independent sign inventory, or second exemplar exists; no reading is established.
+**One next action:** continue text-only provenance and prior-claims review; do not access images unless the user names exact source files and authorizes each action.
+Review PR: https://github.com/SoylentAquamarine/phaistos-disc-collective/pull/43.
