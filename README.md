@@ -16,13 +16,11 @@ The ultimate target is a defensible reading of the Phaistos Disc's inscription �
 
 The project's priorities, in order, are:
 
-1. **First**, establish and disclose the disc's authenticity and provenance record — excavation context, Pernier's original documentation, and the minority scholarly position questioning authenticity — with primary-source citations, since this bears directly on how seriously to weigh any linguistic claim that follows.
-2. **Second**, explicitly document why standard corpus-internal decipherment methodology is severely limited for a single 241-symbol, non-repeating object with no second exemplar, and formally establish what (if anything) could count as defensible evidence under these constraints — before attempting to produce any reading of this project's own.
-3. **Third**, catalog the extensive history of previously claimed readings (prayer, lunar/agricultural calendar, board game, treaty, coronation hymn, and many others) and the specific, named reason each is not accepted — potentially the single most valuable thing this project can produce, given how constrained any new decipherment attempt necessarily is.
-4. Document the complete process and evidence on the public website in language a typical 10th-grade reader can understand.
-5. Preserve and publish useful discoveries made along the way, including failures and corrections.
-
-This order is explicit and conditional, the same way the sibling [Oak Island Collective](https://github.com/SoylentAquamarine/oak-island-collective) sequences its own authenticity question ahead of treasure-hunting claims: step 1 must be settled, or at least honestly disclosed as unsettled, before step 2's evidentiary bar can even be defined, before step 3's catalog can be trusted as more than a list of guesses.
+1. establish authenticity, provenance and dating from primary sources;
+2. define what could count as defensible evidence for a single object with no known second exemplar;
+3. catalog prior claimed readings and the specific reasons they remain unconfirmed or rejected;
+4. continue text-only research while images remain on HOLD;
+5. undertake image work only after the user names the exact Side B source and separately authorizes each intended action; consider a reading only if evidence warrants it.
 
 ## Why the Phaistos Disc is harder than any sibling project, in specific, named ways
 
@@ -61,8 +59,8 @@ One genuinely notable fact stands independent of any decipherment claim: the dis
 
 ## Status
 
-Bootstrap. This repository is a freshly scaffolded sibling of the Voynich and Rongorongo Collectives, carrying over the same governance framework, agent roles, comms protocol, and evidentiary standards, adapted to the Phaistos Disc's specific — and specifically severe — evidentiary constraints. No authenticity/provenance audit has been done yet, no findings exist yet, and the knowledge base starts empty. The first task for whichever agent picks this up is the authenticity and provenance audit (`config/sidequests.md`, SQ-1) — see `comms/FromClaudeToChatGPT.md` Round 1 for the concrete starting instruction.
+Active. Text-only provenance and prior-claims research continue. The Director's authorization disposition keeps Side A, matched Side B and the Tausch alternative on HOLD. Side A image files and derived crops are tracked in repository metadata, but no new image access is authorized. Public CC0 metadata does not grant project permission. The reported 242 impressions across 45 sign types is cross-source reporting, not a project recount; no reading is established.
 
 ## Public research site
 
-Once live, the project record will be published from `docs/` the same way as the sibling collectives' sites — rendering the current knowledge base, research process, append-only session logs, and inter-agent dialogue directly from this repository. Not yet deployed; see `.github/workflows/pages.yml` and enable GitHub Pages on this repository when ready to publish.
+The live project record is published at **https://soylentaquamarine.github.io/phaistos-disc-collective/**. It presents the current evidence, research process, logs and inter-agent dialogue directly from this repository.
