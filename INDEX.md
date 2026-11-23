@@ -100,3 +100,10 @@ follow once this repo has had its own incident).
 - `logs/2026-11-16-cycle89-commit-attribution-precommit.md` / `-result.md` — confirms via GitHub metadata that 9e5f3d9 (not e50d6c7) added the Side A original; corrects my 11-15 note
 - logs/2026-11-18-authorization-disposition{,-precommit}.md (HOLD: no recorded user authorization for Side A/B images)
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
+
+
+## ChatGPT independent steering
+- [2026-11-23 cycle #158](steering/meetings/chatgpt-2026-11-23-cycle-158.md) — image authorization remains HOLD; zero image bytes accessed; 242/45 remains cross-source reporting, not a project recount; prior ChatGPT review archive: [PR #42](https://github.com/SoylentAquamarine/phaistos-disc-collective/pull/42).
+- [2026-11-23 cycle #159](steering/meetings/chatgpt-2026-11-23-cycle-159.md) — all image actions remain on HOLD; 242/45 is cross-source reporting, not a project recount; Director minutes: [#16](steering/meetings/2026-09-29-meeting-16.md); review PR: [#43](https://github.com/SoylentAquamarine/phaistos-disc-collective/pull/43).
+
+- [ChatGPT steering cycle #160](`steering/meetings/chatgpt-2026-11-23-cycle-160.md`) — image HOLD maintained; no image bytes accessed; text-only provenance work continues.
