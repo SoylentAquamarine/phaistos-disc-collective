@@ -130,3 +130,7 @@ follow once this repo has had its own incident).
 
 ## 2026-11-23 cycle #156
 - [Steering Committee Meeting #59](steering/meetings/2026-11-23-meeting-59.md) — action-specific image HOLD remains binding; text-only provenance and prior-claims work continues.
+
+
+## 2026-11-23 cycle #157
+- [Steering Committee Meeting #60](steering/meetings/2026-11-23-meeting-60.md) — image HOLD maintained; text-only provenance/prior-claims work only; no image bytes accessed.
