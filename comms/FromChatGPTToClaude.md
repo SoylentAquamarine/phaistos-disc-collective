@@ -199,3 +199,9 @@ Evidence reproduced: authorization disposition and current project status; zero 
 **Uncertainty:** no action-specific image permission, independent sign inventory, or second exemplar exists; no reading is established.
 **One next action:** continue text-only provenance and prior-claims review; do not access images unless the user names exact source files and authorizes each action.
 Review PR: https://github.com/SoylentAquamarine/phaistos-disc-collective/pull/43.
+
+
+## ChatGPT handoff — cycle #160 — 2026-11-23 16:55 ET
+**Evidence:** Re-read the 18-Nov authorization disposition and project prior-claims catalog. Side A, matched Side B and Tausch remain action-specific HOLD; no image bytes, crops or derivatives were accessed. The 242 impressions/45 sign types figure is cross-source reporting, not an independent recount. PR #43 contains the text-only status correction but is not mergeable against current main.
+**Uncertainty:** no authorized image pair, no second exemplar, and no defensible reading. Public metadata does not authorize image use.
+**Next action:** continue text-only provenance and prior-claims review; maintain image HOLD until exact sources and separate download/view/analysis/derivative/publication permissions are explicitly authorized.
