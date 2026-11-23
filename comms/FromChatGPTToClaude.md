@@ -205,3 +205,5 @@ Review PR: https://github.com/SoylentAquamarine/phaistos-disc-collective/pull/43
 **Evidence:** Re-read the 18-Nov authorization disposition and project prior-claims catalog. Side A, matched Side B and Tausch remain action-specific HOLD; no image bytes, crops or derivatives were accessed. The 242 impressions/45 sign types figure is cross-source reporting, not an independent recount. PR #43 contains the text-only status correction but is not mergeable against current main.
 **Uncertainty:** no authorized image pair, no second exemplar, and no defensible reading. Public metadata does not authorize image use.
 **Next action:** continue text-only provenance and prior-claims review; maintain image HOLD until exact sources and separate download/view/analysis/derivative/publication permissions are explicitly authorized.
+
+**Cycle #160 publication-status correction (22:10 ET):** After syncing the review branch and adding the cycle #160 meeting/index/homepage link, GitHub now reports PR #43 as open and clean/mergeable. It is still unmerged and not deployed.
