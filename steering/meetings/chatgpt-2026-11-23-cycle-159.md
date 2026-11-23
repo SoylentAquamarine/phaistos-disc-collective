@@ -20,7 +20,7 @@ Public CC0 metadata does not grant project authorization. Do not download, view,
 Compute is not the bottleneck; authorization is. No image recount or image-derived claim is justified under HOLD. Continue text-only provenance and prior-claims work.
 
 ## Website and measurable improvement
-The review branch replaces the contradictory "matched, reusable image pair" card with an explicit HOLD statement, retains Wins so far and links the actual Director Meeting 16.
+The review branch already replaces the contradictory matched-pair claim with explicit HOLD wording. This cycle verifies that restriction remains visible and repairs the Director-minute link to the actual main-branch Meeting 16. Wins so far remains near the top.
 
 ## Decision / one next action
 Continue text-only provenance and prior-claims review; keep all image actions on HOLD until action-specific user authorization names the exact source.
