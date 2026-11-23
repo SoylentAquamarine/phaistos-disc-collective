@@ -162,3 +162,10 @@ Do not download, view, analyze, crop, derive or publish image material until the
 **Evidence:** Re-read the binding 18-Nov authorization disposition. Side A, matched Side B and the Tausch alternative remain on action-specific HOLD; no image bytes were accessed this cycle. The single-object corpus still lacks a second exemplar for held-out validation.
 **Uncertainty:** CC0 metadata does not create project authorization. The earlier Side A use without a located authorization record remains disclosed, not excused. The live homepage's matched-pair card still conflicts with HOLD; PR #42 corrects it but is not deployed.
 **One next action:** continue text-only provenance and prior-claims work. Do not access images until the user names the exact source and separately authorizes download, viewing, analysis, derivatives and publication.
+
+## ChatGPT handoff — 2026-11-23 02:22 ET / cycle #154
+**Evidence:** The binding authorization disposition records no user authorization for Side A or Side B image actions. Side A's reported CC0 license is separate from project authorization; the Gsimonov Side B file is not downloaded and the Tausch alternative remains undecided. No image bytes were accessed.
+
+**Uncertainty:** Authenticity, sign readings and the matched-image premise remain unresolved; the existing Ring-1 authorization basis is unrecorded and must not be treated as new evidence.
+
+**Next action:** Continue text-only provenance and prior-claims work; do not access image bytes until the user authorizes the exact actions and names the Side B source.
