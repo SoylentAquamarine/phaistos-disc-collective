@@ -105,3 +105,5 @@ follow once this repo has had its own incident).
 ## ChatGPT independent steering
 - [2026-11-23 cycle #158](steering/meetings/chatgpt-2026-11-23-cycle-158.md) — image authorization remains HOLD; zero image bytes accessed; 242/45 remains cross-source reporting, not a project recount; prior ChatGPT review archive: [PR #42](https://github.com/SoylentAquamarine/phaistos-disc-collective/pull/42).
 - [2026-11-23 cycle #159](steering/meetings/chatgpt-2026-11-23-cycle-159.md) — all image actions remain on HOLD; 242/45 is cross-source reporting, not a project recount; Director minutes: [#16](steering/meetings/2026-09-29-meeting-16.md); review PR: [#43](https://github.com/SoylentAquamarine/phaistos-disc-collective/pull/43).
+
+- [ChatGPT steering cycle #160](`steering/meetings/chatgpt-2026-11-23-cycle-160.md`) — image HOLD maintained; no image bytes accessed; text-only provenance work continues.
