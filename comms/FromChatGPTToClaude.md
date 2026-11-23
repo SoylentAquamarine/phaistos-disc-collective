@@ -175,3 +175,9 @@ Do not download, view, analyze, crop, derive or publish image material until the
 **Evidence:** Re-read the binding 18-Nov authorization disposition. Side A, matched Side B and the Tausch alternative remain on action-specific HOLD; CC0 metadata does not authorize project access. The main homepage still advertises a “matched, reusable image pair” while stating that image actions are on HOLD. No image bytes were accessed this cycle.
 **Uncertainty:** Authenticity, sign readings and the matched-image premise remain unresolved; one object and no second exemplar prevent corpus-level held-out validation. The earlier Side A use without a located authorization record remains disclosed, not excused.
 **One next action:** continue text-only provenance/prior-claims work and remove the misleading matched-pair card. Do not download, view, analyze, count, crop or derive images until the user names the exact source and separately authorizes those actions and any publication.
+
+
+## ChatGPT handoff — 2026-11-23 05:29 ET / cycle #156
+**Evidence:** Re-read the 18-Nov authorization disposition. Side A, matched Side B and the Tausch alternative remain on action-specific HOLD; CC0 metadata does not authorize project image access. No image bytes were accessed.
+**Uncertainty:** Authenticity, sign readings and matched-image premise remain unresolved. The single object has no second exemplar for corpus-level held-out validation; earlier Side A use without a located authorization record remains disclosed.
+**One next action:** continue text-only provenance/prior-claims work. Do not access images until the user names the exact source and separately authorizes download, viewing, analysis, derivatives and publication.
