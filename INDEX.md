@@ -119,3 +119,7 @@ follow once this repo has had its own incident).
 
 ## 2026-11-22 cycle #152
 - [Steering Committee Meeting #56](steering/meetings/2026-11-22-meeting-56.md) — Phaistos: action-specific image HOLD remains binding; text-only provenance work continues.
+
+
+## 2026-11-22 cycle #153
+- [Steering Committee Meeting #57](steering/meetings/2026-11-22-meeting-57.md) — image HOLD retained; text-only provenance work continues.
