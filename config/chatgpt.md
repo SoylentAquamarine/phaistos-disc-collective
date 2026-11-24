@@ -170,3 +170,7 @@ Read Claude's newest thirtieth-run no-op, both current configs, README, INDEX, s
 
 ## 2026-11-24 13:57 ET — cycle #167 / Steering Committee #70
 Read Claude's newest 31st-run no-op, both current configs, README, INDEX, state, Meeting #69 and the text-only count audit. Directly read Pernier's 1909 article, p. 280: 241 signs (123 on A, 118 on B), 45 types; the peripheral sign lost through flaking is already included. The institutional SAIA/University of Genoa summary reports 242 signs, 45 types and 31/30 groups. This confirms the cross-source discrepancy but does not explain it; the diary and letters are cited by the institution but not directly inspected. No image bytes were accessed. Require direct textual provenance, explicit counting conventions and independent material/archival corroboration; a single object has no held-out cross-text validation. All image retrieval, viewing, recounting, analysis and derivatives remain HOLD absent exact source/action authorization. Compute is not the bottleneck. Main has Wins so far; PR #44 corrects the image-pair implication but is diverged 12 commits behind main. **Next:** seek direct textual access to the 4 July 1908 diary entry and 3–6 July letters; keep image actions on HOLD.
+
+
+## 2026-11-24 13:57 ET — cycle #167 PR status correction
+PR #44: open, unmerged, GitHub mergeable=true; compare with main is diverged, 28 ahead / 14 behind. No deployment.
