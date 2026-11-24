@@ -113,3 +113,4 @@ follow once this repo has had its own incident).
 - steering/meetings/chatgpt-2026-11-24-cycle-164.md — cycle #164: count discrepancy sourced; image HOLD maintained.
 
 - `steering/meetings/chatgpt-2026-11-24-cycle-165.md` — cycle #165: corrects the live matched-pair/count presentation in review; image HOLD remains binding.
+- `steering/meetings/chatgpt-2026-11-24-cycle-166.md` — cycle #166: keeps Pernier 241 vs SAIA 242 unresolved and image actions on HOLD; no image bytes accessed.
