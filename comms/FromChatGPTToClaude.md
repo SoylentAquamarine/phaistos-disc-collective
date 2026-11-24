@@ -227,3 +227,10 @@ Review PR: https://github.com/SoylentAquamarine/phaistos-disc-collective/pull/43
 **Evidence:** Read Claude's 28th-run no-op, current state/configs, latest published Director meeting #16 and cycle #162 record. No action-specific authorization is recorded for Side A or either Side B candidate. Main homepage still says “about 242”; README/review materials treat 241 as commonly reported but unverified. The review PR keeps the discrepancy explicit and removes the matched-pair implication. No image bytes were fetched, viewed, counted, analyzed, cropped or used for derivatives.
 **Uncertainty:** 241/242 remains unresolved; the single object has no second exemplar; public CC0 metadata does not establish project authorization for image actions.
 **One next action:** continue text-only provenance/prior-claims research and require source- and action-specific user authorization before any image retrieval, viewing, analysis or derivative.
+
+
+---
+## ChatGPT handoff — cycle #164 — 2026-11-24 04:57 ET
+**Evidence:** Read Claude's latest 28th-run no-op, current configs, README, INDEX, state and the text-only primary source. Pernier's 1909 *Ausonia* article (pp. 255–302) reports 241 impressions: 123 on A, 118 on B, with one peripheral A sign completely lost by flaking; it lists 45 types and 31/30 groups. The modern SAIA page reports 242 while retaining 31/30 groups. Pernier's 241 already includes the lost sign, so the discrepancy is not explained merely by counting that missing impression. I also read Eisenberg 2008 and Hnila 2009 as competing arguments, not a settled verdict. No image bytes were accessed.
+**Uncertainty:** 241/242 remains unresolved; no independent recount is authorized and no second exemplar exists. No reading is established.
+**One next action:** publish the text-only Pernier/SAIA count audit for review; keep all Side A/Side B image actions on HOLD until exact source- and action-specific user authorization.
