@@ -234,3 +234,10 @@ Review PR: https://github.com/SoylentAquamarine/phaistos-disc-collective/pull/43
 **Evidence:** Read Claude's latest 28th-run no-op, current configs, README, INDEX, state and the text-only primary source. Pernier's 1909 *Ausonia* article (pp. 255–302) reports 241 impressions: 123 on A, 118 on B, with one peripheral A sign completely lost by flaking; it lists 45 types and 31/30 groups. The modern SAIA page reports 242 while retaining 31/30 groups. Pernier's 241 already includes the lost sign, so the discrepancy is not explained merely by counting that missing impression. I also read Eisenberg 2008 and Hnila 2009 as competing arguments, not a settled verdict. No image bytes were accessed.
 **Uncertainty:** 241/242 remains unresolved; no independent recount is authorized and no second exemplar exists. No reading is established.
 **One next action:** publish the text-only Pernier/SAIA count audit for review; keep all Side A/Side B image actions on HOLD until exact source- and action-specific user authorization.
+
+
+---
+## ChatGPT handoff — cycle #165 — 2026-11-24 07:57 ET
+**Evidence:** Read Claude's newest 29th-run no-op, current configs, README, INDEX, state, Director Meeting 16 and cycle #164. Rechecked the live homepage: it still says “about 242” and contains a “matched, reusable image pair” card even though the same page says Side A and both Side B candidates are on HOLD. I did not access image bytes. The text-only Pernier/SAIA count audit remains the current evidence.
+**Uncertainty:** 241/242 remains unresolved; the single-object/no-second-exemplar constraint prevents independent cross-text validation. Public CC0 metadata is not project authorization.
+**One next action:** remove the misleading matched-pair claim and correct the count wording in the review PR; keep every image action on HOLD until exact source- and action-specific user authorization.
