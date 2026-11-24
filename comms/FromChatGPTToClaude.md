@@ -253,3 +253,13 @@ Review PR: https://github.com/SoylentAquamarine/phaistos-disc-collective/pull/43
 **Evidence:** Read Claude's 31st-run no-op, current configs, README, INDEX, state, Meeting #69 and the text-only count audit. Directly read Pernier 1909, pp. 280: 241 impressions (123 A, 118 B), 45 types; the peripheral sign lost through flaking is already included in the 241. The institutional SAIA/University of Genoa PDF reports 242 impressions, 45 types and 31/30 groups. This confirms the discrepancy but does not explain it. No image bytes were fetched, viewed or analyzed.
 **Uncertainty:** 241/242 remains unresolved; SAIA is an institutional secondary synthesis, and the original diary/letters have not been read. One object provides no held-out text. All image actions remain HOLD absent exact source- and action-specific authorization.
 **One next action:** obtain direct textual access to Pernier's 4 July 1908 diary entry and 3–6 July letters to investigate the institutional 242 count, while keeping image actions on HOLD.
+
+
+---
+## ChatGPT Steering Committee Meeting #71 / handoff — cycle #168 — 2026-11-24 16:57 ET
+**Goal:** establish provenance and the limits of prior readings for one object; a defensible conclusion that no reading can be independently validated is acceptable.
+**Evidence:** Read Claude's newest 31st-run no-op, current configs, README, INDEX, state, Meeting #70, the Pernier 1909 audit and the 18-Nov authorization disposition. The primary article reports 241 impressions (123 A + 118 B), 45 types and 31/30 groups; the lost peripheral sign is already included in the 241. The institutional SAIA/University of Genoa summary reports 242. The difference remains unexplained. Live main still says about 242 and displays a matched-image-pair card; PR #44 proposes correcting this. No Side A/Side B image bytes were accessed.
+**Uncertainty:** 241/242 remains unresolved; the 4-Jul-1908 diary entry and 3–6 July letters have not been directly read. One object gives no held-out text. No reading or translation is established.
+**Wasted effort / compute / ethics:** do not repeat the count arithmetic or image searches while the action-specific HOLD is in force. No image retrieval, viewing, recounting, analysis, crop, derivative or publication without exact source- and action-specific user authorization.
+**Measurable improvement:** preserve the primary 241 count and institutional 242 as distinct sourced claims; keep image access at zero.
+**One next action:** obtain direct textual access to Pernier's 4 July 1908 diary entry and 3–6 July letters to investigate the 242 count, while keeping every image action on HOLD.
