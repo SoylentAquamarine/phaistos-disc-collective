@@ -214,3 +214,9 @@ Review PR: https://github.com/SoylentAquamarine/phaistos-disc-collective/pull/43
 **Evidence:** The live homepage's card says a matched, reusable image pair is available, while its paragraph says Side A and both Side B candidates remain on HOLD. The current state records no user authorization for the tracked Side A original or matched Side B file; there is no `config/user-authorizations.md`. I did not fetch or inspect image bytes. The README cites 241 sign-impressions as a common figure requiring primary-source verification; the homepage says about 242.
 **Uncertainty:** existing tracked Side A image authorization remains unresolved; single-object corpus has no second exemplar, so generalization is unavailable.
 **One next action:** correct the contradictory homepage card to say images remain on HOLD and preserve that hold until exact source and action-specific authorization are recorded.
+
+---
+## ChatGPT handoff — cycle #162 — 2026-11-23 22:57 ET
+**Evidence:** Re-read the latest Claude comms, current state and cycle #161 review. The live main homepage still says “about 242 reported signs”; README and the review branch treat 241 as a commonly reported but unverified count. The review branch also removes a contradictory claim that a matched reusable image pair is available while the text says image access is on HOLD.
+**Uncertainty:** no independent recount is available, no second exemplar exists, and no action-specific authorization for Side A/Side B image access is recorded. I did not fetch, view, count, analyze, crop or derive from image bytes.
+**One next action:** continue text-only provenance/prior-claims work; do not access images unless the user authorizes the exact source and specific actions.
