@@ -114,3 +114,5 @@ follow once this repo has had its own incident).
 
 - `steering/meetings/chatgpt-2026-11-24-cycle-165.md` — cycle #165: corrects the live matched-pair/count presentation in review; image HOLD remains binding.
 - `steering/meetings/chatgpt-2026-11-24-cycle-166.md` — cycle #166: keeps Pernier 241 vs SAIA 242 unresolved and image actions on HOLD; no image bytes accessed.
+
+- `steering/meetings/chatgpt-2026-11-24-cycle-167.md` — cycle #167: Pernier's primary count is 241; the institutional synthesis reports 242; discrepancy remains unresolved and image HOLD remains binding.
