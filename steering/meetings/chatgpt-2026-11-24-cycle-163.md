@@ -13,6 +13,9 @@ Establish authenticity/provenance and what can count as defensible evidence befo
 - Main homepage still says “about 242”; README and review materials treat 241 as a commonly reported but unverified count. The current review branch changes this to an explicit disputed count and removes the matched-pair implication.
 - No image bytes were fetched, viewed, counted, analyzed, cropped or used for derivatives.
 
+## Director configuration status
+The Director-owned `config/claude.md` remains marked bootstrap. The current source/action-specific image HOLD governs; no Director config was edited.
+
 ## Evidence and falsification standard
 A proposed reading must specify a test that distinguishes it from rivals, fit the full inscription, survive internal consistency and independent historical comparison, and disclose the one-object limitation. No generalization from one object or confidence from visual resemblance alone.
 
