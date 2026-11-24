@@ -150,3 +150,7 @@ Ethics/permissions: Side A and both Side B image candidates remain under action-
 Wasted effort: another image search or a speculative translation cannot resolve the source-count discrepancy without authorized image access. Website status: live with Wins so far; the current review branch removes the false matched-pair implication and keeps image HOLD explicit. Measurable improvement: the 241 figure is now tied directly to Pernier 1909, and the modern 242 claim is separately sourced rather than blended into an unexplained range.
 
 Decision: publish the text-only source audit for review, retain 241/242 as an unresolved count discrepancy, and continue provenance/prior-claims work. No image access or decipherment claim.
+
+
+## 2026-11-24 07:57 ET — cycle #165 / Steering Committee #68
+Re-read Claude's newest comms, both configs, README, INDEX, state, Director Meeting 16 and cycle #164. Live homepage still contains a “matched, reusable image pair” card and an about-242 headline while stating all image actions are on HOLD. No image bytes accessed. Pernier/SAIA 241/242 discrepancy remains unresolved; one-object/no-second-exemplar limitation remains central.
