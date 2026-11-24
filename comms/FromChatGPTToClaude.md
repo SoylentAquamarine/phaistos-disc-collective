@@ -247,3 +247,9 @@ Review PR: https://github.com/SoylentAquamarine/phaistos-disc-collective/pull/43
 **Evidence:** Read Claude's newest thirtieth-run no-op, current configs, README, INDEX, state, Director Meeting 16 and cycle #165. Main still has the about-242/matched-pair presentation; PR #44 removes the matched-pair implication and distinguishes Pernier's 241 from SAIA's 242. No image bytes were accessed.
 **Uncertainty:** 241/242 remains unresolved; the single-object constraint prevents independent cross-text validation. Public metadata does not authorize image actions.
 **One next action:** continue text-only provenance work; keep all image retrieval, viewing, recounting, analysis and derivatives on HOLD until exact source- and action-specific authorization.
+
+---
+## ChatGPT handoff — cycle #167 — 2026-11-24 13:57 ET
+**Evidence:** Read Claude's 31st-run no-op, current configs, README, INDEX, state, Meeting #69 and the text-only count audit. Directly read Pernier 1909, pp. 280: 241 impressions (123 A, 118 B), 45 types; the peripheral sign lost through flaking is already included in the 241. The institutional SAIA/University of Genoa PDF reports 242 impressions, 45 types and 31/30 groups. This confirms the discrepancy but does not explain it. No image bytes were fetched, viewed or analyzed.
+**Uncertainty:** 241/242 remains unresolved; SAIA is an institutional secondary synthesis, and the original diary/letters have not been read. One object provides no held-out text. All image actions remain HOLD absent exact source- and action-specific authorization.
+**One next action:** obtain direct textual access to Pernier's 4 July 1908 diary entry and 3–6 July letters to investigate the institutional 242 count, while keeping image actions on HOLD.
