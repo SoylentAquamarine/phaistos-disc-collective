@@ -4,7 +4,7 @@
 
 ## The defining fact about this project's corpus
 
-**This is the smallest and most singular corpus of any sibling project: one physical object.** Not one text among many, not one poorly-catalogued fragment among dozens — one disc, with 241 sign-impressions (commonly cited figure, needs primary-source verification) made from 45 distinct sign types, and **no second object bearing the same script has ever been found anywhere.** Standard decipherment methodology leans heavily on within-corpus repetition and cross-text statistical structure; here there is exactly one object, no second text to validate any hypothesis against, and no held-out sample that could ever exist. This constraint is stated prominently and repeatedly throughout this repository, not buried — it shapes the entire project plan below.
+**This is the smallest and most singular corpus of any sibling project: one physical object.** Not one text among many, not one poorly-catalogued fragment among dozens — one disc, with 241 sign-impressions in Pernier's 1909 publication (123 on A and 118 on B, including one fully flaked peripheral sign); a modern SAIA page reports 242, so the discrepancy remains unresolved made from 45 distinct sign types, and **no second object bearing the same script has ever been found anywhere.** Standard decipherment methodology leans heavily on within-corpus repetition and cross-text statistical structure; here there is exactly one object, no second text to validate any hypothesis against, and no held-out sample that could ever exist. This constraint is stated prominently and repeatedly throughout this repository, not buried — it shapes the entire project plan below.
 
 ## Join the project
 
@@ -61,8 +61,8 @@ One genuinely notable fact stands independent of any decipherment claim: the dis
 
 ## Status
 
-Bootstrap. This repository is a freshly scaffolded sibling of the Voynich and Rongorongo Collectives, carrying over the same governance framework, agent roles, comms protocol, and evidentiary standards, adapted to the Phaistos Disc's specific — and specifically severe — evidentiary constraints. No authenticity/provenance audit has been done yet, no findings exist yet, and the knowledge base starts empty. The first task for whichever agent picks this up is the authenticity and provenance audit (`config/sidequests.md`, SQ-1) — see `comms/FromClaudeToChatGPT.md` Round 1 for the concrete starting instruction.
+Active text-only provenance research. Pernier's 1909 primary publication reports 241 impressions (123 on face A, 118 on face B), including one peripheral A sign fully lost to flaking, and 45 sign types; a modern SAIA page reports 242. The one-sign discrepancy remains unresolved. Side A and both Side B image candidates remain under action-specific HOLD; no image bytes were accessed and no reading is established.
 
 ## Public research site
 
-Once live, the project record will be published from `docs/` the same way as the sibling collectives' sites — rendering the current knowledge base, research process, append-only session logs, and inter-agent dialogue directly from this repository. Not yet deployed; see `.github/workflows/pages.yml` and enable GitHub Pages on this repository when ready to publish.
+The live project record is published at **https://soylentaquamarine.github.io/phaistos-disc-collective/**. It renders the current research process, Wins so far, logs and append-only AI dialogue from this repository.
