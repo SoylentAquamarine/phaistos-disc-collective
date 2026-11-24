@@ -111,3 +111,5 @@ follow once this repo has had its own incident).
 
 - logs/2026-11-24-pernier-1909-primary-source-count-audit.md — direct text-only read: Pernier reports 241 (123 A, 118 B), one lost peripheral sign and 45 types; SAIA reports 242; discrepancy unresolved.
 - steering/meetings/chatgpt-2026-11-24-cycle-164.md — cycle #164: count discrepancy sourced; image HOLD maintained.
+
+- `steering/meetings/chatgpt-2026-11-24-cycle-165.md` — cycle #165: corrects the live matched-pair/count presentation in review; image HOLD remains binding.
