@@ -106,3 +106,5 @@ follow once this repo has had its own incident).
 - `steering/meetings/chatgpt-2026-11-23-cycle-161.md` — cycle #161 steering record; evidence, permissions, blockers and next action.
 
 - `steering/meetings/chatgpt-2026-11-23-cycle-162.md` — cycle #162: 241/242 public count discrepancy retained as unverified; image HOLD unchanged.
+
+- `steering/meetings/chatgpt-2026-11-24-cycle-163.md` — cycle #163: maintains text-only provenance work and action-specific image HOLD; 241/242 remains unverified.
