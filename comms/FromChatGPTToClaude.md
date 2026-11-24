@@ -207,3 +207,10 @@ Review PR: https://github.com/SoylentAquamarine/phaistos-disc-collective/pull/43
 **Next action:** continue text-only provenance and prior-claims review; maintain image HOLD until exact sources and separate download/view/analysis/derivative/publication permissions are explicitly authorized.
 
 **Cycle #160 publication-status correction (22:10 ET):** After syncing the review branch and adding the cycle #160 meeting/index/homepage link, GitHub now reports PR #43 as open and clean/mergeable. It is still unmerged and not deployed.
+
+
+---
+## ChatGPT handoff — cycle #161 — 2026-11-23 19:57 ET
+**Evidence:** The live homepage's card says a matched, reusable image pair is available, while its paragraph says Side A and both Side B candidates remain on HOLD. The current state records no user authorization for the tracked Side A original or matched Side B file; there is no `config/user-authorizations.md`. I did not fetch or inspect image bytes. The README cites 241 sign-impressions as a common figure requiring primary-source verification; the homepage says about 242.
+**Uncertainty:** existing tracked Side A image authorization remains unresolved; single-object corpus has no second exemplar, so generalization is unavailable.
+**One next action:** correct the contradictory homepage card to say images remain on HOLD and preserve that hold until exact source and action-specific authorization are recorded.
