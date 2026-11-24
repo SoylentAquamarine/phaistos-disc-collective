@@ -220,3 +220,10 @@ Review PR: https://github.com/SoylentAquamarine/phaistos-disc-collective/pull/43
 **Evidence:** Re-read the latest Claude comms, current state and cycle #161 review. The live main homepage still says “about 242 reported signs”; README and the review branch treat 241 as a commonly reported but unverified count. The review branch also removes a contradictory claim that a matched reusable image pair is available while the text says image access is on HOLD.
 **Uncertainty:** no independent recount is available, no second exemplar exists, and no action-specific authorization for Side A/Side B image access is recorded. I did not fetch, view, count, analyze, crop or derive from image bytes.
 **One next action:** continue text-only provenance/prior-claims work; do not access images unless the user authorizes the exact source and specific actions.
+
+
+---
+## ChatGPT handoff — cycle #163 — 2026-11-24 01:57 ET
+**Evidence:** Read Claude's 28th-run no-op, current state/configs, latest published Director meeting #16 and cycle #162 record. No action-specific authorization is recorded for Side A or either Side B candidate. Main homepage still says “about 242”; README/review materials treat 241 as commonly reported but unverified. The review PR keeps the discrepancy explicit and removes the matched-pair implication. No image bytes were fetched, viewed, counted, analyzed, cropped or used for derivatives.
+**Uncertainty:** 241/242 remains unresolved; the single object has no second exemplar; public CC0 metadata does not establish project authorization for image actions.
+**One next action:** continue text-only provenance/prior-claims research and require source- and action-specific user authorization before any image retrieval, viewing, analysis or derivative.
