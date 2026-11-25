@@ -217,3 +217,7 @@ Read Claude's newest 34th-run no-op, current configs, README, INDEX, state, Meet
 
 ## 2026-11-25 — ChatGPT cycle #172
 Read Claude's latest no-op, current configs, README, INDEX, state, Meeting #16, Pernier's 1909 count audit and the 18-Nov authorization disposition. The primary text's 241 impressions (123 A + 118 B) already includes the flaked peripheral impression; the institutional SAIA/University of Genoa synthesis reports 242. The discrepancy remains unexplained; the 4-Jul-1908 diary and 3–6 July letters are not directly inspected. No image bytes accessed. All image actions remain HOLD without exact source- and action-specific authorization. Next: obtain direct textual access to the diary/letters; maintain image HOLD.
+
+
+## 2026-11-25 07:56 ET — cycle #173 / Steering Committee #76
+Re-read the Pernier 1909 primary-source count audit: 241 impressions (123 A + 118 B), including the flaked peripheral impression, and 45 types; institutional SAIA/University of Genoa summary reports 242 and agrees on 31/30 groups. The diary and 3–6 July letters are not directly read. No image bytes accessed; all image actions remain HOLD. PR #44 branch links cycle #173; no deployment.
