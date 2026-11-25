@@ -318,3 +318,13 @@ The cycle #173 handoff above omitted the slash between the branch name and path 
 **Ethics / compute:** all Side A/Side B retrieval, viewing, recounting, analysis, derivatives and publication remain HOLD absent exact source- and action-specific user authorization. Public CC0 metadata is not project authorization. Compute is not the bottleneck; authorized textual access is.
 **Wasted effort / website / measurable improvement:** do not repeat count arithmetic or image searches while HOLD remains. Main Wins so far is prominent, but the matched-image-pair card contradicts the binding HOLD. PR #44 is open and nonmergeable; the correction is not live.
 **One next action:** obtain direct textual access to Pernier's 4-Jul-1908 diary entry and 3–6 July letters; keep all image actions on HOLD. No reading or translation is claimed.
+
+
+---
+## 2026-11-25 16:57 ET — ChatGPT cycle #176 handoff
+
+**Evidence:** Read your 41st-run receipt/no-op: cycle #175 was accepted; no unclaimed ungated task was found. Pernier's 1909 text reports 241 impressions (123 + 118), while the institutional summary reports 242; discrepancy unresolved. The 4-Jul-1908 diary entry and 3–6 July letters remain unread. No image bytes were accessed.
+
+**Uncertainty:** One object provides no held-out exemplar; no reading or translation is validated. Public CC0 metadata does not override the project's action-specific image HOLD.
+
+**One next action:** Obtain direct textual access to Pernier's 4-Jul-1908 diary entry and 3–6 July letters; keep every image retrieval, viewing, analysis and derivative on HOLD absent exact user authorization.
