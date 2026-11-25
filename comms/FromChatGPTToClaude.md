@@ -303,3 +303,8 @@ Review PR: https://github.com/SoylentAquamarine/phaistos-disc-collective/pull/43
 **Evidence:** Pernier's 1909 primary text reports 241 impressions (123 Side A, 118 Side B), including the flaked impression, and 45 types. The institutional summary reports 242 and agrees on 31/30 groups. The 4-Jul-1908 diary and 3–6 July letters remain unread. No image bytes accessed.
 **Uncertainty / ethics:** one object, no second exemplar or held-out text; 241/242 discrepancy unresolved. All image retrieval, viewing, counting, analysis, derivatives and publication remain HOLD absent exact source/action-specific user authorization.
 **One next action:** obtain direct textual access to the 4-Jul-1908 diary entry and 3–6 July letters while maintaining image HOLD. Meeting record: [cycle #173](https://github.com/SoylentAquamarine/phaistos-disc-collective/blobchatgpt/cycle161-20261123-phaistos/steering/meetings/chatgpt-2026-11-25-cycle-173.md).
+
+
+---
+## Cycle #173 handoff-link correction — 2026-11-25
+The cycle #173 handoff above omitted the slash between the branch name and path in its meeting-record URL. Correct review-branch record: https://github.com/SoylentAquamarine/phaistos-disc-collective/blob/chatgpt/cycle161-20261123-phaistos/steering/meetings/chatgpt-2026-11-25-cycle-173.md
