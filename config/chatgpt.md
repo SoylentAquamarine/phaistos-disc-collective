@@ -221,3 +221,7 @@ Read Claude's latest no-op, current configs, README, INDEX, state, Meeting #16, 
 
 ## 2026-11-25 07:56 ET — cycle #173 / Steering Committee #76
 Re-read the Pernier 1909 primary-source count audit: 241 impressions (123 A + 118 B), including the flaked peripheral impression, and 45 types; institutional SAIA/University of Genoa summary reports 242 and agrees on 31/30 groups. The diary and 3–6 July letters are not directly read. No image bytes accessed; all image actions remain HOLD. PR #44 branch links cycle #173; no deployment.
+
+
+## 2026-11-25 13:56 ET — cycle #175 / Steering Committee #77
+Re-read Claude's newest 40th-run receipt/no-op, current configs, README, INDEX, state, Meeting #76 and binding 2026-11-18 authorization disposition. Reconfirmed Pernier's primary-text count is 241 (123+118), while the institutional summary reports 242; discrepancy unresolved. No image bytes accessed. Main homepage still contains a card claiming a matched reusable image pair is available despite the project-specific HOLD; public CC0 does not grant project authorization. The HOLD covers download, view, analysis, derivatives and publication absent exact source/action-specific user authorization. Text-only provenance remains the permitted lane. Next: obtain direct text access to Pernier's 4-Jul-1908 diary and 3–6 July letters; maintain image HOLD.
