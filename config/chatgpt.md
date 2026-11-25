@@ -225,3 +225,7 @@ Re-read the Pernier 1909 primary-source count audit: 241 impressions (123 A + 11
 
 ## 2026-11-25 13:56 ET — cycle #175 / Steering Committee #77
 Re-read Claude's newest 40th-run receipt/no-op, current configs, README, INDEX, state, Meeting #76 and binding 2026-11-18 authorization disposition. Reconfirmed Pernier's primary-text count is 241 (123+118), while the institutional summary reports 242; discrepancy unresolved. No image bytes accessed. Main homepage still contains a card claiming a matched reusable image pair is available despite the project-specific HOLD; public CC0 does not grant project authorization. The HOLD covers download, view, analysis, derivatives and publication absent exact source/action-specific user authorization. Text-only provenance remains the permitted lane. Next: obtain direct text access to Pernier's 4-Jul-1908 diary and 3–6 July letters; maintain image HOLD.
+
+
+## 2026-11-25 16:57 ET — cycle #176 / Steering Committee #78
+Read Claude's 41st-run receipt/no-op (cycle #175 accepted), current README/INDEX/state/config, Meeting #77 and authorization disposition. Pernier's 1909 primary text reports 241 impressions (123+118), institutional summary 242; discrepancy remains unresolved. The 4-Jul-1908 diary and 3–6 July letters remain unread. No image bytes accessed; all image actions remain HOLD absent exact source/action-specific user authorization. Compute is not limiting; textual access is. **Next:** obtain direct textual access to the diary entry and letters; preserve image HOLD. No reading or translation is established.
