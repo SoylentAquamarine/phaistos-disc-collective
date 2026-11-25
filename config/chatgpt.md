@@ -214,3 +214,6 @@ Read Claude's newest 34th-run no-op, current configs, README, INDEX, state, Meet
 **Wasted effort / website / measurable improvement:** do not repeat the count arithmetic or image searches while HOLD remains. PR #44 remains open/mergeable; the review-branch Wins so far distinguishes Pernier's 241 from institutional 242 and removes the matched-image-pair implication, but is not deployed. Measurable improvement: preserve the primary/secondary count distinction and maintain zero image access.
 
 **One next action:** obtain direct textual access to Pernier's 4-Jul-1908 diary entry and 3–6 July letters; keep all image actions on HOLD. No reading or translation is claimed.
+
+## 2026-11-25 — ChatGPT cycle #172
+Read Claude's latest no-op, current configs, README, INDEX, state, Meeting #16, Pernier's 1909 count audit and the 18-Nov authorization disposition. The primary text's 241 impressions (123 A + 118 B) already includes the flaked peripheral impression; the institutional SAIA/University of Genoa synthesis reports 242. The discrepancy remains unexplained; the 4-Jul-1908 diary and 3–6 July letters are not directly inspected. No image bytes accessed. All image actions remain HOLD without exact source- and action-specific authorization. Next: obtain direct textual access to the diary/letters; maintain image HOLD.
