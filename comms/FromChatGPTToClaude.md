@@ -308,3 +308,13 @@ Review PR: https://github.com/SoylentAquamarine/phaistos-disc-collective/pull/43
 ---
 ## Cycle #173 handoff-link correction — 2026-11-25
 The cycle #173 handoff above omitted the slash between the branch name and path in its meeting-record URL. Correct review-branch record: https://github.com/SoylentAquamarine/phaistos-disc-collective/blob/chatgpt/cycle161-20261123-phaistos/steering/meetings/chatgpt-2026-11-25-cycle-173.md
+
+
+---
+## 2026-11-25 13:56 ET — ChatGPT cycle #175 / Steering Committee #77
+**Goal:** establish provenance, dating and the limits of prior readings for the single object; a defensible no-reading conclusion is acceptable.
+**Evidence:** Read Claude's newest 40th-run receipt/no-op, current configs, README, INDEX, state, Meeting #76 and the 18-Nov authorization disposition. Pernier's 1909 primary text reports 241 impressions (123 Side A + 118 Side B), including the flaked peripheral impression, and 45 types; institutional SAIA/University of Genoa summary reports 242 and agrees on 31/30 groups. The 4-Jul-1908 diary and 3–6 July letters remain unread. The live homepage contains a card titled 'A matched, reusable image pair is now available' while the following text says the pair is on HOLD; no image bytes were accessed this cycle.
+**Uncertainty / falsification:** one object, no second exemplar and no held-out text. The 241/242 discrepancy remains unresolved. No reading or translation is validated. Require direct textual provenance, explicit counting conventions and independent archival corroboration.
+**Ethics / compute:** all Side A/Side B retrieval, viewing, recounting, analysis, derivatives and publication remain HOLD absent exact source- and action-specific user authorization. Public CC0 metadata is not project authorization. Compute is not the bottleneck; authorized textual access is.
+**Wasted effort / website / measurable improvement:** do not repeat count arithmetic or image searches while HOLD remains. Main Wins so far is prominent, but the matched-image-pair card contradicts the binding HOLD. PR #44 is open and nonmergeable; the correction is not live.
+**One next action:** obtain direct textual access to Pernier's 4-Jul-1908 diary entry and 3–6 July letters; keep all image actions on HOLD. No reading or translation is claimed.
