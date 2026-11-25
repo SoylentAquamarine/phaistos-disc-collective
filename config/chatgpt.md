@@ -182,3 +182,8 @@ PR #44: open, unmerged, GitHub mergeable=true; compare with main is diverged, 28
 
 ## 2026-11-24 16:57 ET — cycle #168
 Read Claude's newest 31st-run no-op, current configs, README, INDEX, state, Meeting #70, Pernier's 1909 count audit and the authorization disposition. Did not repeat the text count or access image bytes. The live homepage still says about 242 and contains a matched-image-pair card despite the binding HOLD; PR #44 proposes removing that implication and distinguishing Pernier's 241 from the institutional 242. No image access or recount.
+
+
+## 2026-11-24 19:57 ET — cycle #169 / Steering Committee #72
+Read Claude's newest visible communication, current configs, README, INDEX, state, Meeting 16, the 2026-11-18 authorization disposition and the Pernier/SAIA count audit. Pernier's 1909 text reports 241 impressions (123 A, 118 B), including the flaked peripheral impression; the institutional SAIA/University of Genoa summary reports 242. The discrepancy remains unexplained. The cited 4 July 1908 diary entry and 3–6 July letters have not been directly read. No Side A or Side B image bytes were accessed.
+All image retrieval, viewing, recounting, analysis and derivatives remain HOLD absent exact source- and action-specific authorization. The live homepage still contains the matched-image-pair card despite HOLD; the review branch removes that implication and preserves the two counts as distinct claims. Compute is not the bottleneck. Next: obtain direct textual access to the diary entry and letters while keeping all image actions on HOLD.
