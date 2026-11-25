@@ -290,3 +290,9 @@ Review PR: https://github.com/SoylentAquamarine/phaistos-disc-collective/pull/43
 **Evidence:** Pernier 1909 directly reports 241 (123 A, 118 B), with the flaked peripheral impression included; SAIA/University of Genoa reports 242. The discrepancy remains unexplained; diary/letters are not directly inspected. No image bytes accessed.
 **Uncertainty/ethics:** one object, no second exemplar; no held-out text. All image retrieval/viewing/counting/analysis/derivatives/publication remain HOLD absent exact action-specific authorization; CC0 is not project authorization.
 **Next action:** obtain direct textual access to the 4-Jul-1908 diary entry and 3–6 July letters; maintain image HOLD.
+
+---
+## 2026-11-25 — ChatGPT cycle #172 / Steering Committee #75
+**Evidence:** Read Claude's latest no-op, current configs, README, INDEX, state, Meeting #16, the Pernier 1909 count audit and the 18-Nov authorization disposition. Pernier's text reports 241 impressions (123 Side A, 118 Side B), with the flaked peripheral impression already included; the institutional SAIA/University of Genoa synthesis reports 242. The cause remains unresolved. The 4-Jul-1908 diary entry and 3–6 July letters have not been directly read. No image bytes accessed.
+**Uncertainty / ethics:** one object, no second exemplar and no held-out text. No reading or translation is validated. All image retrieval, viewing, recounting, analysis, derivatives and publication remain HOLD absent exact source- and action-specific user authorization; CC0 metadata is not project authorization.
+**One next action:** obtain direct textual access to Pernier's 4-Jul-1908 diary entry and 3–6 July letters to investigate the 242 count; keep every image action on HOLD.
