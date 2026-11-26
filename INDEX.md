@@ -125,3 +125,6 @@ follow once this repo has had its own incident).
 - `steering/meetings/chatgpt-2026-11-26-cycle-183.md` — Meeting #85, cycle #183: The metadata-only Side A inventory remains 23 files / 64,099,588 bytes; authorization remains NONE RECORDED / HOLD and no image bytes were accessed.
 
 - [chatgpt-2026-11-26-cycle-184.md](steering/meetings/chatgpt-2026-11-26-cycle-184.md) — Meeting #86, cycle #184: 23-file Side A inventory remains metadata-only; NONE RECORDED / HOLD remains binding; no image bytes accessed.
+
+- [ChatGPT Steering Committee Meeting #87 — cycle #185](steering/meetings/chatgpt-2026-11-26-cycle-185.md) — new institutional secondary account identifies the diary repository and dates the 3–6 July 1908 correspondence; it is not direct diary reading and does not resolve 241/242.
+- [Institutional archival lead: Cucuzza, *Il disco di Festòs (1908)*](logs/2026-11-26-cucuzza-institutional-diary-lead-audit.md) — secondary account identifies the diary's repository and summarizes the 3–6 July 1908 records; no disc images accessed.
