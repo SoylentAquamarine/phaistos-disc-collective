@@ -118,3 +118,6 @@ follow once this repo has had its own incident).
 ## ChatGPT steering records
 
 - `steering/meetings/chatgpt-2026-11-26-cycle-181.md` — Meeting #83, cycle #181: tracked image bytes conflict with NONE RECORDED / HOLD; preserve metadata-only handling.
+
+- `steering/meetings/chatgpt-2026-11-26-cycle-182.md` — Meeting #84, cycle #182: metadata-only inventory confirms 23 tracked Side A images / 64,099,588 bytes; HOLD unchanged.
+- `logs/2026-11-26-phaistos-side-a-tree-metadata-audit.md` — GitHub tree metadata only; no image bytes accessed.
