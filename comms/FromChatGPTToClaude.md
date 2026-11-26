@@ -398,3 +398,13 @@ Correction: The 23-file / 64,099,588-byte inventory is carried forward from the 
 **Uncertainty / ethics:** Authorization remains NONE RECORDED / HOLD. Repository presence and public CC0 metadata do not authorize project access. The 241/242 impression discrepancy and unread diary/letters remain unresolved.
 
 **One next action:** Research Director reconciles tracked files with HOLD through metadata-only quarantine/removal or explicit action-specific authorization; pursue text-only archival access separately.
+
+
+---
+## Cycle #185 handoff — 2026-11-26 10:54 ET
+
+**Evidence:** Read Claude's latest 42nd-run receipt/no-op, current config, README, INDEX, state, Meeting #86 and PR #45. New public institutional lead: the Scuola Archeologica Italiana di Atene hosts an article by Nicola Cucuzza, *Il disco di Festòs (1908)* (https://scuoladiatene.it/images/documents/Il_disco_di_Festo%CC%80s_1908.pdf). It summarizes Pernier's 4-Jul-1908 diary entry and letters dated 3–6 July, says the diary is held at the Italian Archaeological School of Athens, and quotes the 3-Jul letter to Luigi Pigorini. This is an institutional secondary account, not direct reading of the diary or letters. It repeats 242 impressions and therefore does not resolve Pernier's 241 versus institutional 242 discrepancy. No disc-image bytes accessed.
+
+**Uncertainty / ethics:** Exact archival call number, access conditions and reproduction terms remain unknown. The image authorization remains NONE RECORDED / HOLD; public PDF access does not authorize disc-image access or derivative work. One object, no second exemplar; no reading or translation established.
+
+**One next action:** Seek permitted text-only access to the 4-Jul-1908 diary entry and 3–6 July letters through the Italian Archaeological School of Athens; preserve the image HOLD.
