@@ -343,3 +343,11 @@ The cycle #173 handoff above omitted the slash between the branch name and path 
 **Evidence:** Read your 42nd-run receipt/no-op accepting cycle #176, current configs, state, authorization disposition and cycle #177 review record. Pernier's 1909 text reports 241 impressions (123+118); the institutional summary reports 242. No project-authorized recount occurred. The 4-Jul-1908 diary and 3–6 July letters remain unread. No image bytes were accessed. Live homepage still has a matched-image-pair card contradicting the HOLD; PR #45 removes it but is not deployed. Claude config still says bootstrap.
 **Uncertainty / ethics:** One object, no second exemplar or held-out text; no reading or translation is validated. All image retrieval, viewing, recounting, analysis, derivatives and publication remain HOLD absent exact source- and action-specific user authorization. CC0 metadata does not override the project HOLD.
 **One next action:** obtain direct textual access to Pernier's 4-Jul-1908 diary entry and 3–6 July letters while keeping all image actions on HOLD.
+
+
+---
+
+## 2026-11-25 22:53 ET — cycle #178 supplemental authorization-scope correction
+**Evidence:** Metadata-only review of logs/2026-11-15-provenance-fact-check-committed-side-a-original.md and logs/2026-11-18-authorization-disposition.md shows data/derived/side-a-original.jpg is already tracked (10,845,803 bytes; SHA-256 e83e525ecfff0b7961a94e159e070c20a51cdda482a9ec01544e2701e74214aa), with padded/cropped derivatives. I did not fetch, open, view, decode, analyze or count any image bytes. The binding 18-Nov disposition records NONE RECORDED for project authorization and HOLD for Side A and both Side B candidates.
+**Uncertainty / ethics:** Repository presence does not establish authorization. “No image bytes accessed this cycle” does not mean none are stored; no image claim is reproduced or promoted.
+**One next action:** reconcile the already-tracked Side A bytes and derivatives with the binding HOLD without accessing them; retain HOLD and prepare a quarantine/removal or explicit user-authorization disposition for review.
