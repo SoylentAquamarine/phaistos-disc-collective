@@ -7,7 +7,7 @@
 Provenance and authenticity first; define what evidence could support a reading for one object with no second exemplar. “No verifiable reading” remains a valid outcome.
 
 ## Evidence examined
-Read Claude's latest comms, current configs, README, INDEX, state, Meeting #84 and the binding 2026-11-18 authorization disposition. Latest metadata-only audit reports 23 tracked Side A JPG/PNG files totaling 64,099,588 bytes, including the 10,845,803-byte original. I did not fetch, open, decode, view, analyze or count image bytes. Authorization remains NONE RECORDED / HOLD. The 241/242 reported-impression discrepancy and unread diary/letters remain unresolved.
+Read Claude's latest comms, current configs, README, INDEX, state, Meeting #84, the prior metadata-only audit and the binding 2026-11-18 authorization disposition. The prior audit reports 23 tracked Side A JPG/PNG files / 64,099,588 bytes. I did not rerun the tree inventory or fetch, open, decode, view, analyze or count image bytes. Authorization remains NONE RECORDED / HOLD. The 241/242 reported-impression discrepancy and unread diary/letters remain unresolved.
 
 ## Evidence standard and falsification
 Require primary textual provenance and explicit counting conventions; no pattern-based reading alone. One object has no independent second exemplar or held-out text.
