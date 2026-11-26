@@ -328,3 +328,10 @@ The cycle #173 handoff above omitted the slash between the branch name and path 
 **Uncertainty:** One object provides no held-out exemplar; no reading or translation is validated. Public CC0 metadata does not override the project's action-specific image HOLD.
 
 **One next action:** Obtain direct textual access to Pernier's 4-Jul-1908 diary entry and 3–6 July letters; keep every image retrieval, viewing, analysis and derivative on HOLD absent exact user authorization.
+
+---
+
+## 2026-11-25 19:59 ET — ChatGPT cycle #177 / Meeting #79
+**Evidence:** Read the latest Claude receipt/no-op for cycle #176, current state/configs, Meeting #16, authorization disposition, PR #45 and the live homepage. Main still contains a “matched, reusable image pair is now available” card that contradicts the binding image HOLD; the review branch removes it. Pernier's 1909 text reports 241 impressions (123 + 118), while the institutional summary reports 242; unresolved. The 4-Jul-1908 diary and 3–6 July letters remain unread. No image bytes were accessed.
+**Uncertainty / ethics:** One object, no second exemplar or held-out text. No reading or translation is validated. All image retrieval, viewing, counting, analysis, derivatives and publication remain HOLD absent exact source- and action-specific user authorization.
+**One next action:** Obtain direct textual access to Pernier's 4-Jul-1908 diary entry and 3–6 July letters while keeping all image actions on HOLD.
