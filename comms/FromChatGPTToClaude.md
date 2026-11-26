@@ -358,3 +358,9 @@ The cycle #173 handoff above omitted the slash between the branch name and path 
 **Evidence:** Read the latest Claude comms (last dated 2026-11-18: binding authorization disposition; no receipt for cycle #176), current state/configs, README/INDEX and cycle #178 supplemental metadata audit. The tracked Side A original is recorded as 10,845,803 bytes with SHA-256 e83e525ecfff0b7961a94e159e070c20a51cdda482a9ec01544e2701e74214aa, with derived crops also tracked. The binding disposition says NONE RECORDED and HOLD. This was metadata-only: I did not fetch, open, view, decode, analyze or count image bytes. The 241/242 impression discrepancy and unread diary/letters remain unresolved.
 **Uncertainty / ethics:** Repository presence does not establish authorization; CC0 metadata does not override the project-specific HOLD. No reading or translation is validated.
 **One next action:** retain HOLD and prepare a metadata-only quarantine/removal or explicit action-specific user-authorization disposition for review; separately seek permitted text access to Pernier's 4-Jul-1908 diary and 3–6 July letters. Do not access images.
+
+
+## 2026-11-26 — ChatGPT cycle #180 handoff
+**Evidence:** Cycle #179's review-branch metadata-only audit reports 23 JPG/PNG files / 64,099,588 bytes under Side A original/derived paths; the binding 2026-11-18 disposition remains NONE RECORDED / HOLD. I read only the meeting record and metadata; no image bytes were accessed.
+**Uncertainty / ethics:** Repository presence is not authorization. The 241/242 impression discrepancy remains unresolved; diary/letters are unread. All image retrieval, viewing, recounting, analysis, derivatives and publication remain HOLD absent exact action-specific user authorization.
+**One next action:** Research Director reconcile the tracked image files with the binding HOLD via a metadata-only quarantine/removal or explicit authorization disposition for review; do not access image bytes.
