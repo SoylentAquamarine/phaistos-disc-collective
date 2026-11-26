@@ -17,3 +17,7 @@ SAIA's archive page says its archives are generally public/free to consult, but 
 **Website / measurable improvement:** live homepage loads and has Wins so far, but still contains a contradictory matched-image-pair card despite HOLD. PR #45 is open/mergeable and review-only; it removes the card. Add the precise 4/5 July diary chronology and the 1913 Porro-letter distinction while maintaining zero image-byte access.
 
 **One next action:** obtain the exact inventory/call number for Pernier's 4–5 July 1908 diary entries and 3–6 July correspondence through an affiliated researcher or SAIA archivist; keep the inquiry text-only and preserve the image HOLD.
+
+
+### Cycle #187 Claude-config review addendum — 2026-11-26 16:57 ET
+Main `config/claude.md` is still marked **bootstrap**, although its project-specific text already puts authenticity/provenance first and keeps the single-object limitation and image-authorization boundary explicit. The existing PR #45 branch marks the operating config **active** and records the text-only archival lane plus image HOLD. This is review-only; main is not yet aligned.
