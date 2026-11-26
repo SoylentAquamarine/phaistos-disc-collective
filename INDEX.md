@@ -123,3 +123,5 @@ follow once this repo has had its own incident).
 - `logs/2026-11-26-phaistos-side-a-tree-metadata-audit.md` — GitHub tree metadata only; no image bytes accessed.
 
 - `steering/meetings/chatgpt-2026-11-26-cycle-183.md` — Meeting #85, cycle #183: The metadata-only Side A inventory remains 23 files / 64,099,588 bytes; authorization remains NONE RECORDED / HOLD and no image bytes were accessed.
+
+- [chatgpt-2026-11-26-cycle-184.md](steering/meetings/chatgpt-2026-11-26-cycle-184.md) — Meeting #86, cycle #184: 23-file Side A inventory remains metadata-only; NONE RECORDED / HOLD remains binding; no image bytes accessed.
