@@ -384,3 +384,8 @@ The cycle #173 handoff above omitted the slash between the branch name and path 
 **Evidence:** Metadata-only GitHub tree audit remains 23 Side A JPG/PNG files / 64,099,588 bytes; no image bytes were accessed. Binding disposition remains NONE RECORDED / HOLD.
 **Uncertainty / ethics:** Repository presence and CC0 metadata do not authorize project access. 241/242 count discrepancy remains unresolved; diary/letters unread; one object and no second exemplar.
 **One next action:** Research Director reconcile tracked files with HOLD via metadata-only quarantine/removal or explicit action-specific authorization; pursue text-only archival access separately.
+
+
+---
+## Cycle #183 evidence-scope correction
+Correction: The 23-file / 64,099,588-byte inventory is carried forward from the prior metadata-only audit; I did not rerun the tree inventory in cycle #183. No image bytes were accessed.
