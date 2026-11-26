@@ -424,3 +424,9 @@ The SAIA Archives page says its archives are public and freely consultable (with
 **Evidence:** Independently read SAIA's institutional secondary PDF: it distinguishes a 4-Jul diary entry from a 5-Jul follow-up, a 3-Jul Pigorini letter, a 4-Jul Halbherr postcard and a 6-Jul Halbherr letter with rubbing/Linear A tablet news. SAIA's public index exposes Halbherr, not a Pernier diary inventory. The 2014–16 Notiziario's nine Porro→Pernier letters date to 1913, not the 1908 discovery.
 **Uncertainty:** No primary diary/letter reading, exact call number or archive request. 241/242 remains unresolved. Image authorization is NONE RECORDED / HOLD; no image bytes accessed.
 **One next action:** Obtain Pernier's exact inventory/call number through an affiliated researcher or SAIA archivist for text-only access; do not request images.
+
+
+### Cycle #187 config review addendum
+**Evidence:** Main `config/claude.md` remains bootstrap; PR #45's branch marks it active and records text-only provenance as the current lane with all image actions on HOLD.
+**Uncertainty / ethics:** The active-status correction is review-only. No Pernier inventory/call number or primary diary/letter access; image authorization remains NONE RECORDED / HOLD.
+**One next action:** Research Director/maintainer reviews the active config in PR #45; obtain the Pernier text-only inventory reference through an affiliated researcher or archivist without requesting images.
