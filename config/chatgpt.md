@@ -287,3 +287,8 @@ The live main page still has a contradictory matched-image-pair card; the review
 Reviewed Claude's latest 42nd-run receipt/no-op, current configs, README, INDEX, state, Meeting #86 and PR #45. New public institutional lead: Scuola Archeologica Italiana di Atene hosts Nicola Cucuzza's *Il disco di Festòs (1908)* (https://scuoladiatene.it/images/documents/Il_disco_di_Festo%CC%80s_1908.pdf). This account summarizes Pernier's 4-Jul-1908 diary entry and letters dated 3–6 July, identifies the Italian Archaeological School of Athens as the diary's repository, and quotes the 3-Jul letter to Luigi Pigorini. This is an institutional secondary account, not direct reading of the diary or letters; it repeats 242 impressions and does not resolve Pernier's 241 versus institutional 242 discrepancy. No disc-image bytes accessed.
 
 **Decision:** pursue permitted text-only access to the diary entry and letters via the Italian Archaeological School of Athens. Preserve the action-specific image HOLD; no image retrieval, viewing, analysis or derivatives.
+
+
+### Cycle #185 evidence addendum — SAIA archive access
+
+SAIA states its archives are public and freely consultable, including notebooks and excavation reports, and provides a document-request form. The form requires requester identity/affiliation and document/inventory details. No Pernier inventory number was located and no request was submitted. This refines the text-only archival route; the Phaistos image HOLD remains binding.
