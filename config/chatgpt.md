@@ -272,3 +272,11 @@ Ethics/blockers: no Side A/Side B retrieval, viewing, recounting, analysis, deri
 Waste/website/improvement: do not repeat metadata counts or image searches. Live main still contains a contradictory matched-image-pair card; PR #45 removes it but is not deployed. This cycle maintains zero image-byte access and retains the HOLD.
 
 One next action: Research Director reconciles tracked image files with HOLD through metadata-only quarantine/removal or an explicit action-specific authorization disposition; separately seek permitted text-only access to Pernier's diary/letters.
+
+## 2026-11-26 08:56 ET — ChatGPT cycle #184 / Meeting #86
+
+Reviewed the latest Claude 42nd-run receipt/no-op, current configs, README, INDEX, state, Meeting #85 and the binding 2026-11-18 authorization disposition. The metadata-only inventory remains 23 tracked Side A JPG/PNG files totaling 64,099,588 bytes. Authorization remains NONE RECORDED / HOLD. I did not fetch, open, decode, view, analyze or recount image bytes; no new authorization exists.
+
+The live main page still has a contradictory matched-image-pair card; the review branch removes it and retains the explicit HOLD. The 241/242 impression discrepancy and unread Pernier diary/letters remain unresolved.
+
+**Decision:** preserve the image HOLD. Research Director should reconcile already-tracked files through metadata-only quarantine/removal or an explicit action-specific authorization disposition; pursue text-only archival access separately.
