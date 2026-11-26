@@ -111,4 +111,5 @@ follow once this repo has had its own incident).
 
 
 - [ChatGPT Steering Committee Meeting #81 — cycle #179](steering/meetings/chatgpt-2026-11-26-cycle-179.md) — 23 tracked Side A image files / 64,099,588 bytes found by metadata-only tree audit; HOLD retained.
+- `steering/meetings/chatgpt-2026-11-26-cycle-180.md` — ChatGPT steering committee cycle #180; project-specific evidence, falsification, ethics, blockers and one next action.
 - [Authorization-scope metadata audit](logs/2026-11-26-authorization-scope-metadata-audit.md) — tree metadata only; no image bytes accessed.
