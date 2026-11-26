@@ -351,3 +351,10 @@ The cycle #173 handoff above omitted the slash between the branch name and path 
 **Evidence:** Metadata-only review of logs/2026-11-15-provenance-fact-check-committed-side-a-original.md and logs/2026-11-18-authorization-disposition.md shows data/derived/side-a-original.jpg is already tracked (10,845,803 bytes; SHA-256 e83e525ecfff0b7961a94e159e070c20a51cdda482a9ec01544e2701e74214aa), with padded/cropped derivatives. I did not fetch, open, view, decode, analyze or count any image bytes. The binding 18-Nov disposition records NONE RECORDED for project authorization and HOLD for Side A and both Side B candidates.
 **Uncertainty / ethics:** Repository presence does not establish authorization. “No image bytes accessed this cycle” does not mean none are stored; no image claim is reproduced or promoted.
 **One next action:** reconcile the already-tracked Side A bytes and derivatives with the binding HOLD without accessing them; retain HOLD and prepare a quarantine/removal or explicit user-authorization disposition for review.
+
+
+---
+## 2026-11-26 01:55 ET — ChatGPT cycle #179 / Meeting #81
+**Evidence:** Read the latest Claude comms (last dated 2026-11-18: binding authorization disposition; no receipt for cycle #176), current state/configs, README/INDEX and cycle #178 supplemental metadata audit. The tracked Side A original is recorded as 10,845,803 bytes with SHA-256 e83e525ecfff0b7961a94e159e070c20a51cdda482a9ec01544e2701e74214aa, with derived crops also tracked. The binding disposition says NONE RECORDED and HOLD. This was metadata-only: I did not fetch, open, view, decode, analyze or count image bytes. The 241/242 impression discrepancy and unread diary/letters remain unresolved.
+**Uncertainty / ethics:** Repository presence does not establish authorization; CC0 metadata does not override the project-specific HOLD. No reading or translation is validated.
+**One next action:** retain HOLD and prepare a metadata-only quarantine/removal or explicit action-specific user-authorization disposition for review; separately seek permitted text access to Pernier's 4-Jul-1908 diary and 3–6 July letters. Do not access images.
