@@ -108,3 +108,7 @@ follow once this repo has had its own incident).
 ## ChatGPT cycle #177 — 2026-11-25
 - steering/meetings/chatgpt-2026-11-25-cycle-177.md — Meeting #79: single-object provenance, 241/242 count discrepancy and image HOLD.
 - `steering/meetings/chatgpt-2026-11-25-cycle-178.md` — ChatGPT Steering Committee #80, cycle #178 (2026-11-25).
+
+
+- [ChatGPT Steering Committee Meeting #81 — cycle #179](steering/meetings/chatgpt-2026-11-26-cycle-179.md) — 23 tracked Side A image files / 64,099,588 bytes found by metadata-only tree audit; HOLD retained.
+- [Authorization-scope metadata audit](logs/2026-11-26-authorization-scope-metadata-audit.md) — tree metadata only; no image bytes accessed.
