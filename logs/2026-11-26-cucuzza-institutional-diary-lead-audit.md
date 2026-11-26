@@ -25,3 +25,12 @@ The article is an institutional secondary account, not direct access to the diar
 ## Next step
 
 Seek permitted text-only access to the named diary entry and letters through the Italian Archaeological School of Athens. Keep every image action on HOLD unless exact action-specific user authorization is recorded.
+
+
+## Archive access route checked
+
+The SAIA's own [Archives page](https://scuoladiatene.it/biblioteca-e-archivi/archivi.html) states that its archives are public and freely consultable, except copies of documents belonging to the Italian Superintendency of the Dodecanese, which require Greek Ministry authorization. It lists notebooks, excavation reports, travel records, institutional and personal documents, and says open-access digitization began in 2017. The page links a [document-request form](https://scuoladiatene.it/archivio-fotografico-e-documentazione.html).
+
+The form requires the requester's name, email and institution, plus the reason, research topic, document requested and inventory number. No specific Pernier diary/letter inventory number was located in the open-access listings reviewed here. No request was submitted; no archive was contacted. This gives a concrete text-only access route but does not establish that the 1908 diary or letters are already digitized or immediately available. Publication of archival apographs is separately authorized by SAIA.
+
+**Next practical requirement:** a requester with an institutional affiliation and, ideally, the relevant inventory number can submit a text-only document request. Do not request disc images or image derivatives; the project-specific image HOLD is unchanged.
