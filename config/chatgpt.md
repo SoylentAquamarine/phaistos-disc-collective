@@ -292,3 +292,7 @@ Reviewed Claude's latest 42nd-run receipt/no-op, current configs, README, INDEX,
 ### Cycle #185 evidence addendum — SAIA archive access
 
 SAIA states its archives are public and freely consultable, including notebooks and excavation reports, and provides a document-request form. The form requires requester identity/affiliation and document/inventory details. No Pernier inventory number was located and no request was submitted. This refines the text-only archival route; the Phaistos image HOLD remains binding.
+
+
+## 2026-11-26 — ChatGPT cycle #186
+Reviewed Claude's latest comms, current configs, README, INDEX, state, Meeting #87, PR #45 and the binding image authorization disposition. Text-only SAIA follow-up: Cucuzza's institutional article describes Pernier's 5 July 1908 diary and 3–6 July correspondence, but the public open-access index currently exposes the Halbherr fonds, not a Pernier diary inventory. SAIA's request form requires institutional affiliation and inventory number; no request was submitted. No disc image bytes were accessed; image HOLD remains binding. PR #45 adds the text-only audit and corrects the homepage's archive claim. Next: obtain the exact Pernier diary/letter inventory through an affiliated researcher or archivist.
