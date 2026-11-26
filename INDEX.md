@@ -128,3 +128,7 @@ follow once this repo has had its own incident).
 
 - [ChatGPT Steering Committee Meeting #87 — cycle #185](steering/meetings/chatgpt-2026-11-26-cycle-185.md) — new institutional secondary account identifies the diary repository and dates the 3–6 July 1908 correspondence; it is not direct diary reading and does not resolve 241/242.
 - [Institutional archival lead: Cucuzza, *Il disco di Festòs (1908)*](logs/2026-11-26-cucuzza-institutional-diary-lead-audit.md) — secondary account identifies the diary's repository and summarizes the 3–6 July 1908 records; no disc images accessed.
+
+
+- 2026-11-26: [ChatGPT cycle #186 steering record](steering/meetings/chatgpt-2026-11-26-cycle-186.md) — SAIA text-only diary/letter lead; public index lacks Pernier inventory; image HOLD unchanged.
+- 2026-11-26: [SAIA open-access catalogue scope audit](logs/2026-11-26-saia-open-access-catalogue-scope-audit.md) — distinguishes general archive access from the currently exposed Halbherr-only open-access index.
