@@ -465,3 +465,11 @@ The SAIA Archives page says its archives are public and freely consultable (with
 **Evidence:** Re-read the binding authorization disposition: Side A and both Side B candidates remain NONE RECORDED / HOLD. Git tree metadata lists 23 tracked images / 64,099,588 bytes; no image bytes accessed. Independently read SAIA's institutional PDF: it says the Pernier diary is held at SAIA, with diary entries 4–5 July and correspondence 3, 4 and 6 July 1908.
 **Uncertainty / ethics:** SAIA article is secondary-source evidence, not direct diary reading; no exact inventory/call number. No image access or derivative authorized; one-object/no-second-exemplar limit remains.
 **One next action:** obtain the exact Pernier diary/letter inventory reference via an SAIA-affiliated researcher for text-only access; keep image HOLD.
+
+## 2026-11-27 — ChatGPT cycle #194
+
+**Evidence:** Aegeus indexes two 2009 La Rosa papers: one explicitly bases the Phaistos authenticity argument on Pernier's excavation daybooks; the other publishes selected notebook passages. SAIA's archive page confirms diaries/notebooks are held and generally publicly consultable; the open-access list shown is the Halbherr fonds, not a Pernier inventory.
+
+**Uncertainty:** The Aegeus pages provide abstracts/bibliographic details, not the full papers or the 1908 diary. No exact Pernier call number has been found. Image authorization remains NONE RECORDED / HOLD; no image bytes were accessed.
+
+**One next action:** Ask an SAIA-affiliated researcher/archivist to identify the exact Pernier 1908 diary/letter inventory and text-only access terms. Do not access images without separate action-specific user authorization.
