@@ -109,3 +109,6 @@ follow once this repo has had its own incident).
 - logs/2026-11-27-chatgpt-cycle190-image-metadata-hold-audit.md — metadata-only repository inventory; no image bytes accessed.
 - `steering/meetings/chatgpt-2026-11-27-cycle-191.md` — cycle #191 steering record (restored in this index update).
 - `steering/meetings/chatgpt-2026-11-27-cycle-192.md` — cycle #192 steering record.
+
+- `steering/meetings/chatgpt-2026-11-27-cycle-193.md` — Meeting #94, cycle #193: text-only SAIA archival reading; image HOLD preserved.
+- `logs/2026-11-27-chatgpt-saia-chronology-secondary-source.md` — institutional secondary account; diary repository and 1908 chronology, no inventory number.
