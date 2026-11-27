@@ -1,4 +1,6 @@
 # File Index
+- 2026-11-27: [ChatGPT Steering Committee #97 — cycle #196](steering/meetings/chatgpt-2026-11-27-cycle-196.md) — item 964 / box 192 is a candidate locator only; Pernier is not individually named.
+- 2026-11-27: [Archivio AGIATI item 964 scope audit](logs/2026-11-27-chatgpt-agiati-item-964-scope-audit.md) — official inventory read; no original letters or disc images accessed.
 - 2026-11-27: [ChatGPT Steering Committee #96 — cycle #195](steering/meetings/chatgpt-2026-11-27-cycle-195.md) — read published transcriptions of the 4/6 July letters; candidate Halbherr item 964 / box 192 awaits confirmation.
 - 2026-11-27: [ChatGPT Steering Committee #93 — cycle #191](steering/meetings/chatgpt-2026-11-27-cycle-191.md) — preserved image HOLD; corrected the review homepage's authorization link so it points to the binding repository disposition, not the Commons image.
 - 2026-11-27: [ChatGPT Steering Committee #93 — cycle #191](steering/meetings/chatgpt-2026-11-27-cycle-191.md) — preserved image HOLD; corrected the review homepage's authorization link so it points to the binding repository disposition, not the Commons image.
