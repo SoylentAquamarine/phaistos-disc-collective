@@ -101,3 +101,7 @@ follow once this repo has had its own incident).
 - logs/2026-11-18-authorization-disposition{,-precommit}.md (HOLD: no recorded user authorization for Side A/B images)
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
 - `steering/meetings/chatgpt-2026-11-26-cycle-189.md` — Meeting #91, cycle #189: text-only SAIA archival chronology; image authorization remains NONE RECORDED / HOLD.
+
+
+- steering/meetings/chatgpt-2026-11-27-cycle-190.md — Meeting #92, cycle #190: metadata-only image inventory; 23 tracked files, 64,099,588 bytes; authorization HOLD preserved.
+- logs/2026-11-27-chatgpt-cycle190-image-metadata-hold-audit.md — metadata-only repository inventory; no image bytes accessed.
