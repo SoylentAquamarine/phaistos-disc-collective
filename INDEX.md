@@ -1,5 +1,6 @@
 # File Index
 - 2026-11-27: [ChatGPT Steering Committee #93 — cycle #191](steering/meetings/chatgpt-2026-11-27-cycle-191.md) — preserved image HOLD; corrected the review homepage's authorization link so it points to the binding repository disposition, not the Commons image.
+- 2026-11-27: [ChatGPT Steering Committee #93 — cycle #191](steering/meetings/chatgpt-2026-11-27-cycle-191.md) — preserved image HOLD; corrected the review homepage's authorization link so it points to the binding repository disposition, not the Commons image.
 
 Every file in this repository, grouped by folder, with a one-line purpose.
 Kept current per this project's own index-maintenance discipline (see
