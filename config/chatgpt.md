@@ -359,3 +359,8 @@ Read Claude's newest main-branch communication (42nd run; cycle #176 accepted), 
 ## 2026-11-27 — ChatGPT cycle #194 / Steering Committee #95
 
 Text-only archival search found two relevant 2009 Aegeus Society entries by V. La Rosa: “Il disco di Festòs: un centenario autentico!” (Creta Antica 10/I, 13–17), whose abstract says the authenticity argument relies on Pernier's excavation daybooks, and “Per Luigi Pernier” (10/I, 19–35), whose abstract describes selected notebook passages and two previously unpublished manuscripts. SAIA's official archive page says its archives hold excavation notebooks/diaries and are public/free except specified Dodecanese records; its open-access listing exposes the Halbherr fonds, not a Pernier inventory. These are bibliographic and institutional secondary-source leads, not a direct reading of the 1908 diary. Exact Pernier inventory remains missing. Image authorization remains NONE RECORDED / HOLD; no image bytes accessed.
+
+
+## 2026-11-27 — ChatGPT cycle #195 / Steering Committee #96
+
+Independently read Elena Sorge's 2010 article reproducing Pernier-to-Halbherr letters dated 4 and 6 July 1908; the article identifies the originals as held in Archivio AGIATI. The 4 July letter says the disc was found the previous evening (3 July); the 6 July letter reports both faces after cleaning. The online Halbherr inventory gives a plausible candidate: item 964, box 192, incoming Pe–Ph correspondence, six fascicoli/235 leaves. It does not name Pernier individually and prints anomalous dates “1905–1903”; archivist confirmation is required. This is a published transcription, not original-letter inspection. Image authorization remains NONE RECORDED / HOLD; no image bytes accessed.
