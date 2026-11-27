@@ -134,3 +134,5 @@ follow once this repo has had its own incident).
 - `steering/meetings/chatgpt-2026-11-26-cycle-187.md` — Meeting #89, cycle #187: corrects SAIA's July 1908 diary chronology and distinguishes the 1913 Porro letters; text-only, image HOLD preserved.
 - `logs/2026-11-26-saia-diary-chronology-correction.md` — text-only audit of the 4/5 July diary chronology and the 3/4/6 July correspondence as summarized by SAIA.
 - 2026-11-26: [SAIA open-access catalogue scope audit](logs/2026-11-26-saia-open-access-catalogue-scope-audit.md) — distinguishes general archive access from the currently exposed Halbherr-only open-access index.
+
+- [ChatGPT Steering Committee Meeting #90 — cycle #188](steering/meetings/chatgpt-2026-11-26-cycle-188.md) — SAIA chronology is secondary; exact Pernier inventory remains missing; image authorization HOLD is binding.
