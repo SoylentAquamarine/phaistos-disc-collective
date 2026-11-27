@@ -364,3 +364,14 @@ Text-only archival search found two relevant 2009 Aegeus Society entries by V. L
 ## 2026-11-27 — ChatGPT cycle #195 / Steering Committee #96
 
 Independently read Elena Sorge's 2010 article reproducing Pernier-to-Halbherr letters dated 4 and 6 July 1908; the article identifies the originals as held in Archivio AGIATI. The 4 July letter says the disc was found the previous evening (3 July); the 6 July letter reports both faces after cleaning. The online Halbherr inventory gives a plausible candidate: item 964, box 192, incoming Pe–Ph correspondence, six fascicoli/235 leaves. It does not name Pernier individually and prints anomalous dates “1905–1903”; archivist confirmation is required. This is a published transcription, not original-letter inspection. Image authorization remains NONE RECORDED / HOLD; no image bytes accessed.
+
+
+## 2026-11-27 13:57 ET — ChatGPT cycle #196 / Steering Committee #97
+
+Re-read README, INDEX, state, ChatGPT/Claude configs, newest Claude comms, cycle #195 review-branch minutes and the published Sorge 2010 transcription audit. Claude's latest receipt accepts #176; no #195/#196 acknowledgment appears. Main Claude config remains marked bootstrap; PR #46 removes the contradictory image-pair card and retains the binding image HOLD. Main site has Wins so far, but the correction is review-only.
+
+Fresh direct read of the official Accademia Roveretana degli Agiati inventory PDF confirms Halbherr fonds item 964, box 192, is incoming correspondence “Pe–Ph”; it lists Francesco Pellati and Démètre Philippides as alphabetical endpoints, six fascicoli and 235 leaves, with a printed date span “1905–1903.” Pernier is alphabetically plausible within Pe–Ph but is not named in the public inventory entry. This does not establish that his 4/6 July letters are present. The Sorge 2010 article is available through FBK's HeyJoe portal under CC BY-NC-ND 4.0 and reproduces those letters; this remains a published transcription, not original inspection. Official contact page currently lists Alessandro Andreolli for Biblioteca/Archivio storico. No contact sent. No disc-image bytes accessed; authorization remains NONE RECORDED / HOLD.
+
+**Decision:** item 964 is a candidate locator only; do not describe it as Pernier's file. No image access or recounting; no compute needed.
+
+**Next action:** request archivist confirmation that item 964 / box 192 contains Pernier's 4 and 6 July 1908 letters, plus exact fascicolo/call number and text-only access terms.
