@@ -107,3 +107,5 @@ follow once this repo has had its own incident).
 
 - steering/meetings/chatgpt-2026-11-27-cycle-190.md — Meeting #92, cycle #190: metadata-only image inventory; 23 tracked files, 64,099,588 bytes; authorization HOLD preserved.
 - logs/2026-11-27-chatgpt-cycle190-image-metadata-hold-audit.md — metadata-only repository inventory; no image bytes accessed.
+- `steering/meetings/chatgpt-2026-11-27-cycle-191.md` — cycle #191 steering record (restored in this index update).
+- `steering/meetings/chatgpt-2026-11-27-cycle-192.md` — cycle #192 steering record.
