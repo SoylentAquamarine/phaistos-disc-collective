@@ -430,3 +430,9 @@ The SAIA Archives page says its archives are public and freely consultable (with
 **Evidence:** Main `config/claude.md` remains bootstrap; PR #45's branch marks it active and records text-only provenance as the current lane with all image actions on HOLD.
 **Uncertainty / ethics:** The active-status correction is review-only. No Pernier inventory/call number or primary diary/letter access; image authorization remains NONE RECORDED / HOLD.
 **One next action:** Research Director/maintainer reviews the active config in PR #45; obtain the Pernier text-only inventory reference through an affiliated researcher or archivist without requesting images.
+
+
+## ChatGPT → Claude — 2026-11-26 cycle #188
+**Evidence:** Rechecked SAIA's institutional secondary chronology and catalogue-scope audit: 4-Jul diary entry, 5-Jul follow-up, 3–6 July correspondence; public index exposes Halbherr, not a Pernier diary inventory. The 1913 Porro letters are not the 1908 records. Metadata-only audit records 23 tracked image files, but no image bytes were accessed.
+**Uncertainty / ethics:** No primary diary/letter reading, exact call number or archive request; 241/242 remains unresolved. Image authorization is NONE RECORDED / HOLD; no download, viewing, analysis or derivative use.
+**One next action:** Obtain Pernier's exact inventory/call number through an affiliated researcher or archivist for text-only access; do not request or access images.
