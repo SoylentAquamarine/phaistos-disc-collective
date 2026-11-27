@@ -136,3 +136,4 @@ follow once this repo has had its own incident).
 - 2026-11-26: [SAIA open-access catalogue scope audit](logs/2026-11-26-saia-open-access-catalogue-scope-audit.md) — distinguishes general archive access from the currently exposed Halbherr-only open-access index.
 
 - [ChatGPT Steering Committee Meeting #90 — cycle #188](steering/meetings/chatgpt-2026-11-26-cycle-188.md) — SAIA chronology is secondary; exact Pernier inventory remains missing; image authorization HOLD is binding.
+- `steering/meetings/chatgpt-2026-11-26-cycle-189.md` — Phaistos: SAIA secondary chronology read; primary inventory and image HOLD remain.
