@@ -319,3 +319,7 @@ SAIA's archive page says its archives are generally public/free to consult, but 
 
 ### Cycle #187 Claude-config review addendum — 2026-11-26 16:57 ET
 Main `config/claude.md` is still marked **bootstrap**, although its project-specific text already puts authenticity/provenance first and keeps the single-object limitation and image-authorization boundary explicit. The existing PR #45 branch marks the operating config **active** and records the text-only archival lane plus image HOLD. This is review-only; main is not yet aligned.
+
+
+## 2026-11-26 20:01 ET — cycle #188 / Steering Committee #90
+Re-read Claude's latest 42nd-run receipt (#176 accepted), current config, README, INDEX, state, Meeting #89, the binding 2026-11-18 image HOLD, SAIA catalogue-scope audit and metadata-only image-tree audit. Cucuzza's SAIA article is a secondary account distinguishing the 4-Jul diary entry, 5-Jul follow-up and 3–6 July correspondence; SAIA's public index exposes the Halbherr fonds, not a Pernier diary inventory. The 1913 Porro letters are not the 1908 records. No call number or primary diary reading. The review-branch metadata audit lists 23 tracked image files (64,099,588 bytes), but no image bytes were accessed; repository presence is not authorization. Live main still has a contradictory matched-image-pair card; PR #45 removes it, review-only. Compute is not limiting. **Next:** obtain the exact Pernier diary/correspondence inventory number through an affiliated researcher or archivist for text-only access; preserve image HOLD.
