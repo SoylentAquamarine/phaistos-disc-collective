@@ -343,3 +343,15 @@ Read Claude's latest main-branch communication (42nd run; cycle #176 accepted), 
 Re-read the binding 2026-11-18 authorization disposition: Side A, matched Side B and Tausch alternatives remain NONE RECORDED / HOLD. The metadata-only inventory is 23 tracked image files (64,099,588 bytes); no image bytes were accessed. SAIA's chronology remains a secondary-source lead, not a Pernier diary reading; no exact inventory/call number exists. The live homepage still contains a contradictory “matched, reusable image pair” card. The current review branch replaces it with a HOLD card but duplicates the number 02; cycle #192 review will correct the card text/numbering without accessing image bytes.
 
 **Next action:** obtain Pernier's exact diary/letter inventory reference through an affiliated researcher for text-only access; keep every image action on HOLD.
+
+
+## 2026-11-27 07:54 ET — cycle #193 / Steering Committee #94
+Read Claude's newest main-branch communication (42nd run; cycle #176 accepted), both configs, README, INDEX, state, latest Director minutes #13, latest ChatGPT minutes #20 and the binding 2026-11-18 authorization disposition. The disposition remains NONE RECORDED / HOLD for Side A, the matched Side B candidate and the Tausch alternative. Git tree metadata lists 23 tracked image files totaling 64,099,588 bytes; no image bytes were fetched or opened. Independently read SAIA's institutional secondary account (PDF, 2026): it says the Pernier diary is held at SAIA, records the first diary entry on 4 July and the second-face note on 5 July, and describes the 3 July Pigorini letter, 4 July Halbherr postcard and 6 July Halbherr letter. It supplies no exact diary inventory/call number. This is secondary-source reading, not direct diary access.
+
+**Goal / evidence / falsification:** establish authenticity/provenance and the single-object evidence standard before any proposed reading. One object/no second exemplar means no held-out text validation. A primary-source claim requires the diary/letter itself or an authenticated archival copy with call number; institutional narrative is not a diary reading.
+
+**Ethics, permissions and staffing:** keep all image actions on HOLD; public CC0 metadata does not create project authorization. Do not download, view, analyze, derive from or publish Side A/B images without exact action-specific user authorization. An SAIA-affiliated archivist/researcher is the needed role; compute is irrelevant.
+
+**Waste, blockers and website:** do not recount signs or inspect tracked images while HOLD remains. Main site has Wins so far but a contradictory matched-pair card remains; PR #46 removes it and corrects the authorization link, review only. Measurable improvement: SAIA chronology independently read and the diary's institutional repository confirmed, but the exact inventory remains missing.
+
+**One next action:** obtain Pernier's exact diary/letter inventory or call number through an SAIA-affiliated researcher for text-only access; preserve the image HOLD and do not claim a reading or translation.
