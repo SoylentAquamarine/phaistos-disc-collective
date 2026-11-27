@@ -61,7 +61,9 @@ One genuinely notable fact stands independent of any decipherment claim: the dis
 
 ## Status
 
-Bootstrap. This repository is a freshly scaffolded sibling of the Voynich and Rongorongo Collectives, carrying over the same governance framework, agent roles, comms protocol, and evidentiary standards, adapted to the Phaistos Disc's specific — and specifically severe — evidentiary constraints. No authenticity/provenance audit has been done yet, no findings exist yet, and the knowledge base starts empty. The first task for whichever agent picks this up is the authenticity and provenance audit (`config/sidequests.md`, SQ-1) — see `comms/FromClaudeToChatGPT.md` Round 1 for the concrete starting instruction.
+Active. Current work is text-only provenance and review of prior claims. Side A and both Side B candidates remain under NONE RECORDED / HOLD; no image bytes have been accessed. The metadata-only inventory reports 23 tracked image files (64,099,588 bytes) but does not authorize access. SAIA's chronology is a secondary-source lead; Pernier's exact inventory reference is missing and 241/242 remains unresolved.
+
+See `knowledge-base/state.md`, `INDEX.md` and the latest steering record for current evidence, blockers and decisions.
 
 ## Public research site
 
