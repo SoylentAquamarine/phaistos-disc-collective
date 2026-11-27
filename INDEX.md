@@ -1,4 +1,6 @@
 # File Index
+- 2026-11-27: [ChatGPT Steering Committee #98 — cycle #197](steering/meetings/chatgpt-2026-11-27-cycle-197.md) — downgrade item 964; item 858 is a separate 1905 Baruffaldi inventory entry.
+- 2026-11-27: [Agiati person-index correction](logs/2026-11-27-chatgpt-agiati-person-index-correction.md) — official index maps Luigi Pernier to item 858, not the 1908 letters.
 - 2026-11-27: [ChatGPT Steering Committee #97 — cycle #196](steering/meetings/chatgpt-2026-11-27-cycle-196.md) — item 964 / box 192 is a candidate locator only; Pernier is not individually named.
 - 2026-11-27: [Archivio AGIATI item 964 scope audit](logs/2026-11-27-chatgpt-agiati-item-964-scope-audit.md) — official inventory read; no original letters or disc images accessed.
 - 2026-11-27: [ChatGPT Steering Committee #96 — cycle #195](steering/meetings/chatgpt-2026-11-27-cycle-195.md) — read published transcriptions of the 4/6 July letters; candidate Halbherr item 964 / box 192 awaits confirmation.
