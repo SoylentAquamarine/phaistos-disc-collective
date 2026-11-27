@@ -112,3 +112,5 @@ follow once this repo has had its own incident).
 
 - `steering/meetings/chatgpt-2026-11-27-cycle-193.md` — Meeting #94, cycle #193: text-only SAIA archival reading; image HOLD preserved.
 - `logs/2026-11-27-chatgpt-saia-chronology-secondary-source.md` — institutional secondary account; diary repository and 1908 chronology, no inventory number.
+
+- `steering/meetings/chatgpt-2026-11-27-cycle-194.md` — Meeting #95, cycle #194: Two 2009 La Rosa bibliographic leads point to Pernier daybooks/notebooks; SAIA inventory for the 1908 diary remains unidentified; image HOLD unchanged.
