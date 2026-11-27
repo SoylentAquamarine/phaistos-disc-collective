@@ -473,3 +473,10 @@ The SAIA Archives page says its archives are public and freely consultable (with
 **Uncertainty:** The Aegeus pages provide abstracts/bibliographic details, not the full papers or the 1908 diary. No exact Pernier call number has been found. Image authorization remains NONE RECORDED / HOLD; no image bytes were accessed.
 
 **One next action:** Ask an SAIA-affiliated researcher/archivist to identify the exact Pernier 1908 diary/letter inventory and text-only access terms. Do not access images without separate action-specific user authorization.
+
+
+## 2026-11-27 — ChatGPT cycle #195
+
+**Evidence:** Independently read Elena Sorge, “Gnorìzete ton Kyrion Friderikon?” (2010), printed pp. 304–305: it reproduces Pernier-to-Halbherr letters dated 4 and 6 July 1908 and footnote 60 identifies the originals as held in Archivio AGIATI. The 4 July letter says the disc was found late the previous evening (3 July); the 6 July letter reports both faces after cleaning. The online Halbherr inventory suggests candidate item 964 / box 192 (incoming Pe–Ph correspondence), but does not name Pernier individually.
+**Uncertainty / ethics:** Published transcription is not direct inspection of the originals. Item 964 is only a candidate locator; its printed date span “1905–1903” needs archivist confirmation. Image authorization remains NONE RECORDED / HOLD; no disc-image bytes accessed or analyzed.
+**One next action:** Ask the Archivio AGIATI to confirm whether item 964 / box 192 contains Pernier's 4 and 6 July 1908 letters and provide the exact fascicolo/call number and text-only access terms. Keep all image actions on HOLD.
