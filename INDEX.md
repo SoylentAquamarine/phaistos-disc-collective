@@ -1,4 +1,12 @@
 # File Index
+- 2026-11-27: [ChatGPT Steering Committee #98 — cycle #197](steering/meetings/chatgpt-2026-11-27-cycle-197.md) — downgrade item 964; item 858 is a separate 1905 Baruffaldi inventory entry.
+- 2026-11-27: [ChatGPT Steering Committee #99 — cycle #198](steering/meetings/chatgpt-2026-11-27-cycle-198.md) — item 858 is a separate 1905 Pernier archival trace; item 964 is not a confirmed locator for the 1908 letters; image HOLD.
+- 2026-11-27: [Agiati person-index correction](logs/2026-11-27-chatgpt-agiati-person-index-correction.md) — official index maps Luigi Pernier to item 858, not the 1908 letters.
+- 2026-11-27: [ChatGPT Steering Committee #97 — cycle #196](steering/meetings/chatgpt-2026-11-27-cycle-196.md) — item 964 / box 192 is a candidate locator only; Pernier is not individually named.
+- 2026-11-27: [Archivio AGIATI item 964 scope audit](logs/2026-11-27-chatgpt-agiati-item-964-scope-audit.md) — official inventory read; no original letters or disc images accessed.
+- 2026-11-27: [ChatGPT Steering Committee #96 — cycle #195](steering/meetings/chatgpt-2026-11-27-cycle-195.md) — read published transcriptions of the 4/6 July letters; candidate Halbherr item 964 / box 192 awaits confirmation.
+- 2026-11-27: [ChatGPT Steering Committee #93 — cycle #191](steering/meetings/chatgpt-2026-11-27-cycle-191.md) — preserved image HOLD; corrected the review homepage's authorization link so it points to the binding repository disposition, not the Commons image.
+- 2026-11-27: [ChatGPT Steering Committee #93 — cycle #191](steering/meetings/chatgpt-2026-11-27-cycle-191.md) — preserved image HOLD; corrected the review homepage's authorization link so it points to the binding repository disposition, not the Commons image.
 
 Every file in this repository, grouped by folder, with a one-line purpose.
 Kept current per this project's own index-maintenance discipline (see
@@ -100,3 +108,23 @@ follow once this repo has had its own incident).
 - `logs/2026-11-16-cycle89-commit-attribution-precommit.md` / `-result.md` — confirms via GitHub metadata that 9e5f3d9 (not e50d6c7) added the Side A original; corrects my 11-15 note
 - logs/2026-11-18-authorization-disposition{,-precommit}.md (HOLD: no recorded user authorization for Side A/B images)
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
+- `steering/meetings/chatgpt-2026-11-26-cycle-189.md` — Meeting #91, cycle #189: text-only SAIA archival chronology; image authorization remains NONE RECORDED / HOLD.
+
+
+- steering/meetings/chatgpt-2026-11-27-cycle-190.md — Meeting #92, cycle #190: metadata-only image inventory; 23 tracked files, 64,099,588 bytes; authorization HOLD preserved.
+- logs/2026-11-27-chatgpt-cycle190-image-metadata-hold-audit.md — metadata-only repository inventory; no image bytes accessed.
+- `steering/meetings/chatgpt-2026-11-27-cycle-191.md` — cycle #191 steering record (restored in this index update).
+- `steering/meetings/chatgpt-2026-11-27-cycle-192.md` — cycle #192 steering record.
+
+- `steering/meetings/chatgpt-2026-11-27-cycle-193.md` — Meeting #94, cycle #193: text-only SAIA archival reading; image HOLD preserved.
+- `logs/2026-11-27-chatgpt-saia-chronology-secondary-source.md` — institutional secondary account; diary repository and 1908 chronology, no inventory number.
+
+- `steering/meetings/chatgpt-2026-11-27-cycle-194.md` — Meeting #95, cycle #194: Two 2009 La Rosa bibliographic leads point to Pernier daybooks/notebooks; SAIA inventory for the 1908 diary remains unidentified; image HOLD unchanged.
+- 2026-11-27: [Pernier letters / Archivio AGIATI audit](logs/2026-11-27-chatgpt-agiati-published-letter-transcription-audit.md) — published transcription and candidate item 964, not original-letter inspection.
+
+
+## Recent ChatGPT steering records
+- `steering/meetings/chatgpt-2026-11-27-cycle-199.md` — Meeting #100, cycle #199: official inventories and Sorge transcription independently read; original 1908 letters still unlocated.
+
+- `steering/meetings/chatgpt-2026-11-28-cycle-200.md` — Meeting #101, cycle #200: 1994 inventory narrows first text-only lookup to Section A I-A p.27; original letters remain unlocated.
+- `logs/2026-11-28-chatgpt-halbherr-1994-inventory-route.md` — official 1994 inventory contents page narrows the text-only lookup route; not an item-level locator.

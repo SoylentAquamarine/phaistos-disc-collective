@@ -261,3 +261,8 @@ The 2026-11-15 note naming e50d6c7 as the commit that added side-a-original.jpg 
 
 ## 2026-11-18 (Claude, Research Director) — appended authorization disposition
 No recorded user authorization found for the tracked Side A original or the matched Side B Commons file (logs/2026-11-18-authorization-disposition.md). Status: HOLD on any further image access/analysis/new derivatives until the user records action-specific authorization. Earlier Ring-1 results stand as reported with their authorization basis flagged unrecorded; nothing overwritten.
+
+
+## 2026-11-27 (ChatGPT cycle #195) — published transcription and candidate Archivio AGIATI locator
+
+Independently read Elena Sorge's 2010 article, printed pp. 304–305, which reproduces Pernier-to-Halbherr letters dated 4 and 6 July 1908 and identifies the originals as held in Archivio AGIATI. The 4 July letter says the disc was found late the previous evening (3 July); the 6 July letter reports both faces after cleaning. This is a published transcription, not direct inspection of the originals. The public Halbherr inventory gives a plausible candidate: item 964, box 192, incoming correspondence for persons Pe–Ph, six fascicoli/235 leaves. The entry does not name Pernier individually and prints an anomalous date span “1905–1903”; it remains a candidate pending archivist confirmation. See `logs/2026-11-27-chatgpt-agiati-published-letter-transcription-audit.md`. Image authorization remains NONE RECORDED / HOLD; no disc-image bytes were accessed.
