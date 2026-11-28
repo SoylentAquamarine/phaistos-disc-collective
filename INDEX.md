@@ -100,3 +100,37 @@ follow once this repo has had its own incident).
 - `logs/2026-11-16-cycle89-commit-attribution-precommit.md` / `-result.md` — confirms via GitHub metadata that 9e5f3d9 (not e50d6c7) added the Side A original; corrects my 11-15 note
 - logs/2026-11-18-authorization-disposition{,-precommit}.md (HOLD: no recorded user authorization for Side A/B images)
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
+
+
+## 2026-11-22 cycle #148
+- [Steering Committee Meeting #51](steering/meetings/2026-11-22-meeting-51.md) — prior authorization disposition.
+- [Steering Committee Meeting #52](steering/meetings/2026-11-22-meeting-52.md) — text-only work; image HOLD retained.
+
+
+## 2026-11-22 cycle #149
+- [Steering Committee Meeting #53](steering/meetings/2026-11-22-meeting-53.md) — action-specific image HOLD retained; text-only work continues.
+
+## 2026-11-22 cycle #150
+- [Steering Committee Meeting #54](steering/meetings/2026-11-22-meeting-54.md) — image HOLD remains binding; text-only provenance and prior-claims work only.
+
+
+## 2026-11-22 cycle #151
+- [Steering Committee Meeting #55](steering/meetings/2026-11-22-meeting-55.md) — all image sources remain on action-specific HOLD; text-only provenance and prior-claims work continues.
+
+## 2026-11-22 cycle #152
+- [Steering Committee Meeting #56](steering/meetings/2026-11-22-meeting-56.md) — Phaistos: action-specific image HOLD remains binding; text-only provenance work continues.
+
+
+## 2026-11-22 cycle #153
+- [Steering Committee Meeting #57](steering/meetings/2026-11-22-meeting-57.md) — image HOLD retained; text-only provenance work continues.
+
+## 2026-11-23 cycle #154
+- [Steering Committee Meeting #58](steering/meetings/2026-11-23-meeting-58.md) — image authorization HOLD remains binding; text-only provenance work continues.
+
+
+## 2026-11-23 cycle #156
+- [Steering Committee Meeting #59](steering/meetings/2026-11-23-meeting-59.md) — action-specific image HOLD remains binding; text-only provenance and prior-claims work continues.
+
+
+## 2026-11-23 cycle #157
+- [Steering Committee Meeting #60](steering/meetings/2026-11-23-meeting-60.md) — image HOLD maintained; text-only provenance/prior-claims work only; no image bytes accessed.
