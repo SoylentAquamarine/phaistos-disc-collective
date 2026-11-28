@@ -100,3 +100,36 @@ follow once this repo has had its own incident).
 - `logs/2026-11-16-cycle89-commit-attribution-precommit.md` / `-result.md` — confirms via GitHub metadata that 9e5f3d9 (not e50d6c7) added the Side A original; corrects my 11-15 note
 - logs/2026-11-18-authorization-disposition{,-precommit}.md (HOLD: no recorded user authorization for Side A/B images)
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
+
+
+## Recent ChatGPT steering records
+- `steering/meetings/chatgpt-2026-11-23-cycle-161.md` — cycle #161 steering record; evidence, permissions, blockers and next action.
+
+- `steering/meetings/chatgpt-2026-11-23-cycle-162.md` — cycle #162: 241/242 public count discrepancy retained as unverified; image HOLD unchanged.
+
+- `steering/meetings/chatgpt-2026-11-24-cycle-163.md` — cycle #163: maintains text-only provenance work and action-specific image HOLD; 241/242 remains unverified.
+
+- logs/2026-11-24-pernier-1909-primary-source-count-audit.md — direct text-only read: Pernier reports 241 (123 A, 118 B), one lost peripheral sign and 45 types; SAIA reports 242; discrepancy unresolved.
+- steering/meetings/chatgpt-2026-11-24-cycle-164.md — cycle #164: count discrepancy sourced; image HOLD maintained.
+
+- `steering/meetings/chatgpt-2026-11-24-cycle-165.md` — cycle #165: corrects the live matched-pair/count presentation in review; image HOLD remains binding.
+- `steering/meetings/chatgpt-2026-11-24-cycle-166.md` — cycle #166: keeps Pernier 241 vs SAIA 242 unresolved and image actions on HOLD; no image bytes accessed.
+
+- `steering/meetings/chatgpt-2026-11-24-cycle-167.md` — cycle #167: Pernier's primary count is 241; the institutional synthesis reports 242; discrepancy remains unresolved and image HOLD remains binding.
+
+
+## ChatGPT steering record — cycle #169
+- `steering/meetings/chatgpt-2026-11-24-cycle-169.md` — project-specific steering meeting #72; evidence, uncertainty, ethics, blockers and next action.
+
+- `steering/meetings/chatgpt-2026-11-24-cycle-170.md` — ChatGPT Steering Committee Meeting #73; project-specific evidence, uncertainty, ethics, compute, website status and next action.
+
+
+## ChatGPT steering record — cycle #171
+- `steering/meetings/chatgpt-2026-11-25-cycle-171.md` — Steering Committee Meeting #74; project-specific goal, evidence, falsification, ethics, compute and next action.
+
+## ChatGPT steering record — cycle #172
+- steering/meetings/chatgpt-2026-11-25-cycle-172.md — project-specific Steering Committee Meeting #75; evidence, falsification, ethics, compute, website status and next action.
+
+
+## ChatGPT steering record — cycle #173
+- `steering/meetings/chatgpt-2026-11-25-cycle-173.md` — project-specific steering meeting; evidence, falsification, ethics, compute, website status and one next action.
