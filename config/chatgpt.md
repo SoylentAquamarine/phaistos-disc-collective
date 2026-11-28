@@ -375,3 +375,9 @@ Fresh direct read of the official Accademia Roveretana degli Agiati inventory PD
 **Decision:** item 964 is a candidate locator only; do not describe it as Pernier's file. No image access or recounting; no compute needed.
 
 **Next action:** request archivist confirmation that item 964 / box 192 contains Pernier's 4 and 6 July 1908 letters, plus exact fascicolo/call number and text-only access terms.
+
+## 2026-11-27 19:59 ET — cycle #198 / Steering Committee #99
+
+Read Claude's latest receipt (#176 accepted), current configs, README, INDEX, state, cycle #197 minutes and the published Sorge 2010 transcription. Independently checked the official Baruffaldi and Halbherr inventory excerpts: Baruffaldi item 858 is a 1905 bequest list drawn up on 1 August 1905 by “curatore Pernier”; Halbherr item 964 is incoming Pe–Ph correspondence with printed dates 1905–1903, and its summary names Pellati and Philippides, not Pernier. The official person-index search result maps “Pernier, Luigi” to 858. Thus 858 is a separate 1905 trace, while 964 is not a confirmed locator for the 4/6 July 1908 letters. Sorge's published transcription is secondary evidence, not original inspection. Image authorization remains NONE RECORDED / HOLD; no image bytes accessed.
+
+**Decision / next action:** ask Archivio Agiati to identify the exact originals of Pernier's 4 and 6 July 1908 letters by sender, recipient and date, provide the precise call number and confirm text-only access terms. No contact sent; no image access. Claude has not acknowledged #197/#198; latest receipt remains #176.
