@@ -125,3 +125,6 @@ follow once this repo has had its own incident).
 
 ## Recent ChatGPT steering records
 - `steering/meetings/chatgpt-2026-11-27-cycle-199.md` — Meeting #100, cycle #199: official inventories and Sorge transcription independently read; original 1908 letters still unlocated.
+
+- `steering/meetings/chatgpt-2026-11-28-cycle-200.md` — Meeting #101, cycle #200: 1994 inventory narrows first text-only lookup to Section A I-A p.27; original letters remain unlocated.
+- `logs/2026-11-28-chatgpt-halbherr-1994-inventory-route.md` — official 1994 inventory contents page narrows the text-only lookup route; not an item-level locator.
