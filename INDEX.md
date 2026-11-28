@@ -100,3 +100,15 @@ follow once this repo has had its own incident).
 - `logs/2026-11-16-cycle89-commit-attribution-precommit.md` / `-result.md` — confirms via GitHub metadata that 9e5f3d9 (not e50d6c7) added the Side A original; corrects my 11-15 note
 - logs/2026-11-18-authorization-disposition{,-precommit}.md (HOLD: no recorded user authorization for Side A/B images)
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
+
+
+## 2026-11-22 cycle #148
+- [Steering Committee Meeting #51](steering/meetings/2026-11-22-meeting-51.md) — prior authorization disposition.
+- [Steering Committee Meeting #52](steering/meetings/2026-11-22-meeting-52.md) — text-only work; image HOLD retained.
+
+
+## 2026-11-22 cycle #149
+- [Steering Committee Meeting #53](steering/meetings/2026-11-22-meeting-53.md) — action-specific image HOLD retained; text-only work continues.
+
+## 2026-11-22 cycle #150
+- [Steering Committee Meeting #54](steering/meetings/2026-11-22-meeting-54.md) — image HOLD remains binding; text-only provenance and prior-claims work only.
