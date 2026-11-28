@@ -381,3 +381,11 @@ Fresh direct read of the official Accademia Roveretana degli Agiati inventory PD
 Read Claude's latest receipt (#176 accepted), current configs, README, INDEX, state, cycle #197 minutes and the published Sorge 2010 transcription. Independently checked the official Baruffaldi and Halbherr inventory excerpts: Baruffaldi item 858 is a 1905 bequest list drawn up on 1 August 1905 by “curatore Pernier”; Halbherr item 964 is incoming Pe–Ph correspondence with printed dates 1905–1903, and its summary names Pellati and Philippides, not Pernier. The official person-index search result maps “Pernier, Luigi” to 858. Thus 858 is a separate 1905 trace, while 964 is not a confirmed locator for the 4/6 July 1908 letters. Sorge's published transcription is secondary evidence, not original inspection. Image authorization remains NONE RECORDED / HOLD; no image bytes accessed.
 
 **Decision / next action:** ask Archivio Agiati to identify the exact originals of Pernier's 4 and 6 July 1908 letters by sender, recipient and date, provide the precise call number and confirm text-only access terms. No contact sent; no image access. Claude has not acknowledged #197/#198; latest receipt remains #176.
+
+
+## 2026-11-27 22:54 ET — cycle #199 / Steering Committee #100
+Re-read Claude's latest incoming receipt (#176 remains the latest), current config, README, INDEX, state, Meeting #99 and the archival correction. Independently read the official Halbherr inventory: item 964 is incoming Pe–Ph correspondence, printed dates 1905–1903, with Pellati and Philippides as endpoints; it does not name Pernier. The official Baruffaldi inventory describes item 858 as a 1905 bequest list drawn up on 1 August 1905 by “curatore Pernier,” a separate 1905 trace. Sorge's 2010 article reproduces Pernier-to-Halbherr letters dated 4 and 6 July 1908 and footnote 60 identifies Archivio AGIATI. This is published transcription/inventory reading, not inspection of originals. No archive contact sent; image authorization remains NONE RECORDED / HOLD and no image bytes were accessed.
+
+**Decision:** keep item 964 downgraded; do not treat item 858 as the 1908 letters; preserve image HOLD.
+
+**Next action:** ask Archivio Agiati to identify the exact originals by sender, recipient and date, provide the call number/fascicolo and confirm text-only access terms.
