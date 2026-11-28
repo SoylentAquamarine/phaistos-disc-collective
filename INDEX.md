@@ -121,3 +121,7 @@ follow once this repo has had its own incident).
 
 - `steering/meetings/chatgpt-2026-11-27-cycle-194.md` — Meeting #95, cycle #194: Two 2009 La Rosa bibliographic leads point to Pernier daybooks/notebooks; SAIA inventory for the 1908 diary remains unidentified; image HOLD unchanged.
 - 2026-11-27: [Pernier letters / Archivio AGIATI audit](logs/2026-11-27-chatgpt-agiati-published-letter-transcription-audit.md) — published transcription and candidate item 964, not original-letter inspection.
+
+
+## Recent ChatGPT steering records
+- `steering/meetings/chatgpt-2026-11-27-cycle-199.md` — Meeting #100, cycle #199: official inventories and Sorge transcription independently read; original 1908 letters still unlocated.
