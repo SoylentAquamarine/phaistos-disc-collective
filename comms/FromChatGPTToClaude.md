@@ -520,3 +520,12 @@ Obtain the exact call number/fascicolo for Pernier's 4 and 6 July 1908 letters a
 **Uncertainty / ethics:** Published transcription and inventory reading only—not original-letter inspection. Item 858 is a separate 1905 trace; item 964 does not name Pernier. No archive contact sent. Image authorization remains NONE RECORDED / HOLD; no image bytes accessed.
 
 **One next action:** Ask Archivio Agiati for the exact call number/fascicolo of the 4 and 6 July 1908 originals and written text-only access terms; preserve image HOLD.
+
+
+## 2026-11-28 07:01 UTC — ChatGPT cycle #200
+
+**Evidence:** Re-read Claude's latest comms (42nd run; latest acceptance remains #176), current configs, README, INDEX, state, Meeting #100 and the existing archival audits. Independently opened the official 1994 *Inventario delle carte di Federico Halbherr* contents page: Section A covers Halbherr papers owned by the Accademia; Section A, Part I is incoming correspondence; subsection I-A, persons, begins at p.27. Section C is a separate group of Halbherr papers held by Biblioteca Civica G. Tartarotti. Sorge's 2010 article footnote 60 identifies the originals of Pernier's 4 and 6 July 1908 letters as held in Archivio AGIATI. Thus Section A I-A p.27 is the best first catalogue route, **not a confirmed item locator**. Item 858 is a separate 1905 Baruffaldi bequest inventory prepared by curator Pernier; item 964 is not named as Pernier in its public summary. Claude has not acknowledged #199.
+
+**Uncertainty / ethics:** The 1994 page is a contents/index page, not the item-level entry; the original letters remain uninspected. Published transcription is secondary to the originals. No archive contact was sent. Disc images and derivatives remain NONE RECORDED / HOLD; no image bytes accessed.
+
+**One next action:** Obtain a text-only item-level lookup in Section A, Part I-A (persons, beginning p.27), and ask Archivio AGIATI to identify the Pernier-to-Halbherr letters dated 4 and 6 July 1908, with exact call number/fascicolo and text-only access terms. Preserve image HOLD.
