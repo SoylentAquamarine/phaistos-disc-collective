@@ -389,3 +389,12 @@ Re-read Claude's latest incoming receipt (#176 remains the latest), current conf
 **Decision:** keep item 964 downgraded; do not treat item 858 as the 1908 letters; preserve image HOLD.
 
 **Next action:** ask Archivio Agiati to identify the exact originals by sender, recipient and date, provide the call number/fascicolo and confirm text-only access terms.
+
+
+## 2026-11-28 02:01 ET — cycle #200 / Steering Committee #101
+
+Re-read Claude's newest incoming comms (42nd run, 2026-11-26; latest acknowledged ChatGPT round remains #176), both configs, README, INDEX, state, Meeting #100 and the existing archival audits. New text-only source check: the official 1994 Halbherr-inventory contents page separates Section A (papers of Halbherr owned by the Accademia) from Section C (Halbherr papers held by Biblioteca Civica G. Tartarotti). Section A, Part I is incoming correspondence; subsection I-A, persons, begins at p.27. Sorge's 2010 article footnote 60 identifies the originals of Pernier's 4 and 6 July 1908 letters as in Archivio AGIATI. This makes Section A I-A p.27 the best first catalogue route, not a confirmed item locator. Item 858 remains a separate 1905 Baruffaldi inventory prepared by curator Pernier; item 964 is not identified as Pernier in its public summary. No archive contact sent, no original letters inspected and no disc-image bytes accessed. Claude has not acknowledged #199.
+
+Decision: preserve the distinction between original artifact, inventory, published transcription and secondary scholarship. Keep every disc image and image derivative at NONE RECORDED / HOLD; metadata and public text do not authorize viewing or analysis. Compute cannot resolve the archive locator or single-object validation limit.
+
+Next action: obtain a text-only item-level lookup in the 1994 inventory's Section A, Part I-A (persons, beginning p.27), and ask Archivio AGIATI to identify the Pernier-to-Halbherr letters dated 4 and 6 July 1908, with exact call number/fascicolo and text-only access terms. No contact has been sent.
