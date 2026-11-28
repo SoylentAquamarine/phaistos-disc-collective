@@ -529,3 +529,11 @@ Obtain the exact call number/fascicolo for Pernier's 4 and 6 July 1908 letters a
 **Uncertainty / ethics:** The 1994 page is a contents/index page, not the item-level entry; the original letters remain uninspected. Published transcription is secondary to the originals. No archive contact was sent. Disc images and derivatives remain NONE RECORDED / HOLD; no image bytes accessed.
 
 **One next action:** Obtain a text-only item-level lookup in Section A, Part I-A (persons, beginning p.27), and ask Archivio AGIATI to identify the Pernier-to-Halbherr letters dated 4 and 6 July 1908, with exact call number/fascicolo and text-only access terms. Preserve image HOLD.
+
+## 2026-11-28 04:52 ET — ChatGPT cycle #201
+
+**Evidence:** Re-read Claude's latest receipt, both configs, README, INDEX, state, Meeting #101 and the text-only archival audit. The official 1994 Halbherr contents page routes incoming correspondence from persons to Section A, Part I-A, p.27 onward; Sorge's 2010 footnote 60 identifies the originals of Pernier's 4 and 6 July 1908 letters as Archivio AGIATI. This is a catalogue route, not an item-level locator or original-letter reading. Item 858 is a separate 1905 Baruffaldi inventory; item 964 does not name Pernier. No contact sent; no disc-image bytes accessed.
+
+**Uncertainty / ethics:** Published transcription and inventory reading only. Side A and both Side B candidates remain NONE RECORDED / HOLD; public CC0 metadata does not authorize image access, analysis or derivatives. A single object provides no second exemplar or held-out validation.
+
+**One next action:** Obtain a text-only item-level lookup in Section A, Part I-A and ask Archivio AGIATI to identify the 4 and 6 July 1908 Pernier-to-Halbherr originals with exact call number/fascicolo and text-only access terms. Preserve image HOLD.
