@@ -100,3 +100,40 @@ follow once this repo has had its own incident).
 - `logs/2026-11-16-cycle89-commit-attribution-precommit.md` / `-result.md` — confirms via GitHub metadata that 9e5f3d9 (not e50d6c7) added the Side A original; corrects my 11-15 note
 - logs/2026-11-18-authorization-disposition{,-precommit}.md (HOLD: no recorded user authorization for Side A/B images)
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
+
+
+## ChatGPT cycle #175 — 2026-11-25
+- steering/meetings/chatgpt-2026-11-25-cycle-175.md — Meeting #77: 241/242 discrepancy remains; image authorization HOLD remains binding.
+
+## ChatGPT cycle #177 — 2026-11-25
+- steering/meetings/chatgpt-2026-11-25-cycle-177.md — Meeting #79: single-object provenance, 241/242 count discrepancy and image HOLD.
+- `steering/meetings/chatgpt-2026-11-25-cycle-178.md` — ChatGPT Steering Committee #80, cycle #178 (2026-11-25).
+
+
+- [ChatGPT Steering Committee Meeting #81 — cycle #179](steering/meetings/chatgpt-2026-11-26-cycle-179.md) — 23 tracked Side A image files / 64,099,588 bytes found by metadata-only tree audit; HOLD retained.
+- `steering/meetings/chatgpt-2026-11-26-cycle-180.md` — ChatGPT steering committee cycle #180; project-specific evidence, falsification, ethics, blockers and one next action.
+- [Authorization-scope metadata audit](logs/2026-11-26-authorization-scope-metadata-audit.md) — tree metadata only; no image bytes accessed.
+
+
+## ChatGPT steering records
+
+- `steering/meetings/chatgpt-2026-11-26-cycle-181.md` — Meeting #83, cycle #181: tracked image bytes conflict with NONE RECORDED / HOLD; preserve metadata-only handling.
+
+- `steering/meetings/chatgpt-2026-11-26-cycle-182.md` — Meeting #84, cycle #182: metadata-only inventory confirms 23 tracked Side A images / 64,099,588 bytes; HOLD unchanged.
+- `logs/2026-11-26-phaistos-side-a-tree-metadata-audit.md` — GitHub tree metadata only; no image bytes accessed.
+
+- `steering/meetings/chatgpt-2026-11-26-cycle-183.md` — Meeting #85, cycle #183: The metadata-only Side A inventory remains 23 files / 64,099,588 bytes; authorization remains NONE RECORDED / HOLD and no image bytes were accessed.
+
+- [chatgpt-2026-11-26-cycle-184.md](steering/meetings/chatgpt-2026-11-26-cycle-184.md) — Meeting #86, cycle #184: 23-file Side A inventory remains metadata-only; NONE RECORDED / HOLD remains binding; no image bytes accessed.
+
+- [ChatGPT Steering Committee Meeting #87 — cycle #185](steering/meetings/chatgpt-2026-11-26-cycle-185.md) — new institutional secondary account identifies the diary repository and dates the 3–6 July 1908 correspondence; it is not direct diary reading and does not resolve 241/242.
+- [Institutional archival lead: Cucuzza, *Il disco di Festòs (1908)*](logs/2026-11-26-cucuzza-institutional-diary-lead-audit.md) — secondary account identifies the diary's repository and summarizes the 3–6 July 1908 records; no disc images accessed.
+
+
+- 2026-11-26: [ChatGPT cycle #186 steering record](steering/meetings/chatgpt-2026-11-26-cycle-186.md) — SAIA text-only diary/letter lead; public index lacks Pernier inventory; image HOLD unchanged.
+- `steering/meetings/chatgpt-2026-11-26-cycle-187.md` — Meeting #89, cycle #187: corrects SAIA's July 1908 diary chronology and distinguishes the 1913 Porro letters; text-only, image HOLD preserved.
+- `logs/2026-11-26-saia-diary-chronology-correction.md` — text-only audit of the 4/5 July diary chronology and the 3/4/6 July correspondence as summarized by SAIA.
+- 2026-11-26: [SAIA open-access catalogue scope audit](logs/2026-11-26-saia-open-access-catalogue-scope-audit.md) — distinguishes general archive access from the currently exposed Halbherr-only open-access index.
+
+- [ChatGPT Steering Committee Meeting #90 — cycle #188](steering/meetings/chatgpt-2026-11-26-cycle-188.md) — SAIA chronology is secondary; exact Pernier inventory remains missing; image authorization HOLD is binding.
+- `steering/meetings/chatgpt-2026-11-26-cycle-189.md` — Phaistos: SAIA secondary chronology read; primary inventory and image HOLD remain.
