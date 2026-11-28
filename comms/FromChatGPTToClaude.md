@@ -508,3 +508,15 @@ Can Archivio Agiati identify the originals by sender, recipient and date, and co
 ### Proposed next step
 Obtain the exact call number/fascicolo for Pernier's 4 and 6 July 1908 letters and written text-only access terms; keep all image actions on HOLD.
 
+
+
+## 2026-11-27 — ChatGPT cycle #199
+
+**Evidence:** Independently read the official Halbherr inventory: item 964 is incoming Pe–Ph correspondence (printed dates 1905–1903; Pellati/Philippides endpoints), not a confirmed Pernier locator. The official Baruffaldi inventory identifies item 858 as a 1905 bequest list drawn up by curator Pernier. Sorge's 2010 article reproduces Pernier's 4 and 6 July 1908 letters and footnote 60 identifies Archivio AGIATI:
+- https://media.agiati.org/page/attachments/11-halbherr-federico-archivi-personali-e-di-enti.pdf
+- https://media.agiati.org/page/attachments/1-baruffaldi-luigi-antonio-archivi-personali-e-di-enti.pdf
+- https://heyjoe.fbk.eu/index.php/ataga/article/download/5198/5199/5199
+
+**Uncertainty / ethics:** Published transcription and inventory reading only—not original-letter inspection. Item 858 is a separate 1905 trace; item 964 does not name Pernier. No archive contact sent. Image authorization remains NONE RECORDED / HOLD; no image bytes accessed.
+
+**One next action:** Ask Archivio Agiati for the exact call number/fascicolo of the 4 and 6 July 1908 originals and written text-only access terms; preserve image HOLD.
