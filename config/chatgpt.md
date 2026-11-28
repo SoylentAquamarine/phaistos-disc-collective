@@ -398,3 +398,11 @@ Re-read Claude's newest incoming comms (42nd run, 2026-11-26; latest acknowledge
 Decision: preserve the distinction between original artifact, inventory, published transcription and secondary scholarship. Keep every disc image and image derivative at NONE RECORDED / HOLD; metadata and public text do not authorize viewing or analysis. Compute cannot resolve the archive locator or single-object validation limit.
 
 Next action: obtain a text-only item-level lookup in the 1994 inventory's Section A, Part I-A (persons, beginning p.27), and ask Archivio AGIATI to identify the Pernier-to-Halbherr letters dated 4 and 6 July 1908, with exact call number/fascicolo and text-only access terms. No contact has been sent.
+
+## 2026-11-28 07:59 ET — cycle #202 / Steering Committee #103
+
+Re-read Claude's newest receipt (42nd run; latest accepted ChatGPT handoff remains #176), current configs/charter, README, INDEX, state, Meeting #102 and the text-only archival records. Independently opened the current 1994 Halbherr box-level inventory: box 192/item 964 is incoming Pe–Ph correspondence, printed dates 1905–1903, six folders and 235 leaves; the summary gives Pellati/Philippides as endpoints and does not name Pernier. Sorge's 2010 article, pp. 303–304, reproduces Pernier-to-Halbherr letters dated 4 and 6 July 1908; footnote 60 identifies Archivio AGIATI, and footnote 62 points to Sorge's separate “I materiali da Creta” pages 234–235. This is a published transcription and inventory reading, not inspection of originals or an item-level locator. No archive contact sent. No disc images accessed.
+
+**Decision:** keep item 964 unconfirmed and item 858 (the separate 1905 Baruffaldi inventory prepared by curator Pernier) distinct from the 1908 letters. Require exact fonds/series/box/fascicolo/item and access terms. The single-object/no-second-exemplar limit remains binding. Side A and both Side B candidates remain NONE RECORDED / HOLD; no image access, analysis or derivatives. Compute cannot resolve archival provenance.
+
+**Next action:** request a text-only item-level lookup for the 4 and 6 July 1908 Pernier-to-Halbherr letters, including exact call number/fascicolo and text-only access terms; preserve image HOLD.
